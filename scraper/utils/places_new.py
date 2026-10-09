@@ -15,16 +15,83 @@ Public surface:
 Status mapping: HTTP 401/403 -> REQUEST_DENIED, 429 -> OVER_QUERY_LIMIT,
 400 -> INVALID_REQUEST, 404 -> NOT_FOUND, no hits -> ZERO_RESULTS, else OK.
 """
+import hashlib
+import json
+import os
+import time
+from pathlib import Path
 from typing import Optional
 
 import requests
 
 BASE = "https://places.googleapis.com/v1"
 
+# Phone/website are requested in the SEARCH mask. That bills each search at the
+# Enterprise rate (~$35/1k) but returns phone+website for all <=20 places, so the
+# separate per-place Details call (~$20/1k *per place*) is almost never needed.
 _SEARCH_MASK = (
     "places.id,places.displayName,places.formattedAddress,places.location,"
-    "places.businessStatus,places.types,nextPageToken"
+    "places.businessStatus,places.types,places.nationalPhoneNumber,places.websiteUri,"
+    "nextPageToken"
 )
+
+# ---- cost controls: disk cache, in-process place memo, hard request cap ----------
+CACHE_DIR = Path(os.environ.get("PLACES_CACHE_DIR",
+                                Path(__file__).resolve().parents[2] / "data" / "places_cache"))
+CACHE_TTL_DAYS = 30  # don't keep Places content longer than ~30 days (Google terms)
+MAX_REQUESTS = int(os.environ.get("PLACES_MAX_REQUESTS", "400"))  # live calls per process
+STATS = {"live_search": 0, "live_details": 0, "cache_hits": 0, "memo_hits": 0}
+_PLACE_MEMO: dict = {}  # place_id -> legacy-shaped place seen via a search
+_MEMO_FIELDS = {"name", "formatted_address", "formatted_phone_number", "website",
+                "geometry", "business_status", "type", "types", "place_id"}
+
+
+class BudgetExceeded(RuntimeError):
+    """Raised when the per-run live-request cap is hit. Stop and tell Aidan."""
+
+
+def _cache_file(kind: str, key: str) -> Path:
+    return CACHE_DIR / f"{kind}_{hashlib.sha1(key.encode()).hexdigest()}.json"
+
+
+def _cache_get(kind: str, key: str):
+    f = _cache_file(kind, key)
+    try:
+        if f.exists() and time.time() - f.stat().st_mtime < CACHE_TTL_DAYS * 86400:
+            STATS["cache_hits"] += 1
+            return json.loads(f.read_text())
+    except (OSError, ValueError):
+        pass
+    return None
+
+
+def _cache_put(kind: str, key: str, value: dict):
+    if value.get("status") not in ("OK", "ZERO_RESULTS"):
+        return  # never cache errors
+    try:
+        CACHE_DIR.mkdir(parents=True, exist_ok=True)
+        _cache_file(kind, key).write_text(json.dumps(value))
+    except OSError:
+        pass
+
+
+def _spend(kind: str):
+    if STATS["live_search"] + STATS["live_details"] >= MAX_REQUESTS:
+        raise BudgetExceeded(
+            f"Places API cap hit ({MAX_REQUESTS} live calls this run). Stop and ask "
+            "Aidan before raising PLACES_MAX_REQUESTS.")
+    STATS[kind] += 1
+
+
+def _remember(places: list):
+    for pl in places:
+        if pl.get("place_id"):
+            _PLACE_MEMO[pl["place_id"]] = pl
+
+
+def usage_summary() -> str:
+    return (f"[places] live searches={STATS['live_search']} live details={STATS['live_details']} "
+            f"cache hits={STATS['cache_hits']} memo hits={STATS['memo_hits']} (cap {MAX_REQUESTS})")
 
 # legacy field name -> (new field mask entry)
 _DETAIL_FIELD_MAP = {
@@ -91,6 +158,11 @@ def _to_legacy_place(p: dict) -> dict:
 def text_search(api_key: str, query: Optional[str] = None, page_token: Optional[str] = None,
                 timeout: int = 15, page_size: int = 20) -> dict:
     """Text Search (New). Returns legacy-shaped dict."""
+    ckey = f"{query}|{page_token or ''}"
+    cached = _cache_get("search", ckey)
+    if cached is not None:
+        _remember(cached.get("results", []))
+        return cached
     body = {"pageSize": page_size}
     if page_token:
         body["pageToken"] = page_token
@@ -98,6 +170,7 @@ def text_search(api_key: str, query: Optional[str] = None, page_token: Optional[
             body["textQuery"] = query
     else:
         body["textQuery"] = query
+    _spend("live_search")
     resp = requests.post(
         f"{BASE}/places:searchText", json=body, timeout=timeout,
         headers={"X-Goog-Api-Key": api_key, "X-Goog-FieldMask": _SEARCH_MASK},
@@ -109,6 +182,8 @@ def text_search(api_key: str, query: Optional[str] = None, page_token: Optional[
     out = {"status": "OK" if places else "ZERO_RESULTS", "results": places}
     if data.get("nextPageToken"):
         out["next_page_token"] = data["nextPageToken"]
+    _remember(places)
+    _cache_put("search", ckey, out)
     return out
 
 
@@ -117,6 +192,11 @@ def place_details(api_key: str, place_id: str, fields=None, timeout: int = 15) -
     if isinstance(fields, str):
         fields = [f.strip() for f in fields.split(",") if f.strip()]
     fields = fields or _DEFAULT_DETAIL_FIELDS
+    # Free path: place was already returned (with phone/website) by a search.
+    if place_id in _PLACE_MEMO and set(fields) <= _MEMO_FIELDS:
+        STATS["memo_hits"] += 1
+        return {"status": "OK", "result": dict(_PLACE_MEMO[place_id])}
+    _spend("live_details")
     mask = sorted({_DETAIL_FIELD_MAP[f] for f in fields if f in _DETAIL_FIELD_MAP})
     resp = requests.get(
         f"{BASE}/places/{place_id}", timeout=timeout,
@@ -136,8 +216,13 @@ def find_place(api_key: str, text: str, timeout: int = 10) -> dict:
     Candidates include website/phone when available (legacy Find Place could not).
     Works for plain-text and E.164 phone-number inputs.
     """
+    cached = _cache_get("find", text)
+    if cached is not None:
+        _remember(cached.get("candidates", []))
+        return cached
     mask = ("places.id,places.displayName,places.formattedAddress,places.location,"
             "places.websiteUri,places.nationalPhoneNumber")
+    _spend("live_search")
     resp = requests.post(
         f"{BASE}/places:searchText", json={"textQuery": text, "pageSize": 1},
         timeout=timeout,
@@ -148,7 +233,10 @@ def find_place(api_key: str, text: str, timeout: int = 10) -> dict:
         err["candidates"] = err.pop("results", [])
         return err
     cands = [_to_legacy_place(p) for p in resp.json().get("places", [])]
-    return {"status": "OK" if cands else "ZERO_RESULTS", "candidates": cands}
+    out = {"status": "OK" if cands else "ZERO_RESULTS", "candidates": cands}
+    _remember(cands)
+    _cache_put("find", text, out)
+    return out
 
 
 class Client:

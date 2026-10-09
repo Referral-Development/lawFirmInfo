@@ -6,6 +6,15 @@ import pytest
 from scraper.utils import places_new as pn
 
 
+@pytest.fixture(autouse=True)
+def _isolate(tmp_path, monkeypatch):
+    monkeypatch.setattr(pn, "CACHE_DIR", tmp_path)
+    monkeypatch.setattr(pn, "MAX_REQUESTS", 400)
+    pn._PLACE_MEMO.clear()
+    for k in pn.STATS:
+        pn.STATS[k] = 0
+
+
 def _resp(code, payload):
     r = MagicMock()
     r.status_code = code
@@ -56,11 +65,47 @@ def test_client_remembers_query_for_pagination_and_raises_on_error():
             c.places(query="y")
 
 
+def test_details_served_from_search_without_extra_call():
+    payload = {"places": [{"id": "p1", "displayName": {"text": "A"},
+                           "websiteUri": "http://a.com/"}]}
+    with patch("requests.post", return_value=_resp(200, payload)), \
+         patch("requests.get") as get:
+        pn.text_search("k", query="q")
+        out = pn.place_details("k", "p1", fields=["name", "website", "formatted_phone_number"])
+    get.assert_not_called()
+    assert out["result"]["website"] == "http://a.com/"
+    assert pn.STATS["live_details"] == 0 and pn.STATS["memo_hits"] == 1
+
+
+def test_repeat_search_hits_disk_cache_not_api():
+    payload = {"places": [{"id": "p1", "displayName": {"text": "A"}}]}
+    with patch("requests.post", return_value=_resp(200, payload)) as post:
+        pn.text_search("k", query="q")
+        pn.text_search("k", query="q")
+    assert post.call_count == 1 and pn.STATS["cache_hits"] == 1
+
+
+def test_errors_not_cached():
+    with patch("requests.post", return_value=_resp(403, {"error": {"message": "x"}})) as post:
+        pn.text_search("k", query="q")
+        pn.text_search("k", query="q")
+    assert post.call_count == 2
+
+
+def test_request_cap_raises(monkeypatch):
+    monkeypatch.setattr(pn, "MAX_REQUESTS", 2)
+    with patch("requests.post", return_value=_resp(200, {})):
+        pn.text_search("k", query="a")
+        pn.text_search("k", query="b")
+        with pytest.raises(pn.BudgetExceeded):
+            pn.text_search("k", query="c")
+
+
 def test_details_field_mapping():
     payload = {"displayName": {"text": "A"}, "nationalPhoneNumber": "(620) 241-8800",
                "websiteUri": "http://a.com/"}
     with patch("requests.get", return_value=_resp(200, payload)) as get:
-        out = pn.place_details("k", "pid", fields="name,formatted_phone_number,website")
+        out = pn.place_details("k", "unseen-pid", fields="name,formatted_phone_number,website")
     assert out["result"] == {"name": "A", "formatted_phone_number": "(620) 241-8800",
                              "website": "http://a.com/"}
     mask = get.call_args.kwargs["headers"]["X-Goog-FieldMask"]

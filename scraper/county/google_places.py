@@ -2,6 +2,7 @@ import re
 import time
 import uuid
 
+from scraper.utils import places_new
 from scraper.utils.normalize import normalize_firm_name, are_same_firm
 from scraper.county.config import SEARCH_QUERIES
 
@@ -9,7 +10,7 @@ _ZIP_RE = re.compile(r'\b(\d{5})\b')
 _STATE_RE = re.compile(r',\s*([A-Z]{2})\s+\d{5}')
 _CITY_RE = re.compile(r',\s*([^,]+),\s*[A-Z]{2}\s+\d{5}')
 
-TEXT_SEARCH_COST = 0.032
+TEXT_SEARCH_COST = 0.035  # Text Search Enterprise SKU (search mask includes phone/website)
 DETAIL_COST = 0.020  # Places API (New) Details, Enterprise SKU (phone+website)
 
 
@@ -40,8 +41,6 @@ def _build_gbp_url(place_id: str) -> str:
 
 
 def discover_google(county_config: dict, api_key: str, test_mode: bool = False) -> list:
-    from scraper.utils import places_new
-
     client = places_new.Client(key=api_key)
     firms = []
     state = county_config["state"]
@@ -156,8 +155,11 @@ def discover_google(county_config: dict, api_key: str, test_mode: bool = False) 
         if test_mode and len(firms) >= 20:
             break
 
-    est_cost = (text_searches * TEXT_SEARCH_COST) + (detail_calls * DETAIL_COST)
-    print(f"  [google] API calls: {text_searches} text searches + {detail_calls} details")
+    # Real spend: only LIVE calls cost money; cache/memo hits are free.
+    st = places_new.STATS
+    est_cost = (st["live_search"] * TEXT_SEARCH_COST) + (st["live_details"] * DETAIL_COST)
+    print(f"  [google] API calls: {text_searches} text searches + {detail_calls} details requested")
+    print(f"  {places_new.usage_summary()}")
     print(f"  [google] Estimated cost: ${est_cost:.2f}")
     print(f"  [google] Skipped {skipped_out_of_county} out-of-county results")
     print(f"  [google] Discovered {len(firms)} firms")
