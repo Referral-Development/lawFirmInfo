@@ -94,7 +94,7 @@ def main():
         if not api_key:
             print("[phase 2] WARNING: --use-google set but GOOGLE_MAPS_API_KEY not found. Skipping.")
         else:
-            import googlemaps
+            from scraper.utils import places_new
             from scraper.phases.google_places import scrape_google_places, merge_google_into_firms
             try:
                 from scraper.phases.google_places import COUNTY_SEATS_105
@@ -104,7 +104,7 @@ def main():
                 cities = TEST_CITIES if args.test else KANSAS_CITIES
 
             print(f"[phase 2] Searching Google Places for {len(cities)} cities...")
-            client = googlemaps.Client(key=api_key)
+            client = places_new.Client(key=api_key)
             google_firms = scrape_google_places(client, cities=cities)
             firms = merge_google_into_firms(firms, google_firms)
             print(f"[phase 2] Total after Google merge: {len(firms)} firms")

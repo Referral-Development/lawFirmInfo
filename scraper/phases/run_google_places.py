@@ -68,8 +68,8 @@ def main():
     if not api_key:
         raise SystemExit("GOOGLE_MAPS_API_KEY not set in scraper/.env")
 
-    import googlemaps
-    client = googlemaps.Client(key=api_key)
+    from scraper.utils import places_new
+    client = places_new.Client(key=api_key)
 
     data = _load_firms()
     firms = data["firms"]

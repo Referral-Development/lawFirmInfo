@@ -10,7 +10,7 @@ _STATE_RE = re.compile(r',\s*([A-Z]{2})\s+\d{5}')
 _CITY_RE = re.compile(r',\s*([^,]+),\s*[A-Z]{2}\s+\d{5}')
 
 TEXT_SEARCH_COST = 0.032
-DETAIL_COST = 0.017
+DETAIL_COST = 0.020  # Places API (New) Details, Enterprise SKU (phone+website)
 
 
 def _parse_address(formatted: str) -> dict:
@@ -40,9 +40,9 @@ def _build_gbp_url(place_id: str) -> str:
 
 
 def discover_google(county_config: dict, api_key: str, test_mode: bool = False) -> list:
-    import googlemaps
+    from scraper.utils import places_new
 
-    client = googlemaps.Client(key=api_key)
+    client = places_new.Client(key=api_key)
     firms = []
     state = county_config["state"]
     cities = county_config["cities"]

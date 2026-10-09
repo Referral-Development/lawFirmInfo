@@ -18,6 +18,8 @@ from pathlib import Path
 from urllib.parse import quote_plus, urlparse
 
 import requests
+
+from scraper.utils import places_new
 from bs4 import BeautifulSoup
 
 warnings.filterwarnings("ignore")
@@ -180,7 +182,7 @@ def _places_find_website(name: str, city: str, state: str) -> str:
         return ""
     try:
         # Step 1: Find Place → place_id + matched name
-        r1 = requests.get(
+        r1 = places_new.legacy_get(
             _FIND_PLACE_URL,
             params={"input": f"{name} {city} {state}", "inputtype": "textquery",
                     "fields": "place_id,name", "key": _GMAPS_KEY},
@@ -204,7 +206,7 @@ def _places_find_website(name: str, city: str, state: str) -> str:
             return ""  # matched wrong business
 
         # Step 2: Place Details → website
-        r2 = requests.get(
+        r2 = places_new.legacy_get(
             _PLACE_DETAILS_URL,
             params={"place_id": place_id, "fields": "website", "key": _GMAPS_KEY},
             timeout=10,

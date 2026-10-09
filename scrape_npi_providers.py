@@ -18,6 +18,8 @@ from pathlib import Path
 from urllib.parse import quote_plus
 
 import requests
+
+from scraper.utils import places_new
 from bs4 import BeautifulSoup
 
 warnings.filterwarnings("ignore")
@@ -354,7 +356,7 @@ def _places_find_website(name: str, city: str, state: str) -> str:
     if not _GMAPS_KEY or _PLACES_AVAILABLE is False:
         return ""
     try:
-        r = requests.get(
+        r = places_new.legacy_get(
             _PLACES_URL,
             params={
                 "input": f"{name} {city} {state}",

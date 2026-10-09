@@ -19,6 +19,8 @@ import time
 from pathlib import Path
 
 import requests
+
+from scraper.utils import places_new
 from dotenv import load_dotenv
 
 HERE = Path(__file__).resolve().parent
@@ -54,7 +56,7 @@ def _text_search(api_key: str, query: str, errors: list) -> list:
     next_token = None
     for _ in range(3):
         if next_token:
-            params = {"pagetoken": next_token, "key": api_key}
+            params = {"query": query, "pagetoken": next_token, "key": api_key}
 
         # A next_page_token isn't valid immediately; retry INVALID_REQUEST a
         # couple times with a growing delay before giving up on that page.
@@ -63,7 +65,7 @@ def _text_search(api_key: str, query: str, errors: list) -> list:
             if next_token or attempt_delay:
                 time.sleep(attempt_delay if next_token else 0)
             try:
-                resp = requests.get(TEXTSEARCH_URL, params=params, timeout=15)
+                resp = places_new.legacy_get(TEXTSEARCH_URL, params=params, timeout=15)
                 data = resp.json()
             except (requests.RequestException, ValueError) as e:
                 errors.append(f"TextSearch: request error for '{query}': {e}")
@@ -100,7 +102,7 @@ def _text_search(api_key: str, query: str, errors: list) -> list:
 def _place_details(api_key: str, place_id: str, errors: list) -> dict:
     params = {"place_id": place_id, "fields": DETAILS_FIELDS, "key": api_key}
     try:
-        resp = requests.get(DETAILS_URL, params=params, timeout=15)
+        resp = places_new.legacy_get(DETAILS_URL, params=params, timeout=15)
         data = resp.json()
     except (requests.RequestException, ValueError) as e:
         errors.append(f"Details: error for place_id={place_id}: {e}")

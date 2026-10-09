@@ -19,6 +19,8 @@ from collections import defaultdict
 
 import requests
 
+from scraper.utils import places_new
+
 warnings.filterwarnings("ignore")
 
 DATA_DIR = Path("app/county-data")
@@ -89,7 +91,7 @@ def _places_phone_lookup(phone_e164):
     if not _GMAPS_KEY or _PLACES_AVAILABLE is False or not phone_e164:
         return ""
     try:
-        r1 = requests.get(
+        r1 = places_new.legacy_get(
             _FIND_PLACE_URL,
             params={"input": phone_e164, "inputtype": "phonenumber",
                     "fields": "place_id,name", "key": _GMAPS_KEY},
@@ -109,7 +111,7 @@ def _places_phone_lookup(phone_e164):
             return ""
         place_id = candidates[0]["place_id"]
 
-        r2 = requests.get(
+        r2 = places_new.legacy_get(
             _PLACE_DETAILS_URL,
             params={"place_id": place_id, "fields": "website", "key": _GMAPS_KEY},
             timeout=10,
