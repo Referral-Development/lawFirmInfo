@@ -1207,6 +1207,30 @@
             "firm_count": 277,
             "last_updated": "2026-09-13",
             "csv_file": "comal-county-tx.csv"
+        },
+        {
+            "slug": "clay-county-mo",
+            "name": "Clay County",
+            "state": "MO",
+            "firm_count": 342,
+            "last_updated": "2026-10-13",
+            "csv_file": "clay-county-mo.csv"
+        },
+        {
+            "slug": "jefferson-county-mo",
+            "name": "Jefferson County",
+            "state": "MO",
+            "firm_count": 99,
+            "last_updated": "2026-10-13",
+            "csv_file": "jefferson-county-mo.csv"
+        },
+        {
+            "slug": "boone-county-mo",
+            "name": "Boone County",
+            "state": "MO",
+            "firm_count": 284,
+            "last_updated": "2026-10-13",
+            "csv_file": "boone-county-mo.csv"
         }
     ]
 }
