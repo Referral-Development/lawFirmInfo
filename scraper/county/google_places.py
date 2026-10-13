@@ -1,3 +1,4 @@
+import os
 import re
 import time
 import uuid
@@ -55,8 +56,11 @@ def discover_google(county_config: dict, api_key: str, test_mode: bool = False) 
     skipped_out_of_county = 0
 
     search_locations = [(city, f"{city} {state}") for city in cities]
-    for term in county_config.get("extra_search_terms", []):
-        search_locations.append((term, term))
+    # extra_search_terms added <=2% recall in a cache replay of Clay/Jefferson/Boone MO (2026-10), so they are
+    # skipped by default to save Places spend. Set PLACES_USE_EXTRA_TERMS=1 to include them.
+    if os.environ.get("PLACES_USE_EXTRA_TERMS") == "1":
+        for term in county_config.get("extra_search_terms", []):
+            search_locations.append((term, term))
     for zc in county_config.get("zip_codes", []):
         search_locations.append((zc, zc))
 
