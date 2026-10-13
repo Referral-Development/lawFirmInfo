@@ -1,3 +1,4 @@
+import json
 import os
 import re
 from urllib.parse import urlparse
@@ -157,11 +158,14 @@ def _merge_firm_records(primary: dict, secondary: dict) -> dict:
 
     # Attorneys: union (if field exists)
     if "attorneys" in secondary:
-        existing_attys = set(primary.get("attorneys") or [])
+        # attorneys may be strings or dicts (statewide import) -> unhashable; key on JSON repr
+        def _akey(a):
+            return a if isinstance(a, str) else json.dumps(a, sort_keys=True, default=str)
+        existing_attys = {_akey(a) for a in (primary.get("attorneys") or [])}
         for atty in secondary["attorneys"]:
-            if atty not in existing_attys:
+            if _akey(atty) not in existing_attys:
                 primary.setdefault("attorneys", []).append(atty)
-                existing_attys.add(atty)
+                existing_attys.add(_akey(atty))
         primary["attorney_count"] = len(primary.get("attorneys", []))
 
     # Use the better name (prefer non-person-name if available from firm)
