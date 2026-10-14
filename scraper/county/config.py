@@ -393,6 +393,24 @@ COUNTY_DEFINITIONS = {
         ],
         "extra_search_terms": ["Columbia, Missouri", "Columbia MO", "Boone County Missouri"],
     },
+    "jasper_mo": {
+        "name": "Jasper County",
+        "state": "MO",
+        "slug": "jasper-county-mo",
+        "msa": "Joplin",
+        "cities": [
+            "Joplin", "Carthage", "Webb City", "Carl Junction", "Oronogo",
+            "Duenweg", "Sarcoxie", "Jasper", "Avilla", "Alba", "Purcell",
+            "Reeds", "Asbury", "Brooklyn Heights", "Airport Drive", "Duquesne",
+            "Carterville", "Waco", "Smithfield", "Saginaw", "Reeds Spring",
+        ][:-1],
+        "zip_codes": [
+            "64801", "64802", "64803", "64804", "64805", "64830", "64832",
+            "64833", "64834", "64835", "64836", "64849", "64855", "64857",
+            "64859", "64862", "64870", "64755", "64873",
+        ],
+        "extra_search_terms": ["Joplin, Missouri", "Joplin MO", "Jasper County Missouri"],
+    },
     "st_charles": {
         "name": "St. Charles County",
         "state": "MO",
