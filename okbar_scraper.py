@@ -35,6 +35,7 @@ START_URL = "https://ams.okbar.org/eweb/startpage.aspx?site=FALWEB"
 COUNTY_MAP = {
     "Canadian":    ("canadian-county-ok",    "Canadian",    "Oklahoma City"),
     "Cleveland":   ("cleveland-county-ok",   "Cleveland",   "Oklahoma City"),
+    "Comanche":    ("comanche-county-ok",    "Comanche",    "Lawton"),
     "Creek":       ("creek-county-ok",       "Creek",       "Tulsa"),
     "Grady":       ("grady-county-ok",       "Grady",       "Oklahoma City"),
     "Logan":       ("logan-county-ok",       "Logan",       "Oklahoma City"),
