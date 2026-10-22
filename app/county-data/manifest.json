@@ -1247,6 +1247,30 @@
             "firm_count": 76,
             "last_updated": "2026-10-21",
             "csv_file": "comanche-county-ok.csv"
+        },
+        {
+            "slug": "payne-county-ok",
+            "name": "Payne County",
+            "state": "OK",
+            "firm_count": 69,
+            "last_updated": "2026-10-22",
+            "csv_file": "payne-county-ok.csv"
+        },
+        {
+            "slug": "muskogee-county-ok",
+            "name": "Muskogee County",
+            "state": "OK",
+            "firm_count": 54,
+            "last_updated": "2026-10-22",
+            "csv_file": "muskogee-county-ok.csv"
+        },
+        {
+            "slug": "garfield-county-ok",
+            "name": "Garfield County",
+            "state": "OK",
+            "firm_count": 60,
+            "last_updated": "2026-10-22",
+            "csv_file": "garfield-county-ok.csv"
         }
     ]
 }

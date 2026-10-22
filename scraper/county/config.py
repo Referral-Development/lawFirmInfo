@@ -433,6 +433,24 @@ COUNTY_DEFINITIONS = {
                       "73541", "73543", "73552", "73557", "73567"],
         "extra_search_terms": ["Lawton, Oklahoma", "Comanche County Oklahoma"],
     },
+    "payne_ok": {
+        "name": "Payne County", "state": "OK", "slug": "payne-county-ok", "msa": "Stillwater",
+        "cities": ['Stillwater', 'Cushing', 'Perkins', 'Yale', 'Ripley', 'Glencoe', 'Mehan'],
+        "zip_codes": ['74074', '74075', '74076', '74078', '74023', '74059', '74085', '74062', '74032', '74044'],
+        "extra_search_terms": ['Stillwater, Oklahoma', 'Payne County Oklahoma'],
+    },
+    "muskogee_ok": {
+        "name": "Muskogee County", "state": "OK", "slug": "muskogee-county-ok", "msa": "Muskogee",
+        "cities": ['Muskogee', 'Fort Gibson', 'Haskell', 'Warner', 'Webbers Falls', 'Porum', 'Oktaha', 'Braggs', 'Council Hill', 'Taft', 'Boynton'],
+        "zip_codes": ['74401', '74402', '74403', '74434', '74436', '74469', '74470', '74455', '74450', '74423', '74428', '74463', '74422'],
+        "extra_search_terms": ['Muskogee, Oklahoma', 'Muskogee County Oklahoma'],
+    },
+    "garfield_ok": {
+        "name": "Garfield County", "state": "OK", "slug": "garfield-county-ok", "msa": "Enid",
+        "cities": ['Enid', 'Covington', 'Drummond', 'Hillsdale', 'Kremlin', 'Lahoma', 'Waukomis', 'Breckinridge', 'Garber', 'Carrier', 'Douglas'],
+        "zip_codes": ['73701', '73702', '73703', '73730', '73735', '73743', '73753', '73754', '73773', '73720', '73738', '73727', '73733'],
+        "extra_search_terms": ['Enid, Oklahoma', 'Garfield County Oklahoma'],
+    },
     "jasper_mo": {
         "name": "Jasper County",
         "state": "MO",
