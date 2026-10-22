@@ -140,8 +140,8 @@
             "slug": "osage-county-ok",
             "name": "Osage County",
             "state": "OK",
-            "firm_count": 77,
-            "last_updated": "2026-07-22",
+            "firm_count": 20,
+            "last_updated": "2026-10-21",
             "csv_file": "osage-county-ok.csv"
         },
         {
@@ -156,8 +156,8 @@
             "slug": "wagoner-county-ok",
             "name": "Wagoner County",
             "state": "OK",
-            "firm_count": 246,
-            "last_updated": "2026-07-22",
+            "firm_count": 27,
+            "last_updated": "2026-10-21",
             "csv_file": "wagoner-county-ok.csv"
         },
         {
@@ -172,8 +172,8 @@
             "slug": "rogers-county-ok",
             "name": "Rogers County",
             "state": "OK",
-            "firm_count": 289,
-            "last_updated": "2026-07-22",
+            "firm_count": 59,
+            "last_updated": "2026-10-21",
             "csv_file": "rogers-county-ok.csv"
         },
         {
@@ -220,8 +220,8 @@
             "slug": "tulsa-county-ok",
             "name": "Tulsa County",
             "state": "OK",
-            "firm_count": 751,
-            "last_updated": "2026-07-22",
+            "firm_count": 635,
+            "last_updated": "2026-10-21",
             "csv_file": "tulsa-county-ok.csv"
         },
         {
