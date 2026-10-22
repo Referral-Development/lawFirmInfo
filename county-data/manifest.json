@@ -1239,6 +1239,14 @@
             "firm_count": 157,
             "last_updated": "2026-10-13",
             "csv_file": "jasper-county-mo.csv"
+        },
+        {
+            "slug": "comanche-county-ok",
+            "name": "Comanche County",
+            "state": "OK",
+            "firm_count": 76,
+            "last_updated": "2026-10-21",
+            "csv_file": "comanche-county-ok.csv"
         }
     ]
 }
