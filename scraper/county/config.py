@@ -451,6 +451,24 @@ COUNTY_DEFINITIONS = {
         "zip_codes": ['73701', '73702', '73703', '73730', '73735', '73743', '73753', '73754', '73773', '73720', '73738', '73727', '73733'],
         "extra_search_terms": ['Enid, Oklahoma', 'Garfield County Oklahoma'],
     },
+    "bryan_ok": {
+        "name": "Bryan County", "state": "OK", "slug": "bryan-county-ok", "msa": "Durant",
+        "cities": ['Durant', 'Calera', 'Achille', 'Colbert', 'Bokchito', 'Caddo', 'Cartwright', 'Silo', 'Kenefic', 'Mead', 'Armstrong'],
+        "zip_codes": ['74701', '74702', '74730', '74720', '74733', '74726', '74729', '74731', '74764', '74748', '73449', '74723'],
+        "extra_search_terms": ['Durant, Oklahoma', 'Bryan County Oklahoma'],
+    },
+    "leflore_ok": {
+        "name": "Le Flore County", "state": "OK", "slug": "leflore-county-ok", "msa": "Poteau",
+        "cities": ['Poteau', 'Heavener', 'Spiro', 'Talihina', 'Wister', 'Panama', 'Howe', 'Pocola', 'Cameron', 'Bokoshe', 'Fanshawe'],
+        "zip_codes": ['74953', '74937', '74959', '74571', '74966', '74951', '74940', '74902', '74932', '74930', '74935'],
+        "extra_search_terms": ['Poteau, Oklahoma', 'Le Flore County Oklahoma'],
+    },
+    "cherokee_ok": {
+        "name": "Cherokee County", "state": "OK", "slug": "cherokee-county-ok", "msa": "Tahlequah",
+        "cities": ['Tahlequah', 'Hulbert', 'Park Hill', 'Keys', 'Briggs', 'Welling', 'Cookson'],
+        "zip_codes": ['74464', '74465', '74441', '74451', '74447', '74728', '74471', '74427'],
+        "extra_search_terms": ['Tahlequah, Oklahoma', 'Cherokee County Oklahoma'],
+    },
     "jasper_mo": {
         "name": "Jasper County",
         "state": "MO",

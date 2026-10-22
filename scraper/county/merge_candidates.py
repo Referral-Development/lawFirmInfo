@@ -74,6 +74,20 @@ def main():
     zset -= sib
     recs = [r for r in recs if (r.get("zip") in zset) or (not r.get("zip") and (r.get("city") or "").lower() in
             {c.lower() for c in cfg["cities"]} and (r.get("city") or "").lower() != "kansas city")]
+    # drop foreign/garbled records (e.g. German Avvo listings carrying a US ZIP): non-ASCII text or a phone that
+    # cannot be a US number (area code starting 0/1, or not 10 digits)
+    def _foreign(r):
+        txt = " ".join(str(r.get(f) or "") for f in ("name", "firm", "street", "city"))
+        if any(ord(ch) > 127 for ch in txt):
+            return True
+        raw = re.sub(r"\D", "", r.get("phone") or "")
+        if raw and (raw[0] == "0" or len(raw) < 10):
+            return True
+        p = d10(r.get("phone"))
+        return bool(r.get("phone")) and p[0] in "01"
+    _n0 = len(recs)
+    recs = [r for r in recs if not _foreign(r)]
+    print("foreign/garbled records dropped:", _n0 - len(recs), flush=True)
     print("records after zip pre-filter:", len(recs), flush=True)
     ph = {d10(r["phone_number"]) for r in rows if r["phone_number"]}
     rt = [(toks(r["law_firm_name"]), st(r["street_address"]), r["zip_code"], r["law_firm_name"].lower()) for r in rows]

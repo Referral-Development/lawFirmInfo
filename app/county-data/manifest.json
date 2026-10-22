@@ -1271,6 +1271,30 @@
             "firm_count": 60,
             "last_updated": "2026-10-22",
             "csv_file": "garfield-county-ok.csv"
+        },
+        {
+            "slug": "bryan-county-ok",
+            "name": "Bryan County",
+            "state": "OK",
+            "firm_count": 32,
+            "last_updated": "2026-10-22",
+            "csv_file": "bryan-county-ok.csv"
+        },
+        {
+            "slug": "leflore-county-ok",
+            "name": "Le Flore County",
+            "state": "OK",
+            "firm_count": 23,
+            "last_updated": "2026-10-22",
+            "csv_file": "leflore-county-ok.csv"
+        },
+        {
+            "slug": "cherokee-county-ok",
+            "name": "Cherokee County",
+            "state": "OK",
+            "firm_count": 37,
+            "last_updated": "2026-10-22",
+            "csv_file": "cherokee-county-ok.csv"
         }
     ]
 }
