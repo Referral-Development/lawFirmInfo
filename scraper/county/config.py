@@ -469,6 +469,24 @@ COUNTY_DEFINITIONS = {
         "zip_codes": ['74464', '74465', '74441', '74451', '74447', '74728', '74471', '74427'],
         "extra_search_terms": ['Tahlequah, Oklahoma', 'Cherokee County Oklahoma'],
     },
+    "carter_ok": {
+        "name": "Carter County", "state": "OK", "slug": "carter-county-ok", "msa": "Ardmore",
+        "cities": ['Ardmore', 'Healdton', 'Lone Grove', 'Wilson', 'Springer', 'Gene Autry', 'Tatums'],
+        "zip_codes": ['73401', '73402', '73438', '73443', '73463', '73458', '73436'],
+        "extra_search_terms": ['Ardmore, Oklahoma', 'Carter County Oklahoma'],
+    },
+    "stephens_ok": {
+        "name": "Stephens County", "state": "OK", "slug": "stephens-county-ok", "msa": "Duncan",
+        "cities": ['Duncan', 'Marlow', 'Comanche', 'Velma', 'Empire City', 'Loco'],
+        "zip_codes": ['73533', '73534', '73536', '73055', '73529', '73491'],
+        "extra_search_terms": ['Duncan, Oklahoma', 'Stephens County Oklahoma'],
+    },
+    "kay_ok": {
+        "name": "Kay County", "state": "OK", "slug": "kay-county-ok", "msa": "Ponca City",
+        "cities": ['Ponca City', 'Blackwell', 'Tonkawa', 'Newkirk', 'Kaw City', 'Braman', 'Kildare'],
+        "zip_codes": ['74601', '74602', '74604', '74631', '74653', '74647', '74641', '74632', '74651'],
+        "extra_search_terms": ['Ponca City, Oklahoma', 'Kay County Oklahoma'],
+    },
     "jasper_mo": {
         "name": "Jasper County",
         "state": "MO",
