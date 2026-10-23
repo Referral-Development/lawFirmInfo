@@ -64,7 +64,7 @@ def main():
     tried = found = 0
     for r in rows:
         w = r["website"]
-        if w and not re.search(r"avvo|justia|google\.com/maps|maps\.google\.com|goo\.gl|g\.page|findlaw|yelp|martindale|yellowpages", w, re.I):
+        if w and not re.search(r"avvo|justia|google\.com/search|google\.com/maps|maps\.google\.com|goo\.gl|g\.page|findlaw|yelp|martindale|yellowpages", w, re.I):
             continue
         q = f'"{r["law_firm_name"]}" {r["city"]} MO attorney {r["phone_number"]}'.strip()
         try:

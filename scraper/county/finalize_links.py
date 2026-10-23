@@ -7,7 +7,7 @@ import csv, re, sys
 from urllib.parse import urlsplit, urlunsplit, parse_qsl, urlencode
 from scraper.utils.dedup_candidates import find_duplicate_candidates
 
-GBP = re.compile(r'google\.com/maps|maps\.google\.com|maps\.app\.goo\.gl|g\.page|goo\.gl/maps')
+GBP = re.compile(r'google\.com/search\?[^ ]*ludocid|google\.com/maps|maps\.google\.com|maps\.app\.goo\.gl|g\.page|goo\.gl/maps')
 DIR = re.compile(r'avvo|justia|martindale|findlaw|lawyers\.com|yelp|superlawyers|nolo|allbiz|yellowpages|facebook|mapquest|bbb\.org', re.I)
 
 

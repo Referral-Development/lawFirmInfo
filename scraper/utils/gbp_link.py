@@ -21,6 +21,27 @@ def gbp_url_from_place_id(place_id: str):
     return f"https://maps.google.com/?cid={cid}" if cid else None
 
 
+def profile_url(place_id_or_cid, name, city="", state=""):
+    """Google Search business-profile link (stays in the browser, not Maps):
+    https://www.google.com/search?q=<name city state>&ludocid=<cid>
+    ludocid pins the exact Google listing; the text query is a fallback that still surfaces the profile panel."""
+    from urllib.parse import quote_plus
+    cid = place_id_or_cid if str(place_id_or_cid).isdigit() else place_id_to_cid(place_id_or_cid)
+    if not cid:
+        return None
+    q = " ".join(x for x in (name, city, state) if x)
+    return f"https://www.google.com/search?q={quote_plus(q)}&ludocid={cid}"
+
+
+def cid_from_any(url: str):
+    """Extract the cid from either a maps.google.com/?cid= link, a place_id link, or a ludocid search link."""
+    m = re.search(r"[?&](?:cid|ludocid)=(\d+)", url or "")
+    if m:
+        return m.group(1)
+    m = _PID.search(url or "")
+    return place_id_to_cid(m.group(1)) if m else None
+
+
 _PID = re.compile(r"place_id:([\w-]+)")
 
 
