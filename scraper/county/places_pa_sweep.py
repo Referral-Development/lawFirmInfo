@@ -37,7 +37,7 @@ def main():
                     "phone": pl.get("formatted_phone_number", "") or "", "website": pl.get("website", "") or "",
                     "street": a["street"], "city": a["city"], "state": a["state"], "zip": a["zip"],
                     "source": "google_places_pa",
-                    "url": f"https://www.google.com/maps/place/?q=place_id:{pl.get('place_id')}"}
+                    "url": __import__("scraper.utils.gbp_link", fromlist=["x"]).gbp_url_from_place_id(pl.get('place_id')) or f"https://www.google.com/maps/place/?q=place_id:{pl.get('place_id')}"}
         print(c, len(out), places_new.usage_summary(), flush=True)
     p = Path("data/directory_sweep"); p.mkdir(parents=True, exist_ok=True)
     json.dump(list(out.values()), open(p / f"{cfg['slug']}_places_pa.json", "w"))

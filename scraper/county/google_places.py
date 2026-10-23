@@ -38,7 +38,9 @@ def _is_duplicate(name: str, city: str, existing: list) -> bool:
 
 
 def _build_gbp_url(place_id: str) -> str:
-    return f"https://www.google.com/maps/place/?q=place_id:{place_id}"
+    # Google's official place/Business Profile link (cid form), derived from the place_id with no API call
+    from scraper.utils.gbp_link import gbp_url_from_place_id
+    return gbp_url_from_place_id(place_id) or f"https://www.google.com/maps/place/?q=place_id:{place_id}"
 
 
 def discover_google(county_config: dict, api_key: str, test_mode: bool = False) -> list:
