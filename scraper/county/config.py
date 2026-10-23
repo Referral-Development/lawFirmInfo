@@ -505,6 +505,36 @@ COUNTY_DEFINITIONS = {
         "zip_codes": ['74955', '74954', '74948', '74962', '74936', '74435', '74945', '74946'],
         "extra_search_terms": ['Sallisaw, Oklahoma', 'Sequoyah County Oklahoma'],
     },
+    "mayes_ok": {
+        "name": "Mayes County", "state": "OK", "slug": "mayes-county-ok", "msa": "Pryor",
+        "cities": ['Pryor', 'Locust Grove', 'Salina', 'Adair', 'Chouteau', 'Spavinaw', 'Disney', 'Pensacola', 'Strang', 'Langley'],
+        "zip_codes": ['74361', '74362', '74352', '74365', '74330', '74337', '74366', '74340', '74364', '74367', '74350'],
+        "extra_search_terms": ['Pryor, Oklahoma', 'Mayes County Oklahoma'],
+    },
+    "pontotoc_ok": {
+        "name": "Pontotoc County", "state": "OK", "slug": "pontotoc-county-ok", "msa": "Ada",
+        "cities": ['Ada', 'Stonewall', 'Allen', 'Fitzhugh', 'Roff', 'Francis', 'Byng'],
+        "zip_codes": ['74820', '74821', '74871', '74825', '74843', '74865', '74844'],
+        "extra_search_terms": ['Ada, Oklahoma', 'Pontotoc County Oklahoma'],
+    },
+    "lincoln_ok": {
+        "name": "Lincoln County", "state": "OK", "slug": "lincoln-county-ok", "msa": "Chandler",
+        "cities": ['Chandler', 'Stroud', 'Davenport', 'Meeker', 'Prague', 'Wellston', 'Sparks', 'Agra', 'Carney', 'Tryon', 'Fallis'],
+        "zip_codes": ['74834', '74079', '74026', '74855', '74864', '74881', '74869', '74824', '74832', '74875', '74860'],
+        "extra_search_terms": ['Chandler, Oklahoma', 'Stroud, Oklahoma', 'Lincoln County Oklahoma'],
+    },
+    "mccurtain_ok": {
+        "name": "McCurtain County", "state": "OK", "slug": "mccurtain-county-ok", "msa": "Idabel",
+        "cities": ['Idabel', 'Broken Bow', 'Haworth', 'Valliant', 'Wright City', 'Eagletown', 'Garvin', 'Battiest', 'Hochatown'],
+        "zip_codes": ['74745', '74728', '74740', '74764', '74766', '74734', '74736', '74722'],
+        "extra_search_terms": ['Idabel, Oklahoma', 'Broken Bow, Oklahoma', 'McCurtain County Oklahoma'],
+    },
+    "ottawa_ok": {
+        "name": "Ottawa County", "state": "OK", "slug": "ottawa-county-ok", "msa": "Miami",
+        "cities": ['Miami', 'Commerce', 'Quapaw', 'Picher', 'Wyandotte', 'Fairland', 'Afton', 'Cardin'],
+        "zip_codes": ['74354', '74355', '74339', '74363', '74360', '74370', '74343', '74331'],
+        "extra_search_terms": ['Miami, Oklahoma', 'Ottawa County Oklahoma'],
+    },
     "jasper_mo": {
         "name": "Jasper County",
         "state": "MO",

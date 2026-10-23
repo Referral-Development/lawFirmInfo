@@ -1343,6 +1343,46 @@
             "firm_count": 27,
             "last_updated": "2026-10-23",
             "csv_file": "sequoyah-county-ok.csv"
+        },
+        {
+            "slug": "mayes-county-ok",
+            "name": "Mayes County",
+            "state": "OK",
+            "firm_count": 28,
+            "last_updated": "2026-10-23",
+            "csv_file": "mayes-county-ok.csv"
+        },
+        {
+            "slug": "pontotoc-county-ok",
+            "name": "Pontotoc County",
+            "state": "OK",
+            "firm_count": 45,
+            "last_updated": "2026-10-23",
+            "csv_file": "pontotoc-county-ok.csv"
+        },
+        {
+            "slug": "lincoln-county-ok",
+            "name": "Lincoln County",
+            "state": "OK",
+            "firm_count": 15,
+            "last_updated": "2026-10-23",
+            "csv_file": "lincoln-county-ok.csv"
+        },
+        {
+            "slug": "mccurtain-county-ok",
+            "name": "McCurtain County",
+            "state": "OK",
+            "firm_count": 24,
+            "last_updated": "2026-10-23",
+            "csv_file": "mccurtain-county-ok.csv"
+        },
+        {
+            "slug": "ottawa-county-ok",
+            "name": "Ottawa County",
+            "state": "OK",
+            "firm_count": 24,
+            "last_updated": "2026-10-23",
+            "csv_file": "ottawa-county-ok.csv"
         }
     ]
 }
