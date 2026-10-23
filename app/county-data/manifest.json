@@ -1319,6 +1319,30 @@
             "firm_count": 32,
             "last_updated": "2026-10-22",
             "csv_file": "kay-county-ok.csv"
+        },
+        {
+            "slug": "pittsburg-county-ok",
+            "name": "Pittsburg County",
+            "state": "OK",
+            "firm_count": 35,
+            "last_updated": "2026-10-23",
+            "csv_file": "pittsburg-county-ok.csv"
+        },
+        {
+            "slug": "delaware-county-ok",
+            "name": "Delaware County",
+            "state": "OK",
+            "firm_count": 26,
+            "last_updated": "2026-10-23",
+            "csv_file": "delaware-county-ok.csv"
+        },
+        {
+            "slug": "sequoyah-county-ok",
+            "name": "Sequoyah County",
+            "state": "OK",
+            "firm_count": 27,
+            "last_updated": "2026-10-23",
+            "csv_file": "sequoyah-county-ok.csv"
         }
     ]
 }

@@ -487,6 +487,24 @@ COUNTY_DEFINITIONS = {
         "zip_codes": ['74601', '74602', '74604', '74631', '74653', '74647', '74641', '74632', '74651'],
         "extra_search_terms": ['Ponca City, Oklahoma', 'Kay County Oklahoma'],
     },
+    "pittsburg_ok": {
+        "name": "Pittsburg County", "state": "OK", "slug": "pittsburg-county-ok", "msa": "McAlester",
+        "cities": ['McAlester', 'Krebs', 'Hartshorne', 'Haileyville', 'Savanna', 'Canadian', 'Pittsburg', 'Quinton', 'Kiowa', 'Alderson'],
+        "zip_codes": ['74501', '74502', '74554', '74547', '74546', '74565', '74425', '74560', '74561', '74553', '74522'],
+        "extra_search_terms": ['McAlester, Oklahoma', 'Pittsburg County Oklahoma'],
+    },
+    "delaware_ok": {
+        "name": "Delaware County", "state": "OK", "slug": "delaware-county-ok", "msa": "Grove",
+        "cities": ['Jay', 'Grove', 'Kansas', 'Colcord', 'Eucha', 'Oaks', 'Cleora', 'Twin Oaks'],
+        "zip_codes": ['74346', '74344', '74345', '74347', '74338', '74342', '74359'],
+        "extra_search_terms": ['Grove, Oklahoma', 'Jay, Oklahoma', 'Delaware County Oklahoma'],
+    },
+    "sequoyah_ok": {
+        "name": "Sequoyah County", "state": "OK", "slug": "sequoyah-county-ok", "msa": "Sallisaw",
+        "cities": ['Sallisaw', 'Roland', 'Muldrow', 'Vian', 'Gans', 'Gore', 'Marble City', 'Moffett', 'Brushy'],
+        "zip_codes": ['74955', '74954', '74948', '74962', '74936', '74435', '74945', '74946'],
+        "extra_search_terms": ['Sallisaw, Oklahoma', 'Sequoyah County Oklahoma'],
+    },
     "jasper_mo": {
         "name": "Jasper County",
         "state": "MO",
