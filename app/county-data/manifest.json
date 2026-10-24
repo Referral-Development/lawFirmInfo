@@ -1383,6 +1383,46 @@
             "firm_count": 24,
             "last_updated": "2026-10-23",
             "csv_file": "ottawa-county-ok.csv"
+        },
+        {
+            "slug": "custer-county-ok",
+            "name": "Custer County",
+            "state": "OK",
+            "firm_count": 28,
+            "last_updated": "2026-10-23",
+            "csv_file": "custer-county-ok.csv"
+        },
+        {
+            "slug": "garvin-county-ok",
+            "name": "Garvin County",
+            "state": "OK",
+            "firm_count": 24,
+            "last_updated": "2026-10-23",
+            "csv_file": "garvin-county-ok.csv"
+        },
+        {
+            "slug": "caddo-county-ok",
+            "name": "Caddo County",
+            "state": "OK",
+            "firm_count": 14,
+            "last_updated": "2026-10-23",
+            "csv_file": "caddo-county-ok.csv"
+        },
+        {
+            "slug": "jackson-county-ok",
+            "name": "Jackson County",
+            "state": "OK",
+            "firm_count": 20,
+            "last_updated": "2026-10-23",
+            "csv_file": "jackson-county-ok.csv"
+        },
+        {
+            "slug": "seminole-county-ok",
+            "name": "Seminole County",
+            "state": "OK",
+            "firm_count": 15,
+            "last_updated": "2026-10-23",
+            "csv_file": "seminole-county-ok.csv"
         }
     ]
 }

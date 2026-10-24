@@ -535,6 +535,36 @@ COUNTY_DEFINITIONS = {
         "zip_codes": ['74354', '74355', '74339', '74363', '74360', '74370', '74343', '74331'],
         "extra_search_terms": ['Miami, Oklahoma', 'Ottawa County Oklahoma'],
     },
+    "custer_ok": {
+        "name": "Custer County", "state": "OK", "slug": "custer-county-ok", "msa": "Weatherford",
+        "cities": ['Weatherford', 'Clinton', 'Arapaho', 'Thomas', 'Butler', 'Custer City'],
+        "zip_codes": ['73096', '73601', '73620', '73669', '73625', '73639'],
+        "extra_search_terms": ['Weatherford, Oklahoma', 'Clinton, Oklahoma', 'Custer County Oklahoma'],
+    },
+    "garvin_ok": {
+        "name": "Garvin County", "state": "OK", "slug": "garvin-county-ok", "msa": "Pauls Valley",
+        "cities": ['Pauls Valley', 'Lindsay', 'Wynnewood', 'Maysville', 'Elmore City', 'Stratford', 'Paoli', 'Foster'],
+        "zip_codes": ['73075', '73052', '73098', '73057', '73433', '74872', '73074', '73434'],
+        "extra_search_terms": ['Pauls Valley, Oklahoma', 'Garvin County Oklahoma'],
+    },
+    "caddo_ok": {
+        "name": "Caddo County", "state": "OK", "slug": "caddo-county-ok", "msa": "Anadarko",
+        "cities": ['Anadarko', 'Hinton', 'Carnegie', 'Apache', 'Binger', 'Cyril', 'Fort Cobb', 'Lookeba', 'Hydro', 'Cement', 'Gracemont'],
+        "zip_codes": ['73005', '73047', '73015', '73006', '73009', '73029', '73038', '73053', '73048', '73017', '73042'],
+        "extra_search_terms": ['Anadarko, Oklahoma', 'Caddo County Oklahoma'],
+    },
+    "jackson_ok": {
+        "name": "Jackson County", "state": "OK", "slug": "jackson-county-ok", "msa": "Altus",
+        "cities": ['Altus', 'Olustee', 'Eldorado', 'Blair', 'Duke', 'Elmer', 'Navajo', 'Friendship'],
+        "zip_codes": ['73521', '73522', '73560', '73537', '73526', '73532', '73539', '73555', '73542'],
+        "extra_search_terms": ['Altus, Oklahoma', 'Jackson County Oklahoma'],
+    },
+    "seminole_ok": {
+        "name": "Seminole County", "state": "OK", "slug": "seminole-county-ok", "msa": "Seminole",
+        "cities": ['Seminole', 'Wewoka', 'Konawa', 'Sasakwa', 'Cromwell', 'Bowlegs'],
+        "zip_codes": ['74868', '74884', '74849', '74867', '74837', '74830'],
+        "extra_search_terms": ['Seminole, Oklahoma', 'Wewoka, Oklahoma', 'Seminole County Oklahoma'],
+    },
     "jasper_mo": {
         "name": "Jasper County",
         "state": "MO",
