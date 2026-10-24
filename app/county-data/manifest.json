@@ -1423,6 +1423,86 @@
             "firm_count": 15,
             "last_updated": "2026-10-23",
             "csv_file": "seminole-county-ok.csv"
+        },
+        {
+            "slug": "beckham-county-ok",
+            "name": "Beckham County",
+            "state": "OK",
+            "firm_count": 22,
+            "last_updated": "2026-10-24",
+            "csv_file": "beckham-county-ok.csv"
+        },
+        {
+            "slug": "texas-county-ok",
+            "name": "Texas County",
+            "state": "OK",
+            "firm_count": 11,
+            "last_updated": "2026-10-24",
+            "csv_file": "texas-county-ok.csv"
+        },
+        {
+            "slug": "adair-county-ok",
+            "name": "Adair County",
+            "state": "OK",
+            "firm_count": 13,
+            "last_updated": "2026-10-24",
+            "csv_file": "adair-county-ok.csv"
+        },
+        {
+            "slug": "woodward-county-ok",
+            "name": "Woodward County",
+            "state": "OK",
+            "firm_count": 17,
+            "last_updated": "2026-10-24",
+            "csv_file": "woodward-county-ok.csv"
+        },
+        {
+            "slug": "mcintosh-county-ok",
+            "name": "McIntosh County",
+            "state": "OK",
+            "firm_count": 9,
+            "last_updated": "2026-10-24",
+            "csv_file": "mcintosh-county-ok.csv"
+        },
+        {
+            "slug": "marshall-county-ok",
+            "name": "Marshall County",
+            "state": "OK",
+            "firm_count": 7,
+            "last_updated": "2026-10-24",
+            "csv_file": "marshall-county-ok.csv"
+        },
+        {
+            "slug": "pawnee-county-ok",
+            "name": "Pawnee County",
+            "state": "OK",
+            "firm_count": 10,
+            "last_updated": "2026-10-24",
+            "csv_file": "pawnee-county-ok.csv"
+        },
+        {
+            "slug": "kingfisher-county-ok",
+            "name": "Kingfisher County",
+            "state": "OK",
+            "firm_count": 15,
+            "last_updated": "2026-10-24",
+            "csv_file": "kingfisher-county-ok.csv"
+        },
+        {
+            "slug": "atoka-county-ok",
+            "name": "Atoka County",
+            "state": "OK",
+            "firm_count": 7,
+            "last_updated": "2026-10-24",
+            "csv_file": "atoka-county-ok.csv"
+        },
+        {
+            "slug": "craig-county-ok",
+            "name": "Craig County",
+            "state": "OK",
+            "firm_count": 13,
+            "last_updated": "2026-10-24",
+            "csv_file": "craig-county-ok.csv"
         }
     ]
 }
