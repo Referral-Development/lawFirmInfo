@@ -1503,6 +1503,86 @@
             "firm_count": 13,
             "last_updated": "2026-10-24",
             "csv_file": "craig-county-ok.csv"
+        },
+        {
+            "slug": "choctaw-county-ok",
+            "name": "Choctaw County",
+            "state": "OK",
+            "firm_count": 13,
+            "last_updated": "2026-10-24",
+            "csv_file": "choctaw-county-ok.csv"
+        },
+        {
+            "slug": "murray-county-ok",
+            "name": "Murray County",
+            "state": "OK",
+            "firm_count": 11,
+            "last_updated": "2026-10-24",
+            "csv_file": "murray-county-ok.csv"
+        },
+        {
+            "slug": "hughes-county-ok",
+            "name": "Hughes County",
+            "state": "OK",
+            "firm_count": 6,
+            "last_updated": "2026-10-24",
+            "csv_file": "hughes-county-ok.csv"
+        },
+        {
+            "slug": "haskell-county-ok",
+            "name": "Haskell County",
+            "state": "OK",
+            "firm_count": 9,
+            "last_updated": "2026-10-24",
+            "csv_file": "haskell-county-ok.csv"
+        },
+        {
+            "slug": "okfuskee-county-ok",
+            "name": "Okfuskee County",
+            "state": "OK",
+            "firm_count": 5,
+            "last_updated": "2026-10-24",
+            "csv_file": "okfuskee-county-ok.csv"
+        },
+        {
+            "slug": "noble-county-ok",
+            "name": "Noble County",
+            "state": "OK",
+            "firm_count": 7,
+            "last_updated": "2026-10-24",
+            "csv_file": "noble-county-ok.csv"
+        },
+        {
+            "slug": "washita-county-ok",
+            "name": "Washita County",
+            "state": "OK",
+            "firm_count": 3,
+            "last_updated": "2026-10-24",
+            "csv_file": "washita-county-ok.csv"
+        },
+        {
+            "slug": "pushmataha-county-ok",
+            "name": "Pushmataha County",
+            "state": "OK",
+            "firm_count": 7,
+            "last_updated": "2026-10-24",
+            "csv_file": "pushmataha-county-ok.csv"
+        },
+        {
+            "slug": "love-county-ok",
+            "name": "Love County",
+            "state": "OK",
+            "firm_count": 6,
+            "last_updated": "2026-10-24",
+            "csv_file": "love-county-ok.csv"
+        },
+        {
+            "slug": "johnston-county-ok",
+            "name": "Johnston County",
+            "state": "OK",
+            "firm_count": 4,
+            "last_updated": "2026-10-24",
+            "csv_file": "johnston-county-ok.csv"
         }
     ]
 }
