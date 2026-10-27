@@ -124,112 +124,112 @@
             "slug": "logan-county-ok",
             "name": "Logan County",
             "state": "OK",
-            "firm_count": 261,
-            "last_updated": "2026-07-22",
+            "firm_count": 59,
+            "last_updated": "2026-10-27",
             "csv_file": "logan-county-ok.csv"
         },
         {
             "slug": "washington-county-ok",
             "name": "Washington County",
             "state": "OK",
-            "firm_count": 76,
-            "last_updated": "2026-07-22",
+            "firm_count": 60,
+            "last_updated": "2026-10-27",
             "csv_file": "washington-county-ok.csv"
         },
         {
             "slug": "osage-county-ok",
             "name": "Osage County",
             "state": "OK",
-            "firm_count": 20,
-            "last_updated": "2026-10-21",
+            "firm_count": 32,
+            "last_updated": "2026-10-27",
             "csv_file": "osage-county-ok.csv"
         },
         {
             "slug": "mcclain-county-ok",
             "name": "McClain County",
             "state": "OK",
-            "firm_count": 180,
-            "last_updated": "2026-07-22",
+            "firm_count": 66,
+            "last_updated": "2026-10-27",
             "csv_file": "mcclain-county-ok.csv"
         },
         {
             "slug": "wagoner-county-ok",
             "name": "Wagoner County",
             "state": "OK",
-            "firm_count": 27,
-            "last_updated": "2026-10-21",
+            "firm_count": 53,
+            "last_updated": "2026-10-27",
             "csv_file": "wagoner-county-ok.csv"
         },
         {
             "slug": "okmulgee-county-ok",
             "name": "Okmulgee County",
             "state": "OK",
-            "firm_count": 79,
-            "last_updated": "2026-07-22",
+            "firm_count": 50,
+            "last_updated": "2026-10-27",
             "csv_file": "okmulgee-county-ok.csv"
         },
         {
             "slug": "rogers-county-ok",
             "name": "Rogers County",
             "state": "OK",
-            "firm_count": 59,
-            "last_updated": "2026-10-21",
+            "firm_count": 83,
+            "last_updated": "2026-10-27",
             "csv_file": "rogers-county-ok.csv"
         },
         {
             "slug": "creek-county-ok",
             "name": "Creek County",
             "state": "OK",
-            "firm_count": 298,
-            "last_updated": "2026-07-22",
+            "firm_count": 85,
+            "last_updated": "2026-10-27",
             "csv_file": "creek-county-ok.csv"
         },
         {
             "slug": "grady-county-ok",
             "name": "Grady County",
             "state": "OK",
-            "firm_count": 102,
-            "last_updated": "2026-07-22",
+            "firm_count": 62,
+            "last_updated": "2026-10-27",
             "csv_file": "grady-county-ok.csv"
         },
         {
             "slug": "pottawatomie-county-ok",
             "name": "Pottawatomie County",
             "state": "OK",
-            "firm_count": 107,
-            "last_updated": "2026-07-22",
+            "firm_count": 80,
+            "last_updated": "2026-10-27",
             "csv_file": "pottawatomie-county-ok.csv"
         },
         {
             "slug": "canadian-county-ok",
             "name": "Canadian County",
             "state": "OK",
-            "firm_count": 548,
-            "last_updated": "2026-07-22",
+            "firm_count": 203,
+            "last_updated": "2026-10-27",
             "csv_file": "canadian-county-ok.csv"
         },
         {
             "slug": "cleveland-county-ok",
             "name": "Cleveland County",
             "state": "OK",
-            "firm_count": 727,
-            "last_updated": "2026-07-22",
+            "firm_count": 471,
+            "last_updated": "2026-10-27",
             "csv_file": "cleveland-county-ok.csv"
         },
         {
             "slug": "tulsa-county-ok",
             "name": "Tulsa County",
             "state": "OK",
-            "firm_count": 635,
-            "last_updated": "2026-10-21",
+            "firm_count": 1477,
+            "last_updated": "2026-10-27",
             "csv_file": "tulsa-county-ok.csv"
         },
         {
             "slug": "oklahoma-county-ok",
             "name": "Oklahoma County",
             "state": "OK",
-            "firm_count": 1140,
-            "last_updated": "2026-07-22",
+            "firm_count": 2080,
+            "last_updated": "2026-10-27",
             "csv_file": "oklahoma-county-ok.csv"
         },
         {
@@ -1244,345 +1244,505 @@
             "slug": "comanche-county-ok",
             "name": "Comanche County",
             "state": "OK",
-            "firm_count": 76,
-            "last_updated": "2026-10-21",
+            "firm_count": 101,
+            "last_updated": "2026-10-27",
             "csv_file": "comanche-county-ok.csv"
         },
         {
             "slug": "payne-county-ok",
             "name": "Payne County",
             "state": "OK",
-            "firm_count": 69,
-            "last_updated": "2026-10-22",
+            "firm_count": 86,
+            "last_updated": "2026-10-27",
             "csv_file": "payne-county-ok.csv"
         },
         {
             "slug": "muskogee-county-ok",
             "name": "Muskogee County",
             "state": "OK",
-            "firm_count": 54,
-            "last_updated": "2026-10-22",
+            "firm_count": 86,
+            "last_updated": "2026-10-27",
             "csv_file": "muskogee-county-ok.csv"
         },
         {
             "slug": "garfield-county-ok",
             "name": "Garfield County",
             "state": "OK",
-            "firm_count": 60,
-            "last_updated": "2026-10-22",
+            "firm_count": 75,
+            "last_updated": "2026-10-27",
             "csv_file": "garfield-county-ok.csv"
         },
         {
             "slug": "bryan-county-ok",
             "name": "Bryan County",
             "state": "OK",
-            "firm_count": 32,
-            "last_updated": "2026-10-22",
+            "firm_count": 38,
+            "last_updated": "2026-10-27",
             "csv_file": "bryan-county-ok.csv"
         },
         {
             "slug": "leflore-county-ok",
             "name": "Le Flore County",
             "state": "OK",
-            "firm_count": 23,
-            "last_updated": "2026-10-22",
+            "firm_count": 34,
+            "last_updated": "2026-10-27",
             "csv_file": "leflore-county-ok.csv"
         },
         {
             "slug": "cherokee-county-ok",
             "name": "Cherokee County",
             "state": "OK",
-            "firm_count": 37,
-            "last_updated": "2026-10-22",
+            "firm_count": 46,
+            "last_updated": "2026-10-27",
             "csv_file": "cherokee-county-ok.csv"
         },
         {
             "slug": "carter-county-ok",
             "name": "Carter County",
             "state": "OK",
-            "firm_count": 49,
-            "last_updated": "2026-10-22",
+            "firm_count": 64,
+            "last_updated": "2026-10-27",
             "csv_file": "carter-county-ok.csv"
         },
         {
             "slug": "stephens-county-ok",
             "name": "Stephens County",
             "state": "OK",
-            "firm_count": 27,
-            "last_updated": "2026-10-22",
+            "firm_count": 39,
+            "last_updated": "2026-10-27",
             "csv_file": "stephens-county-ok.csv"
         },
         {
             "slug": "kay-county-ok",
             "name": "Kay County",
             "state": "OK",
-            "firm_count": 32,
-            "last_updated": "2026-10-22",
+            "firm_count": 44,
+            "last_updated": "2026-10-27",
             "csv_file": "kay-county-ok.csv"
         },
         {
             "slug": "pittsburg-county-ok",
             "name": "Pittsburg County",
             "state": "OK",
-            "firm_count": 35,
-            "last_updated": "2026-10-23",
+            "firm_count": 48,
+            "last_updated": "2026-10-27",
             "csv_file": "pittsburg-county-ok.csv"
         },
         {
             "slug": "delaware-county-ok",
             "name": "Delaware County",
             "state": "OK",
-            "firm_count": 26,
-            "last_updated": "2026-10-23",
+            "firm_count": 36,
+            "last_updated": "2026-10-27",
             "csv_file": "delaware-county-ok.csv"
         },
         {
             "slug": "sequoyah-county-ok",
             "name": "Sequoyah County",
             "state": "OK",
-            "firm_count": 27,
-            "last_updated": "2026-10-23",
+            "firm_count": 36,
+            "last_updated": "2026-10-27",
             "csv_file": "sequoyah-county-ok.csv"
         },
         {
             "slug": "mayes-county-ok",
             "name": "Mayes County",
             "state": "OK",
-            "firm_count": 28,
-            "last_updated": "2026-10-23",
+            "firm_count": 42,
+            "last_updated": "2026-10-27",
             "csv_file": "mayes-county-ok.csv"
         },
         {
             "slug": "pontotoc-county-ok",
             "name": "Pontotoc County",
             "state": "OK",
-            "firm_count": 45,
-            "last_updated": "2026-10-23",
+            "firm_count": 61,
+            "last_updated": "2026-10-27",
             "csv_file": "pontotoc-county-ok.csv"
         },
         {
             "slug": "lincoln-county-ok",
             "name": "Lincoln County",
             "state": "OK",
-            "firm_count": 15,
-            "last_updated": "2026-10-23",
+            "firm_count": 21,
+            "last_updated": "2026-10-27",
             "csv_file": "lincoln-county-ok.csv"
         },
         {
             "slug": "mccurtain-county-ok",
             "name": "McCurtain County",
             "state": "OK",
-            "firm_count": 24,
-            "last_updated": "2026-10-23",
+            "firm_count": 31,
+            "last_updated": "2026-10-27",
             "csv_file": "mccurtain-county-ok.csv"
         },
         {
             "slug": "ottawa-county-ok",
             "name": "Ottawa County",
             "state": "OK",
-            "firm_count": 24,
-            "last_updated": "2026-10-23",
+            "firm_count": 40,
+            "last_updated": "2026-10-27",
             "csv_file": "ottawa-county-ok.csv"
         },
         {
             "slug": "custer-county-ok",
             "name": "Custer County",
             "state": "OK",
-            "firm_count": 28,
-            "last_updated": "2026-10-23",
+            "firm_count": 38,
+            "last_updated": "2026-10-27",
             "csv_file": "custer-county-ok.csv"
         },
         {
             "slug": "garvin-county-ok",
             "name": "Garvin County",
             "state": "OK",
-            "firm_count": 24,
-            "last_updated": "2026-10-23",
+            "firm_count": 30,
+            "last_updated": "2026-10-27",
             "csv_file": "garvin-county-ok.csv"
         },
         {
             "slug": "caddo-county-ok",
             "name": "Caddo County",
             "state": "OK",
-            "firm_count": 14,
-            "last_updated": "2026-10-23",
+            "firm_count": 21,
+            "last_updated": "2026-10-27",
             "csv_file": "caddo-county-ok.csv"
         },
         {
             "slug": "jackson-county-ok",
             "name": "Jackson County",
             "state": "OK",
-            "firm_count": 20,
-            "last_updated": "2026-10-23",
+            "firm_count": 27,
+            "last_updated": "2026-10-27",
             "csv_file": "jackson-county-ok.csv"
         },
         {
             "slug": "seminole-county-ok",
             "name": "Seminole County",
             "state": "OK",
-            "firm_count": 15,
-            "last_updated": "2026-10-23",
+            "firm_count": 21,
+            "last_updated": "2026-10-27",
             "csv_file": "seminole-county-ok.csv"
         },
         {
             "slug": "beckham-county-ok",
             "name": "Beckham County",
             "state": "OK",
-            "firm_count": 22,
-            "last_updated": "2026-10-24",
+            "firm_count": 26,
+            "last_updated": "2026-10-27",
             "csv_file": "beckham-county-ok.csv"
         },
         {
             "slug": "texas-county-ok",
             "name": "Texas County",
             "state": "OK",
-            "firm_count": 11,
-            "last_updated": "2026-10-24",
+            "firm_count": 18,
+            "last_updated": "2026-10-27",
             "csv_file": "texas-county-ok.csv"
         },
         {
             "slug": "adair-county-ok",
             "name": "Adair County",
             "state": "OK",
-            "firm_count": 13,
-            "last_updated": "2026-10-24",
+            "firm_count": 16,
+            "last_updated": "2026-10-27",
             "csv_file": "adair-county-ok.csv"
         },
         {
             "slug": "woodward-county-ok",
             "name": "Woodward County",
             "state": "OK",
-            "firm_count": 17,
-            "last_updated": "2026-10-24",
+            "firm_count": 24,
+            "last_updated": "2026-10-27",
             "csv_file": "woodward-county-ok.csv"
         },
         {
             "slug": "mcintosh-county-ok",
             "name": "McIntosh County",
             "state": "OK",
-            "firm_count": 9,
-            "last_updated": "2026-10-24",
+            "firm_count": 16,
+            "last_updated": "2026-10-27",
             "csv_file": "mcintosh-county-ok.csv"
         },
         {
             "slug": "marshall-county-ok",
             "name": "Marshall County",
             "state": "OK",
-            "firm_count": 7,
-            "last_updated": "2026-10-24",
+            "firm_count": 9,
+            "last_updated": "2026-10-27",
             "csv_file": "marshall-county-ok.csv"
         },
         {
             "slug": "pawnee-county-ok",
             "name": "Pawnee County",
             "state": "OK",
-            "firm_count": 10,
-            "last_updated": "2026-10-24",
+            "firm_count": 13,
+            "last_updated": "2026-10-27",
             "csv_file": "pawnee-county-ok.csv"
         },
         {
             "slug": "kingfisher-county-ok",
             "name": "Kingfisher County",
             "state": "OK",
-            "firm_count": 15,
-            "last_updated": "2026-10-24",
+            "firm_count": 21,
+            "last_updated": "2026-10-27",
             "csv_file": "kingfisher-county-ok.csv"
         },
         {
             "slug": "atoka-county-ok",
             "name": "Atoka County",
             "state": "OK",
-            "firm_count": 7,
-            "last_updated": "2026-10-24",
+            "firm_count": 9,
+            "last_updated": "2026-10-27",
             "csv_file": "atoka-county-ok.csv"
         },
         {
             "slug": "craig-county-ok",
             "name": "Craig County",
             "state": "OK",
-            "firm_count": 13,
-            "last_updated": "2026-10-24",
+            "firm_count": 14,
+            "last_updated": "2026-10-27",
             "csv_file": "craig-county-ok.csv"
         },
         {
             "slug": "choctaw-county-ok",
             "name": "Choctaw County",
             "state": "OK",
-            "firm_count": 13,
-            "last_updated": "2026-10-24",
+            "firm_count": 20,
+            "last_updated": "2026-10-27",
             "csv_file": "choctaw-county-ok.csv"
         },
         {
             "slug": "murray-county-ok",
             "name": "Murray County",
             "state": "OK",
-            "firm_count": 11,
-            "last_updated": "2026-10-24",
+            "firm_count": 16,
+            "last_updated": "2026-10-27",
             "csv_file": "murray-county-ok.csv"
         },
         {
             "slug": "hughes-county-ok",
             "name": "Hughes County",
             "state": "OK",
-            "firm_count": 6,
-            "last_updated": "2026-10-24",
+            "firm_count": 9,
+            "last_updated": "2026-10-27",
             "csv_file": "hughes-county-ok.csv"
         },
         {
             "slug": "haskell-county-ok",
             "name": "Haskell County",
             "state": "OK",
-            "firm_count": 9,
-            "last_updated": "2026-10-24",
+            "firm_count": 12,
+            "last_updated": "2026-10-27",
             "csv_file": "haskell-county-ok.csv"
         },
         {
             "slug": "okfuskee-county-ok",
             "name": "Okfuskee County",
             "state": "OK",
-            "firm_count": 5,
-            "last_updated": "2026-10-24",
+            "firm_count": 9,
+            "last_updated": "2026-10-27",
             "csv_file": "okfuskee-county-ok.csv"
         },
         {
             "slug": "noble-county-ok",
             "name": "Noble County",
             "state": "OK",
-            "firm_count": 7,
-            "last_updated": "2026-10-24",
+            "firm_count": 14,
+            "last_updated": "2026-10-27",
             "csv_file": "noble-county-ok.csv"
         },
         {
             "slug": "washita-county-ok",
             "name": "Washita County",
             "state": "OK",
-            "firm_count": 3,
-            "last_updated": "2026-10-24",
+            "firm_count": 4,
+            "last_updated": "2026-10-27",
             "csv_file": "washita-county-ok.csv"
         },
         {
             "slug": "pushmataha-county-ok",
             "name": "Pushmataha County",
             "state": "OK",
-            "firm_count": 7,
-            "last_updated": "2026-10-24",
+            "firm_count": 10,
+            "last_updated": "2026-10-27",
             "csv_file": "pushmataha-county-ok.csv"
         },
         {
             "slug": "love-county-ok",
             "name": "Love County",
             "state": "OK",
-            "firm_count": 6,
-            "last_updated": "2026-10-24",
+            "firm_count": 8,
+            "last_updated": "2026-10-27",
             "csv_file": "love-county-ok.csv"
         },
         {
             "slug": "johnston-county-ok",
             "name": "Johnston County",
             "state": "OK",
-            "firm_count": 4,
-            "last_updated": "2026-10-24",
+            "firm_count": 5,
+            "last_updated": "2026-10-27",
             "csv_file": "johnston-county-ok.csv"
+        },
+        {
+            "slug": "alfalfa-county-ok",
+            "name": "Alfalfa County",
+            "state": "OK",
+            "firm_count": 8,
+            "last_updated": "2026-10-27",
+            "csv_file": "alfalfa-county-ok.csv"
+        },
+        {
+            "slug": "beaver-county-ok",
+            "name": "Beaver County",
+            "state": "OK",
+            "firm_count": 3,
+            "last_updated": "2026-10-27",
+            "csv_file": "beaver-county-ok.csv"
+        },
+        {
+            "slug": "blaine-county-ok",
+            "name": "Blaine County",
+            "state": "OK",
+            "firm_count": 16,
+            "last_updated": "2026-10-27",
+            "csv_file": "blaine-county-ok.csv"
+        },
+        {
+            "slug": "cimarron-county-ok",
+            "name": "Cimarron County",
+            "state": "OK",
+            "firm_count": 4,
+            "last_updated": "2026-10-27",
+            "csv_file": "cimarron-county-ok.csv"
+        },
+        {
+            "slug": "coal-county-ok",
+            "name": "Coal County",
+            "state": "OK",
+            "firm_count": 5,
+            "last_updated": "2026-10-27",
+            "csv_file": "coal-county-ok.csv"
+        },
+        {
+            "slug": "cotton-county-ok",
+            "name": "Cotton County",
+            "state": "OK",
+            "firm_count": 3,
+            "last_updated": "2026-10-27",
+            "csv_file": "cotton-county-ok.csv"
+        },
+        {
+            "slug": "dewey-county-ok",
+            "name": "Dewey County",
+            "state": "OK",
+            "firm_count": 3,
+            "last_updated": "2026-10-27",
+            "csv_file": "dewey-county-ok.csv"
+        },
+        {
+            "slug": "ellis-county-ok",
+            "name": "Ellis County",
+            "state": "OK",
+            "firm_count": 4,
+            "last_updated": "2026-10-27",
+            "csv_file": "ellis-county-ok.csv"
+        },
+        {
+            "slug": "grant-county-ok",
+            "name": "Grant County",
+            "state": "OK",
+            "firm_count": 4,
+            "last_updated": "2026-10-27",
+            "csv_file": "grant-county-ok.csv"
+        },
+        {
+            "slug": "greer-county-ok",
+            "name": "Greer County",
+            "state": "OK",
+            "firm_count": 6,
+            "last_updated": "2026-10-27",
+            "csv_file": "greer-county-ok.csv"
+        },
+        {
+            "slug": "harmon-county-ok",
+            "name": "Harmon County",
+            "state": "OK",
+            "firm_count": 1,
+            "last_updated": "2026-10-27",
+            "csv_file": "harmon-county-ok.csv"
+        },
+        {
+            "slug": "harper-county-ok",
+            "name": "Harper County",
+            "state": "OK",
+            "firm_count": 6,
+            "last_updated": "2026-10-27",
+            "csv_file": "harper-county-ok.csv"
+        },
+        {
+            "slug": "jefferson-county-ok",
+            "name": "Jefferson County",
+            "state": "OK",
+            "firm_count": 5,
+            "last_updated": "2026-10-27",
+            "csv_file": "jefferson-county-ok.csv"
+        },
+        {
+            "slug": "kiowa-county-ok",
+            "name": "Kiowa County",
+            "state": "OK",
+            "firm_count": 6,
+            "last_updated": "2026-10-27",
+            "csv_file": "kiowa-county-ok.csv"
+        },
+        {
+            "slug": "latimer-county-ok",
+            "name": "Latimer County",
+            "state": "OK",
+            "firm_count": 6,
+            "last_updated": "2026-10-27",
+            "csv_file": "latimer-county-ok.csv"
+        },
+        {
+            "slug": "major-county-ok",
+            "name": "Major County",
+            "state": "OK",
+            "firm_count": 9,
+            "last_updated": "2026-10-27",
+            "csv_file": "major-county-ok.csv"
+        },
+        {
+            "slug": "nowata-county-ok",
+            "name": "Nowata County",
+            "state": "OK",
+            "firm_count": 5,
+            "last_updated": "2026-10-27",
+            "csv_file": "nowata-county-ok.csv"
+        },
+        {
+            "slug": "rogermills-county-ok",
+            "name": "Roger Mills County",
+            "state": "OK",
+            "firm_count": 2,
+            "last_updated": "2026-10-27",
+            "csv_file": "rogermills-county-ok.csv"
+        },
+        {
+            "slug": "tillman-county-ok",
+            "name": "Tillman County",
+            "state": "OK",
+            "firm_count": 5,
+            "last_updated": "2026-10-27",
+            "csv_file": "tillman-county-ok.csv"
+        },
+        {
+            "slug": "woods-county-ok",
+            "name": "Woods County",
+            "state": "OK",
+            "firm_count": 10,
+            "last_updated": "2026-10-27",
+            "csv_file": "woods-county-ok.csv"
         }
     ]
 }

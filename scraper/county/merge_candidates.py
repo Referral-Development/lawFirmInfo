@@ -61,6 +61,9 @@ def main():
                     r.setdefault("source", src); recs.append(r)
         else:
             recs += raw
+    for r in recs:  # Avvo returns ZIP+4 ('73550-0489'): normalise to 5 digits or the ZIP pre-filter silently drops them
+        z = re.sub(r"[^0-9-]", "", str(r.get("zip") or ""))
+        r["zip"] = z[:5] if re.match(r"^\d{5}(-\d{4})?$", z) else (r.get("zip") or "")
     # cheap pre-filter before geocoding: ZIP must belong to the county (cfg zips + zips seen in the MoBar directory)
     zset = set(cfg.get("zip_codes", []))
     sib = {"64079", "64078", "64102", "64105", "64106", "64108", "64110", "64111", "64112", "64114", "64127",
