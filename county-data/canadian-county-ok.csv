@@ -1,549 +1,204 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers
-Alicia Quenette Currin-Moore,https://walshgallegos.com/,,,,OK,Canadian,,acurrinmoore@wabsa.com,General Practice,,,Oklahoma City,1,
-Andrea Johanna Adum,https://andreaadum.com,,,,OK,Canadian,(405) 933-2415,andrea@andreaadum.com,Immigration,,,Oklahoma City,3,
-Andrew Michael-Don Casey,https://hchokc.com,,,,OK,Canadian,,casey@hchokc.com,Personal Injury,,,Oklahoma City,3,
-Angela Willow Ganote,http://chickasaw.net,,,,OK,Canadian,,angela.ganote@chickasaw.net,Litigation,,,Oklahoma City,3,
-Antuanya SanTaro DeBose,https://www.oid.ok.gov/about-oid/divisions-programs/legal-division/,,,,OK,Canadian,(405) 833-0202,Bo@deboselaw.com,General Practice,,,Oklahoma City,1,
-Aubrey Joli DeClercq,http://Thedeclercqlawfirm.com,,,,OK,Canadian,(405) 426-7088,aubrey@thedeclercqlawfirm.com,General Practice,,,Oklahoma City,1,
-Austin David Manley,http://Manleylegalservices.com,,,,OK,Canadian,(918) 955-6393,austin.manley@manleylegalservices.com,Business & Corporate Law,,,Oklahoma City,3,
-Brandon Thomas Orr,https://orrlawok.com,,,,OK,Canadian,,brandon@orrlawok.com,General Practice,,,Oklahoma City,1,
-Brett M Stingley,,,,,OK,Canadian,(405) 268-6821,bmstingley@gmail.com,Litigation,,,Oklahoma City,3,
-Britni Dawn Cobb,https://bdcobblaw.com,,,,OK,Canadian,,info@bdcobblaw.com,General Practice,,,Oklahoma City,1,
-Bryan Charles Dixon,https://ok-counsel.com,,,,OK,Canadian,(405) 850-5071,bdixon@ok-counsel.com,Litigation,,,Oklahoma City,3,
-Candice Lynnette Milard,,,,,OK,Canadian,,c.milardlaw@gmail.com,General Practice,,,Oklahoma City,1,
-"Carlos Dayne Mayes, IV",,,,,OK,Canadian,(405) 517-6818,daynemayes@gmail.com,General Practice,,,Oklahoma City,1,
-Chase Addison Grant,https://estateplanoklahoma.com,,,,OK,Canadian,,chase@estateplanoklahoma.com,Estate Planning and Probate,,,Oklahoma City,3,
-Dayten Aberaham Israel,https://launchpointe.legal/,,,,OK,Canadian,,dayten@launchpointe.legal,Business & Corporate Law,,,Oklahoma City,3,
-Dillan Mark Savage,https://wirthlawoffice.com,,,,OK,Canadian,(918) 289-8688,dillan@wirthlawoffice.com,General Practice,,,Oklahoma City,3,
-Dustin Dwight Peterson,http://www.petersonlawcenter.com,,,,OK,Canadian,,attorneydustinpeterson@gmail.com,General Practice,,,Oklahoma City,1,
-ElFairo Antonio Mitchell,http://www.heritageoaklaw.com,,,,OK,Canadian,,fairomitchell@gmail.com,General Practice,,,Oklahoma City,1,
-Email : Unlisted,,,,,OK,Canadian,,,General Practice,,,Oklahoma City,1,
-Graham Ian Guhl,http://www.guhllawfirm.com,,,,OK,Canadian,(405) 609-2929,graham@guhllawfirm.com,Criminal Defense,,,Oklahoma City,3,
-Jane A. Webb,https://mycc.bank,,,,OK,Canadian,,jane.w@mycc.bank,General Practice,,,Oklahoma City,3,
-Javier Giovanny Hernandez,http://jghernandezlaw.com,,,,OK,Canadian,(405) 774-2020,ATTORNEY@JGHERNANDEZLAW.COM,General Practice,,,Oklahoma City,1,
-Jennifer Bridgforth Volino,https://thetitlelawgroup.com/,,,,OK,Canadian,(405) 488-7061,jvolino@trimblelawgroup.com,General Practice,,,Oklahoma City,1,
-John Cecil Harrison,,,,,OK,Canadian,(405) 343-0545,jharrisonlaw@sbcglobal.net,Real Property (Land),,,Oklahoma City,3,
-Jon Mitchell Surrett,https://surrettandassociates.com,,,,OK,Canadian,,mitchsurrett@surrettandassociates.com,Government Practice,,,Oklahoma City,3,
-Julie Dawn Gragg-Landes,http://rlslawyer.com,,,,OK,Canadian,,julie@RLSLawyer.com,General Practice,,,Oklahoma City,1,
-Kristen Louise Hartman,https://hartmanlawokc.com,,,,OK,Canadian,(405) 605-1961,kristen@hartmanlawokc.com,Criminal Defense,,,Oklahoma City,3,
-Kristin Fisher Stacy,http://www.stacylegalgroup.com/,,,,OK,Canadian,,Kristin@stacylegalgroup.com,General Practice,,,Oklahoma City,1,
-Lauren Fisher Guhl,,,,,OK,Canadian,(405) 627-0079,guhl.lauren@gmail.com,Family Law,,,Oklahoma City,3,
-Leann Gloria Farha,https://jeffcrainlaw.com,,,,OK,Canadian,,leann@jeffcrainlaw.com,Estate Planning and Probate,,,Oklahoma City,3,
-Leslie Lanay Jones,,,,,OK,Canadian,,leslielanayj@gmail.com,Personal Injury,,,Oklahoma City,3,
-Lori Ann Young,https://trinitylegal.org,,,,OK,Canadian,(405) 226-1300,lyoung@trinitylegal.org,Family Law,,,Oklahoma City,3,
-Matthew David Craig,https://ogletreedeakins.com,,,,OK,Canadian,,matthew.craig@ogletreedeakins.com,Litigation,,,Oklahoma City,3,
-Michael Allen Dial,,,,,OK,Canadian,,michaeladial@yahoo.com,Personal Injury,,,Oklahoma City,3,
-Nathaniel F. Raddatz,,,,,OK,Canadian,(405) 848-2409,nraddatz@hotmail.com,Real Property (Land),,,Oklahoma City,3,
-Nevin Ray Kirkland,,,,,OK,Canadian,,nkirkland@live.com,General Practice,,,Oklahoma City,1,
-Paul Clayton Eubanks,https://mines.ok.gov,,,,OK,Canadian,(405) 522-9849,clayton.eubanks@mines.ok.gov,General Practice,,,Oklahoma City,1,
-Rachel Brooke Morefield,,,,,OK,Canadian,,rachel@rmorefieldlaw.com,Estate Planning and Probate,,,Oklahoma City,3,
-"Robert F. Groshon, Jr.",https://groshonlawoffice.com,,,,OK,Canadian,(405) 290-7002,bob@groshonlawoffice.com,Criminal Defense,,,Oklahoma City,3,
-Rodney Gavin Fouts,http://www.pioneerestateplanning.com,,,,OK,Canadian,(405) 215-9222,gavin@pioneer.legal,Personal Injury,,,Oklahoma City,3,
-Ryan Wilson Hearne,,,,,OK,Canadian,(405) 471-7578,rwhboy@gmail.com,General Practice,,,Oklahoma City,1,
-Sarah Danielle Willey,,,,,OK,Canadian,,sarahdwilley1@gmail.com,Family Law,,,Oklahoma City,3,
-Sarah Michelle Ventris,http://www.legatumlegalok.com,,,,OK,Canadian,(405) 654-1390,sarah@legatumlegalok.com,Estate Planning and Probate,,,Oklahoma City,3,
-Sealy R. Adams,https://okdhs.org,,,,OK,Canadian,,sealy.adams@okdhs.org,General Practice,,,Oklahoma City,1,
-Shelly Ann McCorkle,http://www.McCorkleLawOK.com,,,,OK,Canadian,(405) 888-9100,Shelly@McCorkleLawOK.com,Criminal Defense,,,Oklahoma City,3,
-Shiloh Renes,https://forbesandrenes.com,,,,OK,Canadian,(405) 733-1990,srenes@forbesandrenes.com,Personal Injury,,,Oklahoma City,3,
-Stephanie Ashton Morris,,,,,OK,Canadian,,steph.morrislaw@gmail.com,Criminal Defense,,,Oklahoma City,3,
-Stephen Edward Dimas,,,,,OK,Canadian,,stephenedimas@gmail.com,General Practice,,,Oklahoma City,1,
-Tanner Edward Rice,,,,,OK,Canadian,(405) 823-1241,ricelawfirm.ok@gmail.com,Personal Injury,,,Oklahoma City,3,
-Terry Reed McMillan,,,,,OK,Canadian,(405) 301-9086,t.mcmillan.reed@gmail.com,Personal Injury,,,Oklahoma City,3,
-Timothy James Gallegly,https://crowedunlevy.com,,,,OK,Canadian,,tim.gallegly@crowedunlevy.com,General Practice,,,Oklahoma City,3,
-Todd Lance Grimmett,,,,,OK,Canadian,(405) 612-0024,toddlanceg@gmail.com,General Practice,,,Oklahoma City,3,
-Travis James Vernier,https://www.bennettvernier.com/,,,,OK,Canadian,(405) 456-0404,travis@bennettvernier.com,General Practice,,,Oklahoma City,1,
-Stephen Ezra Dyer,https://stevedyer.law,,,Ardmore,OK,Canadian,(580) 223-1656,steve@stevedyer.law,Estate Planning and Probate,,73402,Oklahoma City,3,
-L. A. Mercer,https://usa.com,,,Bethany,OK,Canadian,(405) 525-8858,Mercer.Law@usa.com,General Practice,,73008,Oklahoma City,1,
-Ryan Christner Owens,https://bethanylaw.com/ryan-c-owens/,,,Bethany,OK,Canadian,(405) 603-5080,ryan@bethanylaw.com,Family Law,,73008,Oklahoma City,3,
-See Notes,,,,Bethany,OK,Canadian,(405) 837-0388,tlbarrpc@gmail.com,General Practice,,73008,Oklahoma City,1,
-Shelly Ann Perkins,,,,Bethany,OK,Canadian,(405) 789-4611,saplawok@gmail.com,Estate Planning and Probate,,73008,Oklahoma City,3,
-Daniel Ryan Hensch,,,,Broken Arrow,OK,Canadian,(405) 633-5164,henschman@hotmail.com,General Practice,,74012,Oklahoma City,1,
-"Harry D. Gatewood, II",https://uco.edu,,,Checotah,OK,Canadian,(918) 843-0821,hgatewood1@uco.edu,Family Law,,74426,Oklahoma City,3,
-David Keith Ratcliff,http://ivyratcliffchasteen.com,,,Chickasha,OK,Canadian,(405) 224-1181,david@ivyratcliffchasteen.com,General Practice,,73023,Oklahoma City,1,
-John Thomas Coyne,,,,Choctaw,OK,Canadian,(405) 464-2932,jcoynelaw@gmail.com,Family Law,,73020,Oklahoma City,3,
-Kenneth Bernard Behrens,https://occ.ok.gov,,,Choctaw,OK,Canadian,(405) 543-3444,ken.behrens@occ.ok.gov,General Practice,,73020,Oklahoma City,3,
-Donelle Holbert Ratheal,http://www.RathealFamilyLaw.com,,,Clinton,OK,Canadian,(580) 323-2764,Donelle@RathealFamilyLaw.com,Family Law,,73601,Oklahoma City,3,
-Shaun Thomas Riley,,,,Del City,OK,Canadian,(405) 370-0322,sriley4@yahoo.com,General Practice,,73115,Oklahoma City,3,
-A. Daniel Woska,http://www.woskalawfirm.com,,,Edmond,OK,Canadian,,dwoska@devollaw.com,Business & Corporate Law,,73013,Oklahoma City,3,
-A. J. Jones,https://jones-familylaw.com,,,Edmond,OK,Canadian,(405) 590-6718,aj@jones-familylaw.com,Family Law,,73013,Oklahoma City,3,
-Aaron Don Gwartney,https://gwartneylawgroup.com,,,Edmond,OK,Canadian,(405) 249-3374,aaron@gwartneylawgroup.com,General Practice,,73013,Oklahoma City,1,
-Ashley Smart Manning,http://www.manninglawfirm.net,,,Edmond,OK,Canadian,(405) 454-4135,ashley@manninglawok.com,General Practice,,73013,Oklahoma City,1,
-Brent Douglas Coldiron,https://coldironlaw.com,,,Edmond,OK,Canadian,(405) 478-5655,brentcoldiron@coldironlaw.com,General Practice,,73034,Oklahoma City,1,
-Brett Dean Sanger,,,,Edmond,OK,Canadian,(405) 641-7046,BDsanger@outlook.com,Litigation,,73025,Oklahoma City,3,
-Bryan Neil Evans,https://evansdavis.com,,,Edmond,OK,Canadian,(866) 708-2335,bryan@evansdavis.com,General Practice,,73034,Oklahoma City,1,
-Cecil Wayne Heaton,http://heatonlawfirm.com,,,Edmond,OK,Canadian,(405) 330-8184,cecilheaton@sbcglobal.net,General Practice,,73034,Oklahoma City,1,
-Charles Earl Wetsel,https://teaguewetsel.com,,,Edmond,OK,Canadian,(405) 285-9200,cwetsel@teaguewetsel.com,Business & Corporate Law,,73013,Oklahoma City,3,
-Cheryl Lynn Husmann,https://husmannlaw.com,,,Edmond,OK,Canadian,(405) 285-1548,Cheryl@HusmannLaw.com,Estate Planning and Probate,,73083,Oklahoma City,3,
-Christina A. Billington,,,,Edmond,OK,Canadian,(405) 340-8530,cbillingtonlawfirm@gmail.com,General Practice,,73083,Oklahoma City,1,
-Craig Edward Brown,https://mbm-legal.com,,,Edmond,OK,Canadian,(405) 840-5151,cbrown@mbm-legal.com,General Practice,,73013,Oklahoma City,3,
-Curtis Nelson Bruehl,https://bruehllaw.com,,,Edmond,OK,Canadian,(405) 826-9089,cbruehl@bruehllaw.com,Family Law,,73013,Oklahoma City,3,
-David Allen Miley,,,,Edmond,OK,Canadian,(405) 819-6012,dmiley9@gmail.com,Government Practice,,73034,Oklahoma City,3,
-Davis Law Firm,http://www.davislaw-ok.com,,,Edmond,OK,Canadian,(405) 346-8880,davislawok@gmail.com,Trial Practice,,73003,Oklahoma City,3,
-Dorothy Elizabeth Heim,http://www.dorothyheimlaw.com,,,Edmond,OK,Canadian,(405) 445-6155,dorothy@heimlegalservices.com,Family Law,,73003,Oklahoma City,3,
-Elizabeth Ross-Jones,https://ross-jones-law.com,,,Edmond,OK,Canadian,(405) 471-5593,elizabeth@ross-jones-law.com,Estate Planning and Probate,,73013,Oklahoma City,3,
-Everette Chandler Altdoerffer,https://sbrucelaw.com,,,Edmond,OK,Canadian,(405) 330-4110,everette@sbrucelaw.com,General Practice,,73083,Oklahoma City,1,
-Gayle Freeman Cook Law,,,,Edmond,OK,Canadian,(405) 550-7932,gaylefreemancooklaw@gmail.com,Estate Planning and Probate,,73025,Oklahoma City,3,
-"George Robinson Stratton, III",http://www.attorneycop.com,,,Edmond,OK,Canadian,(405) 341-0987,,General Practice,,73083,Oklahoma City,1,
-Hannah E. Bullock-Traynor,https://jpcannonlawfirm.com,,,Edmond,OK,Canadian,(405) 657-2323,Hannah@JPCannonLawFirm.com,General Practice,,73003,Oklahoma City,1,
-Henry A. Drew Campo,,,,Edmond,OK,Canadian,(405) 359-3026,drewcampo@cox.net,General Practice,,73013,Oklahoma City,1,
-James Arthur Slayton,https://slaytonlaw.com,,,Edmond,OK,Canadian,(405) 848-9898,Jim@slaytonlaw.com,General Practice,,73034,Oklahoma City,1,
-James M. Levine,https://levinelawokc.com,,,Edmond,OK,Canadian,(405) 232-5955,jlevine@levinelawokc.com,Family Law,,73003,Oklahoma City,3,
-James Matthew Branum,http://girightslawyer.com,,,Edmond,OK,Canadian,(405) 494-0562,girightslawyer@gmail.com,General Practice,,73013,Oklahoma City,1,
-Janet L. Cox,,,,Edmond,OK,Canadian,(405) 226-0542,ladylwyer@hotmail.com,Criminal Defense,,73034,Oklahoma City,3,
-Jennifer Chapel Richard,,,,Edmond,OK,Canadian,(405) 218-4400,chapelrichardlaw@gmail.com,Family Law,,73003,Oklahoma City,3,
-Jon W. McLanahan,,,,Edmond,OK,Canadian,(405) 217-0064,jon.mclanahan@gmail.com,General Practice,,73003,Oklahoma City,1,
-Julie Diane Kelley,,,,Edmond,OK,Canadian,(405) 887-4422,juliedkelley@gmail.com,Family Law,,73083,Oklahoma City,3,
-Laurence K. Donahoe,http://www.collectorprotectors.com,,,Edmond,OK,Canadian,(405) 474-0522,lkdlaw@me.com,Trial Practice,,73003,Oklahoma City,3,
-Lawrence Rowe Scott,https://okc.gov,,,Edmond,OK,Canadian,(405) 412-4850,lawrence.scott@okc.gov,Criminal Defense,,73034,Oklahoma City,3,
-LeAnne McGill,https://mcgillrodgers.com,,,Edmond,OK,Canadian,(405) 285-8048,leanne@mcgillrodgers.com,General Practice,,73034,Oklahoma City,1,
-Leslie Gene Sparks,,,,Edmond,OK,Canadian,(405) 600-9995,sparkslaw@gmail.com,Family Law,,73003,Oklahoma City,3,
-Lewis Mark Bonner,http://www.markbonner.com,,,Edmond,OK,Canadian,,mb73013@gmail.com,Personal Injury,,73013,Oklahoma City,3,
-Lucas Jon Munson,https://munsonmcmillin.com,,,Edmond,OK,Canadian,(405) 513-7707,lmunson@munsonmcmillin.com,General Practice,,73034,Oklahoma City,1,
-Lynn David McBride,http://www.mcbridelaw.net,,,Edmond,OK,Canadian,(405) 842-7626,david@mcbridelaw.net,Estate Planning and Probate,,73003,Oklahoma City,3,
-Mark Edmund Wilson,http://www.markwilsonlaw.com,,,Edmond,OK,Canadian,(405) 525-1900,,Personal Injury,,73013,Oklahoma City,3,
-Martha Victoria Tehan,,,,Edmond,OK,Canadian,(405) 521-8530,,General Practice,,73013,Oklahoma City,1,
-Mary Ann Travis,http://www.marytravis.com,,,Edmond,OK,Canadian,(405) 819-8259,mary@marytravis.com,Family Law,,73034,Oklahoma City,3,
-Matthew Clay Goodin,http://www.glfok.com,,,Edmond,OK,Canadian,(405) 759-3100,mgoodin@glfok.com,Family Law,,73034,Oklahoma City,3,
-Matthew Curtis Fleischer,https://www.fleischerfirm.com/,,,Edmond,OK,Canadian,(405) 338-7679,matt@fleischerfirm.com,Real Property (Land),,73013,Oklahoma City,3,
-Melinda Felder O'Brien,,,,Edmond,OK,Canadian,(405) 396-0000,mobrienlawyer@me.com,Family Law,,73083,Oklahoma City,3,
-Melissa Ann Brooks,https://www.melissabrookslaw.com/,,,Edmond,OK,Canadian,(405) 383-6063,melissabrookslaw@gmail.com,General Practice,,73003,Oklahoma City,1,
-Melissa Dawn Thompson-Terrel,http://www.lawqms.com,,,Edmond,OK,Canadian,(405) 752-6000,mterrel@lawqms.com,Criminal Defense,,73012,Oklahoma City,3,
-Michael Charles Stone,https://mcstonelaw.com,,,Edmond,OK,Canadian,(405) 627-4381,michael@mcstonelaw.com,Litigation,,73012,Oklahoma City,3,
-Michael Sean Crooks,https://crooksstanford.com,,,Edmond,OK,Canadian,(405) 285-8588,mc@crooksstanford.com,Estate Planning and Probate,,73013,Oklahoma City,3,
-Noel Kristine Tucker,http://www.NoelTuckerLaw.com,,,Edmond,OK,Canadian,(405) 513-5750,Noel@NoelTuckerLaw.com,General Practice,,73013,Oklahoma City,1,
-Phillip James Tucker,http://www.oklawpartners.com,,,Edmond,OK,Canadian,(405) 340-1900,ptucker@oklawpartners.com,Family Law,,73013,Oklahoma City,3,
-Rachel Stoddard Morris,https://stoddardmorris.com,,,Edmond,OK,Canadian,(405) 509-6455,rachel@stoddardmorris.com,Family Law,,73013,Oklahoma City,3,
-Richard Allen Nelson,https://nelsonlawoklahoma.com,,,Edmond,OK,Canadian,(405) 844-0322,richard@nelsonlawoklahoma.com,Personal Injury,,73083,Oklahoma City,3,
-Richard Scott Winblad,https://winbladlaw.com,,,Edmond,OK,Canadian,(405) 696-0422,richard@winbladlaw.com,Estate Planning and Probate,,73034,Oklahoma City,3,
-"Robert Clarence Newark, III",,,,Edmond,OK,Canadian,(866) 230-7236,,Criminal Defense,,73034,Oklahoma City,3,
-Roger Nayar,http://www.nayarlawgroup.com,,,Edmond,OK,Canadian,(405) 294-4077,info@nayarlawgroup.com,Immigration,,73013,Oklahoma City,3,
-Sarah Elizabeth Hartsfield,http://www.helawedmond.com,,,Edmond,OK,Canadian,(405) 285-6858,sarah@helawedmond.com,General Practice,,73003,Oklahoma City,1,
-Spencer Fane LLP,https://spencerfane.com,,,Edmond,OK,Canadian,(405) 844-9900,gfreedman@spencerfane.com,Family Law,,73114,Oklahoma City,3,
-Stephen Craig Griffis,,,,Edmond,OK,Canadian,(405) 821-9981,scgriffis@gmail.com,Family Law,,73003,Oklahoma City,3,
-Stephen Robert Eck,,,,Edmond,OK,Canadian,(405) 425-5118,,Estate Planning and Probate,,73013,Oklahoma City,3,
-Stiletto Legal Group,http://www.stilettolegalgroup.com,,,Edmond,OK,Canadian,(405) 380-9887,nicole@stilettolegalgroup.com,Medical Malpractice,,73013,Oklahoma City,3,
-Thomas David Hasbrook,https://hasbrooklaw.com,,,Edmond,OK,Canadian,(405) 850-4760,tdh@hasbrooklaw.com,Personal Injury,,73034,Oklahoma City,3,
-"Thomas Neil Lynn, III",https://swbell.net,,,Edmond,OK,Canadian,(405) 555-5555,closed@swbell.net,General Practice,,73012,Oklahoma City,1,
-Valerie Ann Williford,,,,Edmond,OK,Canadian,(405) 226-8585,vawlaw@gmail.com,General Practice,,73012,Oklahoma City,1,
-Vicky Jo Allen,,,,Edmond,OK,Canadian,(405) 315-8824,,Family Law,,73013,Oklahoma City,3,
-Walter Steven Lewis,,,,Edmond,OK,Canadian,(405) 823-0807,slewislaw@aol.com,General Practice,,73013,Oklahoma City,1,
-Winton Law,https://wintonlaw.net,,,Edmond,OK,Canadian,(405) 478-4818,mlw@wintonlaw.net,General Practice,,73013,Oklahoma City,1,
-Amy Steele Neathery,,,,El Reno,OK,Canadian,(405) 209-8668,neatherylaw@outlook.com,Trial Practice,,73036,Oklahoma City,3,
-Bass Law El Reno,http://www.basslaw.net/,https://www.google.com/search?q=Bass+Law+El+Reno+El+Reno+OK&ludocid=4199877705314908010,,El Reno,OK,Canadian,(405) 262-4040,,Family Law,104 N Rock Island Ave,73036,Oklahoma City,4,
-Boling Tammy S,https://familyattorneysnearme.com/oklahoma/el-reno/boling-tammy-s/,https://www.google.com/search?q=Boling+Tammy+S+El+Reno+OK&ludocid=1832972573512703886,,El Reno,OK,Canadian,(405) 262-1101,,General,203 N Bickford Ave,73036,Oklahoma City,4,
-CUDJO'S BUSINESS LAW FIRM LLP,,https://www.google.com/search?q=CUDJO%27S+BUSINESS+LAW+FIRM+LLP+El+Reno+OK&ludocid=5494040358371343451,,El Reno,OK,Canadian,(405) 400-3714,,General,601 N Evans Ave,73036,Oklahoma City,4,
-Cooksey Cole Law Firm,,,,El Reno,OK,Canadian,(405) 422-5175,,General,,73036,Oklahoma City,4,
-David H Halley,,https://www.google.com/search?q=David+H+Halley+El+Reno+OK&ludocid=15934091315422742285,,El Reno,OK,Canadian,(405) 262-7800,,General,107 S Rock Island Ave,73036,Oklahoma City,4,
-Haley Law Office,,https://www.google.com/search?q=Haley+Law+Office+El+Reno+OK&ludocid=3265407632447798622,,El Reno,OK,Canadian,(405) 262-7100,,General,219 N Bickford Ave,73036,Oklahoma City,4,
-Handley Fletcher Dal Jr Atty,,https://www.google.com/search?q=Handley+Fletcher+Dal+Jr+Atty+El+Reno+OK&ludocid=6167624495407017902,,El Reno,OK,Canadian,(405) 262-3502,,Family Law,421 S Rock Island Ave,73036,Oklahoma City,4,
-Hershel Marcellous Gorham,http://www.hershelgorhamlaw.com,,,El Reno,OK,Canadian,(405) 821-5814,gorhamlawfirm@gmail.com,General Practice,,73036,Oklahoma City,1,
-Indian Affairs Bureau Law,,https://www.google.com/search?q=Indian+Affairs+Bureau+Law+El+Reno+OK&ludocid=2289465451467519826,,El Reno,OK,Canadian,(405) 262-4814,,General,1635 OK-66,73036,Oklahoma City,4,
-Kenneth Dominic Law Office,,https://www.google.com/search?q=Kenneth+Dominic+Law+Office+El+Reno+OK&ludocid=11191954306187030425,,El Reno,OK,Canadian,(405) 295-2929,,General,100 N Rock Island Ave,73036,Oklahoma City,4,
-Mc Cann Law Office,http://www.semccannlaw.com/,https://www.google.com/search?q=Mc+Cann+Law+Office+El+Reno+OK&ludocid=12633733318031579399,,El Reno,OK,Canadian,(405) 262-8100,scott@semccannlaw.com,Personal Injury,100 N Rock Island Ave # A,73036,Oklahoma City,5,
-Perkins Law Firm PLLC,http://www.perkins-lawfirm.com/,https://www.google.com/search?q=Perkins+Law+Firm+PLLC+El+Reno+OK&ludocid=298491957268571564,,El Reno,OK,Canadian,(405) 593-2662,,General,221 S Bickford Ave,73036,Oklahoma City,4,
-Rinehart Rinehart & Rinehart,http://rinehartlaw.net/,https://www.google.com/search?q=Rinehart+Rinehart+%26+Rinehart+El+Reno+OK&ludocid=18063499889258173484,,El Reno,OK,Canadian,(405) 262-2360,,Estate Planning,115 S Rock Island Ave #2732,73036,Oklahoma City,2,
-Scott Earl McCann,https://semccannlaw.com,,,El Reno,OK,Canadian,(405) 204-7100,scott@semccannlaw.com,General Practice,,73036,Oklahoma City,1,
-Skylar Ann Schneider,https://oklahoma.gov/oids/about/staff.html,,,El Reno,OK,Canadian,(405) 615-8174,skylar.bell@oids.ok.gov,Criminal Defense,,73036,Oklahoma City,3,
-Steffen Sandy,,https://www.google.com/search?q=Steffen+Sandy+El+Reno+OK&ludocid=3012153132730724850,,El Reno,OK,Canadian,(405) 262-1322,,General,107 S Rock Island Ave,73036,Oklahoma City,4,
-Stevener Arthur Jr Attorney At Law,,,,El Reno,OK,Canadian,(405) 262-4511,,General,200 N Choctaw Ave,73036,Oklahoma City,4,
-Susan D Williams PC,,,,El Reno,OK,Canadian,(405) 262-1449,,General,219 E Russell St,73036,Oklahoma City,4,
-Swain Law Group,http://www.swainlawgroup.com/,https://www.google.com/search?q=Swain+Law+Group+El+Reno+OK&ludocid=9940225468182376113,,El Reno,OK,Canadian,(405) 501-0827,,Personal Injury,421 S Rock Island Ave,73036,Oklahoma City,5,
-The Handley Law Center,https://www.handleylaw.com/,https://www.google.com/search?q=The+Handley+Law+Center+El+Reno+OK&ludocid=5843353661860187665,,El Reno,OK,Canadian,(405) 295-1924,,Personal Injury,111 S Rock Island Ave,73036,Oklahoma City,5,5
-The Law Office of Erik G. Roscom,http://roscomlaw.com/,https://www.google.com/search?q=The+Law+Office+of+Erik+G.+Roscom+El+Reno+OK&ludocid=11373639610180674721,,El Reno,OK,Canadian,(405) 295-1474,erik@roscomlaw.com,Criminal Defense,300 N Choctaw Ave Ste 3,73036,Oklahoma City,5,
-Joshua Cord Davis,http://www.joshthelawyer.com,,,Enid,OK,Canadian,(580) 233-1457,josh.davis.law@gmail.com,General Practice,,73701,Oklahoma City,1,
-"Silas R. Lyman, II",,,,Enid,OK,Canadian,(580) 977-2040,slymanlaw@yahoo.com,Criminal Defense,,73701,Oklahoma City,3,
-Sheri Marie Johnson,http://phoenixlaw.law,,,Foss,OK,Canadian,(405) 443-3944,sheri.johnson@phoenixlaw.law,General Practice,,73647,Oklahoma City,1,
-David Allen Hood,https://davidhoodlaw.com,,,Guthrie,OK,Canadian,(405) 282-4448,david@davidhoodlaw.com,Family Law,,73044,Oklahoma City,3,
-William Louis Keel,,,,Guthrie,OK,Canadian,(405) 209-2629,loukeel@yahoo.com,Workers Compensation,,73044,Oklahoma City,3,
-Dustin Lane Compton,https://dustincompton.com,,,Hinton,OK,Canadian,(405) 542-2529,Dustin@dustincompton.com,Criminal Defense,,73047,Oklahoma City,3,
-Kimberlee K. Taggart Spady,https://spadylaw.com,,,Hinton,OK,Canadian,(405) 542-6056,Kim@Spadylaw.com,General Practice,,73047,Oklahoma City,1,
-Robert Leo Irby,,,,Holdenville,OK,Canadian,(405) 379-9891,IrbyLaw@sbcglobal.net,Family Law,,74848,Oklahoma City,3,
-John D. Mashburn,,,,Jones,OK,Canadian,(405) 503-4953,jdmashburn@gmail.com,General Practice,,73049,Oklahoma City,3,
-Brian Albert Buswell,http://www.legalokc.com,,,Kingfisher,OK,Canadian,(405) 375-6653,lawyer@legalokc.com,Criminal Defense,,73750,Oklahoma City,3,
-Kenny R. Goza,,,,Lawton,OK,Canadian,(580) 354-0200,kenny@gwclawyers.com,General Practice,,73501,Oklahoma City,1,
-Toni Himes Capra,,,,Lawton,OK,Canadian,(580) 248-8811,capralawfirm@gmail.com,Personal Injury,,73501,Oklahoma City,3,
-Denielle Nichole Williams Chaney,https://chaneylawok.com,,,Luther,OK,Canadian,(405) 595-1751,denielle@chaneylawok.com,Family Law,,73054,Oklahoma City,3,
-Lynn Lee Loftis,,,,MUSKOGEE,OK,Canadian,(405) 850-4834,ljjloftis@att.net,Criminal Defense,,74403,Oklahoma City,3,
-Kelly Blake Davis,,,,Marlow,OK,Canadian,(580) 252-3030,kellydavislaw@att.net,Criminal Defense,,73055,Oklahoma City,3,
-Bryon Jay Will,https://bjwilllaw.com,,,Midwest City,OK,Canadian,(405) 308-4272,bryon@bjwilllaw.com,General Practice,,73110,Oklahoma City,3,
-Dr. Joseph A. Goldstein,,,,Midwest City,OK,Canadian,(405) 226-4708,jgoldstein85@yahoo.com,Taxation,,73110,Oklahoma City,3,
-Richard R Rice,https://ricelawfirm.net,,,Midwest City,OK,Canadian,(405) 732-6000,Rick@RiceLawFirm.net,General Practice,,73130,Oklahoma City,1,
-Branch Law Firm,https://405lawyer.com,,,Moore,OK,Canadian,(405) 563-1234,branchlaw@405lawyer.com,Personal Injury,,73153,Oklahoma City,3,
-Rodney Kyle Moore,,,,Moore,OK,Canadian,(405) 881-1093,rodmoorelawyer@gmail.com,General Practice,,73160,Oklahoma City,1,
-Arnold Elaine,http://elainearnoldlaw.com/,https://www.google.com/search?q=Arnold+Elaine+Mustang+OK&ludocid=14663392844693773573,,Mustang,OK,Canadian,(405) 376-6014,,General,543 E State Hwy 152 Ste 101,73064,Oklahoma City,4,
-Brandi Lynne Morgan,https://brandimorganlaw.com,,,Mustang,OK,Canadian,(405) 255-0171,brandi@brandimorganlaw.com,General Practice,,73064,Oklahoma City,1,
-Chris A Arledge PC,,https://www.google.com/search?q=Chris+A+Arledge+PC+Mustang+OK&ludocid=6114347918509113838,,Mustang,OK,Canadian,(405) 376-0911,,General,528 W State Hwy 152,73064,Oklahoma City,4,
-Claibourne Rick III,https://treyricklaw.com,,,Mustang,OK,Canadian,(405) 633-2261,trey@treyricklaw.com,General Practice,,73064,Oklahoma City,3,
-Denton Law Firm,https://dentonlawfirm.com/,https://www.google.com/search?q=Denton+Law+Firm+Mustang+OK&ludocid=997511207217167977,,Mustang,OK,Canadian,(405) 376-2212,,Personal Injury,925 W State Hwy 152,73064,Oklahoma City,5,
-Linda L Stevens PLLC,,https://www.google.com/search?q=Linda+L+Stevens+PLLC+Mustang+OK&ludocid=9069304484071330046,,Mustang,OK,Canadian,(405) 376-7038,,General,925 W State Hwy 152,73064,Oklahoma City,4,
-"Marvin Laws, P.C.",http://okconstructionlaw.net/,https://www.google.com/search?q=Marvin+Laws%2C+P.C.+Mustang+OK&ludocid=8419751661983880598,,Mustang,OK,Canadian,(405) 381-9933,okconstructionlaw@outlook.com,Civil Litigation,925 W State Hwy 152 Suite M,73064,Oklahoma City,3,
-"Miller Dollarhide, P.C.",http://www.millerdollarhide.com/,https://www.google.com/search?q=Miller+Dollarhide%2C+P.C.+Mustang+OK&ludocid=15097633974157664182,,Mustang,OK,Canadian,(405) 236-8541,,Social Security Disability,925 W State Hwy 152,73064,Oklahoma City,1,
-"O'Brien Law Firm, PLLC",https://obrienlawok.com/home,https://www.google.com/search?q=O%27Brien+Law+Firm%2C+PLLC+Mustang+OK&ludocid=10393394242940173535,,Mustang,OK,Canadian,(405) 479-1134,,Criminal Defense,7700 S Cimarron Rd,73064,Oklahoma City,5,
-Oklahoma City Family Law Center,http://okcfamilylawcenter.com/,https://www.google.com/search?q=Oklahoma+City+Family+Law+Center+Mustang+OK&ludocid=16708117857391057759,,Mustang,OK,Canadian,(405) 606-8713,,Family Law,202 N Mustang Rd Ste 20,73064,Oklahoma City,4,
-"Oklahoma Conflict Resolution Consultants, LLC",http://www.okconflictres.com/,https://www.google.com/search?q=Oklahoma+Conflict+Resolution+Consultants%2C+LLC+Mustang+OK&ludocid=13701552575730988453,,Mustang,OK,Canadian,(405) 982-5783,,Family Law,1460 N Mustang Rd Suite 112,73064,Oklahoma City,4,
-Rehl Law Firm,http://www.rehllawfirm.com/contact/index.html,https://www.google.com/search?q=Rehl+Law+Firm+Mustang+OK&ludocid=15016261896152876305,,Mustang,OK,Canadian,(405) 926-3369,,General,925 W State Hwy 152,73064,Oklahoma City,4,
-"Rice Law Firm, PLLC",http://www.ricelawfirmok.com/,https://www.google.com/search?q=Rice+Law+Firm%2C+PLLC+Mustang+OK&ludocid=727145524856822654,,Mustang,OK,Canadian,(405) 261-9802,Ricelawfirm.ok@gmail.com,Workers' Compensation,2019 E State Hwy 152 #101,73064,Oklahoma City,5,
-The Law Office of Dakota C. Low,https://dakotalow.com/,https://www.google.com/search?q=The+Law+Office+of+Dakota+C.+Low+Mustang+OK&ludocid=171848152475220513,,Mustang,OK,Canadian,(405) 601-8899,dlow@dakotalow.com,Personal Injury,925 W State Hwy 152,73064,Oklahoma City,5,
-The Law Office of Eliza Johnson,,https://www.google.com/search?q=The+Law+Office+of+Eliza+Johnson+Mustang+OK&ludocid=16694316167519563078,,Mustang,OK,Canadian,(405) 253-5817,,General,1321 E State Hwy 152,73064,Oklahoma City,4,
-Vandruff Legal,,https://www.google.com/search?q=Vandruff+Legal+Mustang+OK&ludocid=15665714152555562320,,Mustang,OK,Canadian,(405) 609-7684,,General,,73064,Oklahoma City,4,
-"William H. Whitehill, Jr.",https://whitehill.law,,,Mustang,OK,Canadian,(405) 548-4487,bill@whitehill.law,General Practice,,73064,Oklahoma City,1,
-Haley Lynn Simmoneau,http://www.thewisedecisions.com,,,Newcastle,OK,Canadian,(405) 212-3945,haley@athenalegalteam.com,General Practice,,73065,Oklahoma City,1,
-Ira Wayne Allison,http://www.allisonlegal.com,,,Nichols Hills,OK,Canadian,(405) 888-6933,wayne@allisonlegal.com,General Practice,,73116,Oklahoma City,3,
-"Lester W. Holbrook, Jr.",,,,Nichols Hills,OK,Canadian,(405) 642-5743,winholbrook@gmail.com,Bankruptcy - Business,,73120,Oklahoma City,3,
-Lundy Partin Makohin,,,,Nichols Hills,OK,Canadian,(405) 741-8715,lpartin@cox.net,General Practice,,73120,Oklahoma City,1,
-Amelia Beth Recla,https://normanoklawyer.com,,,Norman,OK,Canadian,(405) 310-2029,amelia.recla@normanoklawyer.com,Divorce,,73072,Oklahoma City,3,
-"Andrews Law Firm, PLLC",https://andrews.law,,,Norman,OK,Canadian,(405) 360-7001,greg@andrews.law,General Practice,,73069,Oklahoma City,3,
-Charles B. Davis,,,,Norman,OK,Canadian,(405) 310-2522,Davislaw42@live.com,Estate Planning and Probate,,73069,Oklahoma City,3,
-Cindy Loree' Allen,http://www.AllenandMills.com,,,Norman,OK,Canadian,(405) 701-8856,cindy@allenandmills.com,Criminal Defense,,73069,Oklahoma City,3,
-Daniel Bruce Pond,https://swainlawgroup.com,,,Norman,OK,Canadian,,dan@swainlawgroup.com,General Practice,,73069,Oklahoma City,1,
-Donna Marie Compton Garland,https://biclegal.com,,,Norman,OK,Canadian,(405) 568-3828,donna@biclegal.com,General Practice,,73069,Oklahoma City,1,
-"Eckstein Law Firm, PLLC",http://www.eckstein.law,,,Norman,OK,Canadian,(405) 738-8871,matt@eckstein.law,General Practice,,73069,Oklahoma City,1,
-Elliott Clark Crawford,https://oids.ok.gov,,,Norman,OK,Canadian,(405) 801-2727,elliott.crawford@oids.ok.gov,General Practice,,73069,Oklahoma City,1,
-Ferris Jay Barger,,,,Norman,OK,Canadian,(405) 388-7599,Ferris.Barger@icloud.com,General Practice,,73019,Oklahoma City,1,
-James Steven Estes,,,,Norman,OK,Canadian,(405) 857-2099,,Personal Injury,,73071,Oklahoma City,3,
-Joseph Michael Sherrod,,,,Norman,OK,Canadian,(405) 323-0658,sherrodlawfirm@outlook.com,Criminal Defense,,73069,Oklahoma City,3,
-Lesslie Wayne Edgar,,,,Norman,OK,Canadian,(405) 360-7555,wayne@edgarlawyers.com,Business & Corporate Law,,73072,Oklahoma City,3,
-Lynn Brusin Mares,,,,Norman,OK,Canadian,(405) 535-7981,lbmares@hotmail.com,Personal Injury,,73072,Oklahoma City,3,
-Margaret Ann Harcourt,,,,Norman,OK,Canadian,(405) 833-7202,m.annharcourt@gmail.com,Family Law,,73069,Oklahoma City,3,
-Paul Allen Scott,https://scottlawpc.com,,,Norman,OK,Canadian,(405) 702-4070,pscott@scottlawpc.com,Family Law,,73071,Oklahoma City,3,
-"Richard E. Smalley, III",https://redhawklaw.com,,,Norman,OK,Canadian,(405) 801-2222,dicksmalley@redhawklaw.com,Family Law,,73069,Oklahoma City,3,
-Robert Alden French,https://monnethayes.com,,,Norman,OK,Canadian,(405) 329-9626,bfrench@monnethayes.com,General Practice,,73072,Oklahoma City,1,
-"Robert Charles Brown, Jr.",https://tommyklepperlaw.com,,,Norman,OK,Canadian,(405) 928-5055,bobbrown@tommyklepperlaw.com,General Practice,,73070,Oklahoma City,1,
-Scott Kenneth Suchy,,,,Norman,OK,Canadian,(405) 525-8801,scottksuchypllc@gmail.com,Litigation,,73070,Oklahoma City,3,
-Spencer Bowen Housley,http://www.housleyinjurylaw.com,,,Norman,OK,Canadian,(405) 601-4017,shousley@housleyinjurylaw.com,General Practice,,73069,Oklahoma City,1,
-Tracey J. Langford,https://ou.edu,,,Norman,OK,Canadian,(405) 990-5545,traceylangford@ou.edu,Criminal Defense,,73019,Oklahoma City,3,
-Andrew Kevin Long,,,,Nowata,OK,Canadian,(405) 562-0775,akevinlong1@gmail.com,Family Law,,74048,Oklahoma City,3,
-Arash Varshosaz,,,,OKLAHOMA CITY,OK,Canadian,(405) 808-1009,varshosazlaw@gmail.com,Immigration,,73128,Oklahoma City,3,
-Norman Franklin Austin,https://pldi.net,,,Okarche,OK,Canadian,(405) 263-4677,frankaustin@pldi.net,Personal Injury,,73762,Oklahoma City,3,
-A. Terry Cocon,https://coconlaw.com,,,Oklahoma City,OK,Canadian,(405) 922-7366,atcocon@coconlaw.com,Family Law,,73101,Oklahoma City,3,
-Aaron David Compton,,,,Oklahoma City,OK,Canadian,(405) 578-4529,adcompton777@gmail.com,General Practice,,73112,Oklahoma City,3,
-Aaron Wayne Easton,http://eastoncohenlaw.com,,,Oklahoma City,OK,Canadian,(405) 600-9245,aaron@eastoncohenlaw.com,General Practice,,73103,Oklahoma City,1,
-Abby Dinsmore Allford,http://www.abbyallford.com,,,Oklahoma City,OK,Canadian,,abby@abbyallford.com,Criminal Defense,,73106,Oklahoma City,3,
-Adam James Holcomb,https://holcomblegal.com,,,Oklahoma City,OK,Canadian,(405) 696-7779,adam@holcomblegal.com,Family Law,,73116,Oklahoma City,3,
-Adam Joseph Borders,,,,Oklahoma City,OK,Canadian,(405) 209-9293,adamb.blg@gmail.com,General Practice,,73116,Oklahoma City,1,
-Aharon Hernandez Manley,http://www.hernandezmanley.com,,,Oklahoma City,OK,Canadian,(405) 422-0000,ahm@MHMok.com,Criminal Defense,,73118,Oklahoma City,3,
-"Albert Willard Murry, Jr.",https://mcmlaw.net,,,Oklahoma City,OK,Canadian,(405) 226-0889,awmurry@mcmlaw.net,Criminal Defense,,73139,Oklahoma City,3,
-Alexander Edward Lane,http://www.mattswainlaw.com,,,Oklahoma City,OK,Canadian,(405) 701-0764,alex@swainlawgroup.com,Criminal Defense,,73116,Oklahoma City,3,
-Alexander Kerr Thomas,,,,Oklahoma City,OK,Canadian,(405) 618-2499,alexkerrthomas@gmail.com,Criminal Defense,,73102,Oklahoma City,3,
-Amanda Rae Blackwood,http://www.blackwoodlawfirm.com,,,Oklahoma City,OK,Canadian,(405) 309-3600,amanda@blackwoodlawfirm.com,Family Law,,73103,Oklahoma City,3,
-Amy J. Sine,https://hartzoglaw.com,,,Oklahoma City,OK,Canadian,(405) 235-7000,asine@hartzoglaw.com,General Practice,,73102,Oklahoma City,1,
-Amy Kathleen Lewis,http://www.lmlawok.com,,,Oklahoma City,OK,Canadian,(405) 283-2393,amy@lmlawok.com,Estate Planning and Probate,,73154,Oklahoma City,3,
-Andrew Elias Karim,http://www.karimlawoffice.com,,,Oklahoma City,OK,Canadian,(405) 985-3224,andrew@karimlawoffice.com,General Practice,,73120,Oklahoma City,3,
-Andrew Paul Murphy,http://www.AndrewPMurphy.com,,,Oklahoma City,OK,Canadian,(405) 524-5155,andrew@andrewpmurphy.com,Family Law,,73154,Oklahoma City,3,
-Anita K. Poole-Endsley,,,,Oklahoma City,OK,Canadian,(405) 306-3612,apooleark@yahoo.com,Family Law,,73150,Oklahoma City,3,
-Anthony Craig Galier,https://galierlaw.com,,,Oklahoma City,OK,Canadian,(405) 691-8669,agalier@galierlaw.com,Estate Planning and Probate,,73101,Oklahoma City,3,
-April Quiroz,http://www.arnesenlawfirm.com,,,Oklahoma City,OK,Canadian,(405) 706-0049,,Immigration,,73157,Oklahoma City,3,
-Ashley Dianna Rahill,http://www.rahilllawfirm.com,,,Oklahoma City,OK,Canadian,(405) 200-1057,ashley@rahilllawfirm.com,Divorce,,73103,Oklahoma City,3,
-Ashley Erin Feeback,,,,Oklahoma City,OK,Canadian,(405) 652-9654,,Family Law,,73102,Oklahoma City,3,
-Austin Shelton Pieratt,https://apinjury.law,,,Oklahoma City,OK,Canadian,(405) 551-5109,oktxlaw@gmail.com,Personal Injury,,73112,Oklahoma City,3,
-"Benjamin Lafayette Munda, IV",https://mundalaw.com,,,Oklahoma City,OK,Canadian,(405) 971-4769,benm@mundalaw.com,General Practice,,73107,Oklahoma City,1,
-Brad Scott Clark,,,,Oklahoma City,OK,Canadian,(405) 420-4318,Bradley.Clark@oag.ok.gov,General Practice,,73103,Oklahoma City,1,
-Brandelyn Murphy Duden,https://trs.ok.gov,,,Oklahoma City,OK,Canadian,(405) 512-8816,brandelyn.duden@trs.ok.gov,General Practice,,73132,Oklahoma City,1,
-Bret Alan Glenn,http://www.compasslegalplanning.com,,,Oklahoma City,OK,Canadian,(405) 208-8521,bret@compasslegalplanning.com,Family Law,,73103,Oklahoma City,3,
-Bret Daniel Davis,https://lamunmock.com,,,Oklahoma City,OK,Canadian,(405) 840-5900,BDavis@LamunMock.com,General Practice,,73118,Oklahoma City,1,
-Brian Lee Peterson,https://blppc.com,,,Oklahoma City,OK,Canadian,(405) 232-1857,bpeterson@blppc.com,Litigation,,73156,Oklahoma City,3,
-Brian Ray Glass,http://gmail.com,,,Oklahoma City,OK,Canadian,(405) 849-5145,attorneybrianglass@gmail.com,Criminal Defense,,73120,Oklahoma City,3,
-Britton Lindsey Hobbs,http://www.hobbslawok.com,,,Oklahoma City,OK,Canadian,,britton@hobbslawok.com,Estate Planning and Probate,,73112,Oklahoma City,3,
-Bryan Eugene Stanton,https://piercecouch.com,,,Oklahoma City,OK,Canadian,(405) 552-5289,bstanton@piercecouch.com,Business & Corporate Law,,73106,Oklahoma City,3,
-Carla L. Robey-Harcourt,https://CarlaHarcourt.com,,,Oklahoma City,OK,Canadian,(405) 236-5200,clrhatlaw@gmail.com,Family Law,,73102,Oklahoma City,3,
-Carver Law Office,https://www.oklataxrelief.com,,,Oklahoma City,OK,Canadian,(405) 849-5700,sherri.carver@oklataxrelief.com,General Practice,,73116,Oklahoma City,1,
-Cathy M. Christensen,https://cathychristensenlaw.com,,,Oklahoma City,OK,Canadian,(405) 752-5565,Cathy@CathyChristensenLaw.com,General Practice,,73134,Oklahoma City,1,
-Chantelle L. Hickman,http://Elderlawokc.com,,,Oklahoma City,OK,Canadian,(405) 252-0472,chantelle@elderlawokc.com,Estate Planning and Probate,,73134,Oklahoma City,3,
-Charles Andrew Adams,https://laok.org,,,Oklahoma City,OK,Canadian,(405) 785-7766,charles.adams@laok.org,General Practice,,73106,Oklahoma City,1,
-Charles James Byrd,https://neccoandbyrd.com,,,Oklahoma City,OK,Canadian,(405) 418-8800,cbyrd@neccoandbyrd.com,Family Law,,73162,Oklahoma City,3,
-Charles L Watts,http://charleswatts.com,,,Oklahoma City,OK,Canadian,(405) 896-0053,charles@charleswatts.com,Personal Injury,,73108,Oklahoma City,3,
-Charles L. Henry,,,,Oklahoma City,OK,Canadian,(405) 521-1210,,General Practice,,73156,Oklahoma City,3,
-"Charles Lloyd Puckett, Jr.",,,,Oklahoma City,OK,Canadian,(405) 816-9039,cpuckettlaw@gmail.com,Trial Practice,,73118,Oklahoma City,3,
-Charles Martin Woner,https://www.charleswonerlaw.com/,,,Oklahoma City,OK,Canadian,(405) 250-7182,cwoner@charleswonerlaw.com,General Practice,,73118,Oklahoma City,1,
-Charles Timothy Laughlin,http://wyattlaw.com,,,Oklahoma City,OK,Canadian,(405) 225-2855,timlaughlin@wyattlaw.com,Criminal Defense,,73103,Oklahoma City,3,
-Christian Michael Henry,,,,Oklahoma City,OK,Canadian,(405) 694-5339,xtianhenry64@gmail.com,Criminal Defense,,73114,Oklahoma City,3,
-Christina Lee Mizirl,,,,Oklahoma City,OK,Canadian,(405) 246-9150,,General Practice,,73195,Oklahoma City,1,
-Christina Renee Kirk,,,,Oklahoma City,OK,Canadian,(405) 726-1217,crkirklaw@gmail.com,General Practice,,73120,Oklahoma City,1,
-Christopher James Perry,https://gperrylaw.com,,,Oklahoma City,OK,Canadian,(405) 601-2222,cperry@gperrylaw.com,General Practice,,73159,Oklahoma City,1,
-Christopher Kent Bridge,,,,Oklahoma City,OK,Canadian,(405) 474-6494,bridgek1@att.net,General Practice,,73101,Oklahoma City,1,
-Christopher Patrick Sloan,http://realdamages.com,,,Oklahoma City,OK,Canadian,,chris@realdamages.com,Personal Injury,,73101,Oklahoma City,3,
-Civil Litigation Division,,,,Oklahoma City,OK,Canadian,(405) 297-3558,,General Practice,,73102,Oklahoma City,1,
-Clarence Kent Eldridge,https://kenteldridge.com,,,Oklahoma City,OK,Canadian,(405) 235-6565,kent@kenteldridge.com,General Practice,,73101,Oklahoma City,1,
-Classen Office Building,,,,Oklahoma City,OK,Canadian,(405) 834-9117,ikardlaw@aol.com,Criminal Defense,,73118,Oklahoma City,3,
-Clayton Ketter,https://phillipsmurrah.com,,,Oklahoma City,OK,Canadian,(405) 606-4792,cdketter@phillipsmurrah.com,Business & Corporate Law,,73103,Oklahoma City,3,
-"Clyde Raymond Anderson, Jr.",https://mac.com,,,Oklahoma City,OK,Canadian,(405) 201-7776,clydelawok@mac.com,Family Law,,73118,Oklahoma City,3,
-Colby Lee Robertson,http://www.myestateadvisor.com,,,Oklahoma City,OK,Canadian,(405) 237-5707,colby@myestateadvisor.com,Estate Planning and Probate,,73116,Oklahoma City,3,
-Compellier,https://compellier.com,,,Oklahoma City,OK,Canadian,(405) 310-1652,akeeney@compellier.com,General Practice,,73134,Oklahoma City,1,
-Cooper Brett Robinson,http://www.hbstrategies.us,,,Oklahoma City,OK,Canadian,(405) 965-9131,brobinson@hbstrategies.us,General Practice,,73154,Oklahoma City,1,
-Courtney Lee Schamel,https://courtneyleelaw.net,,,Oklahoma City,OK,Canadian,(405) 400-9066,info@courtneyleelaw.net,Divorce,,73103,Oklahoma City,3,
-Cynthia Cohenour,,,,Oklahoma City,OK,Canadian,(405) 917-5000,cyndic@msn.com,General Practice,,73112,Oklahoma City,1,
-Daniel Martin Davis,https://dandavislaw.com,,,Oklahoma City,OK,Canadian,(405) 235-4000,dan@dandavislaw.com,General Practice,,73104,Oklahoma City,1,
-"Daniel Michael O'Neil, Jr.",,,,Oklahoma City,OK,Canadian,(405) 209-5881,moneil70@cox.net,Criminal Defense,,73116,Oklahoma City,3,
-Danny K. Shadid,https://shadidlaw.com,,,Oklahoma City,OK,Canadian,(405) 810-9999,Danny@Shadidlaw.com,Personal Injury,,73118,Oklahoma City,3,
-David A Davis,,,,Oklahoma City,OK,Canadian,(405) 840-6353,ddavislaw@live.com,Estate Planning and Probate,,73118,Oklahoma City,3,
-David Michael Postic,https://www.posticbates.com,,,Oklahoma City,OK,Canadian,(405) 691-5080,posticd@posticbates.com,Business & Corporate Law,,73159,Oklahoma City,3,
-David Michael Roberts,,,,Oklahoma City,OK,Canadian,(405) 420-2621,davidmrobertsjd@gmail.com,General Practice,,73112,Oklahoma City,1,
-David Vernon Stewart,https://byjasco.com,,,Oklahoma City,OK,Canadian,(405) 302-2171,dstewart@byjasco.com,General Practice,,73114,Oklahoma City,1,
-David W. Echols,https://echolslaw.com/,,,Oklahoma City,OK,Canadian,(405) 691-2648,echolslawaccounting@gmail.com,Family Law,,73170,Oklahoma City,3,
-Derice Ann Madoux,,,,Oklahoma City,OK,Canadian,(405) 625-9987,mcmadlaw1@yahoo.com,Criminal Defense,,73162,Oklahoma City,3,
-Dionisio Sherwood Law Firm,https://dionisiosherwood.com,,,Oklahoma City,OK,Canadian,(405) 849-9288,lindsey@DionisioSherwood.com,General Practice,,73120,Oklahoma City,1,
-Donna Jean Jackson,,,,Oklahoma City,OK,Canadian,(405) 840-1874,donnajacksonlaw@outlook.com,Estate Planning and Probate,,73120,Oklahoma City,3,
-Douglas L. Parr,https://parrlawoffice.com,,,Oklahoma City,OK,Canadian,(405) 528-1018,doug@parrlawoffice.com,General Practice,,73102,Oklahoma City,1,
-"Doyle Eugene Brower, Jr.",,,,Oklahoma City,OK,Canadian,(405) 740-5528,browerlawfirm@yahoo.com,Personal Injury,,73131,Oklahoma City,3,
-Drew Thomas Palmer,https://silverline.legal,,,Oklahoma City,OK,Canadian,(405) 446-8381,drew@silverline.legal,Litigation,,73101,Oklahoma City,3,
-Dustin Shane Kurtz,,,,Oklahoma City,OK,Canadian,(405) 388-5630,dkurtz@dustinkurtzlaw.com,Estate Planning and Probate,,73173,Oklahoma City,3,
-Edward Millard Blau,http://www.blaulawfirm.com,,,Oklahoma City,OK,Canadian,(405) 232-2528,edblau@blaulawfirm.com,Criminal Defense,,73102,Oklahoma City,3,
-Elizabeth A. Richards,http://www.erichardsattorney.com,,,Oklahoma City,OK,Canadian,(405) 319-9696,richardslawfirm@aol.com,Estate Planning and Probate,,73109,Oklahoma City,3,
-Emily Nash Kitch,https://barneslewis.com,,,Oklahoma City,OK,Canadian,(405) 478-0058,ekitch@barneslewis.com,Litigation,,73114,Oklahoma City,3,
-Emily Rae Coughlin,https://rhfok.com,,,Oklahoma City,OK,Canadian,(405) 517-2661,coughlin@rhfok.com,Business & Corporate Law,,73101,Oklahoma City,3,
-Eric Alexander Davis,https://alexander-davis.com,,,Oklahoma City,OK,Canadian,(405) 633-2783,EDavis@Alexander-Davis.com,Personal Injury,,73101,Oklahoma City,3,
-"Francis W Thetford, Jr.",https://thetfordlaw.com,,,Oklahoma City,OK,Canadian,(405) 235-9229,b.thetford@thetfordlaw.com,General Practice,,73103,Oklahoma City,1,
-"Gail Rodney Palmer, Jr.",,,,Oklahoma City,OK,Canadian,(405) 521-0882,palmerslaw@gmail.com,General Practice,,73112,Oklahoma City,1,
-Garison Dakota Carrell,http://www.daspitlaw.com/,,,Oklahoma City,OK,Canadian,(405) 549-9796,garisoncarrell@gmail.com,General Practice,,73118,Oklahoma City,1,
-"Garvin Isaacs, Jr.",,,,Oklahoma City,OK,Canadian,(405) 209-0413,jennyisaacs00@gmail.com,Personal Injury,,73134,Oklahoma City,3,
-Gary Ben Homsey,https://homseylawcenter.com,,,Oklahoma City,OK,Canadian,(405) 843-9923,gbh@homseylawcenter.com,Workers Compensation,,73118,Oklahoma City,3,
-Gary David Quinnett,https://gq-law.com,,,Oklahoma City,OK,Canadian,(405) 312-1331,gary@gq-law.com,General Practice,,73120,Oklahoma City,1,
-Gary L. Blevins,,,,Oklahoma City,OK,Canadian,(405) 820-1902,garyleeblevins@gmail.com,Family Law,,73120,Oklahoma City,3,
-Gaylon Curtis Hayes,https://hhhlawfirm.com,,,Oklahoma City,OK,Canadian,(405) 616-5045,gaylon@hhhlawfirm.com,Personal Injury,,73139,Oklahoma City,3,
-Glenn Kathleen Brown,https://bml.law,,,Oklahoma City,OK,Canadian,(405) 701-5355,gbrown@bml.law,General Practice,,73102,Oklahoma City,1,
-Gloria J. Moore,,,,Oklahoma City,OK,Canadian,(405) 848-4567,mooreallenlawyers@yahoo.com,General Practice,,73112,Oklahoma City,1,
-Gregory H. Haubrich,http://www.attorneybutter.com,,,Oklahoma City,OK,Canadian,(405) 312-8802,ghaubrich3323@gmail.com,General Practice,,73170,Oklahoma City,1,
-"Hall & Ludlam, PLLC",http://bartborenlaw.com,,,Oklahoma City,OK,Canadian,(405) 600-9550,bart@okcfirm.com,Personal Injury,,73102,Oklahoma City,3,
-Harmonniey Sha'Dale Kinchion,http://www.kinchionlaw.com,,,Oklahoma City,OK,Canadian,(405) 673-7291,harmonniey@kinchionlaw.com,General Practice,,73112,Oklahoma City,1,
-"Harry Leroy Endicott, III",https://bullard-associates.com,,,Oklahoma City,OK,Canadian,(405) 604-5000,lee@bullard-associates.com,Personal Injury,,73101,Oklahoma City,3,
-Herbert M. Graves,,,,Oklahoma City,OK,Canadian,(405) 821-7014,hgravesxl@aol.com,Business & Corporate Law,,73120,Oklahoma City,3,
-"Hirsch, Heath & White, PLLC",https://hhwlawfirm.com,,,Oklahoma City,OK,Canadian,(405) 235-1768,gwhite@hhwlawfirm.com,General Practice,,73114,Oklahoma City,1,
-"Holladay, Chilton & Erwin, PLLC",https://holladaychilton.com,,,Oklahoma City,OK,Canadian,(405) 236-2343,gchilton@holladaychilton.com,General Practice,,73102,Oklahoma City,1,
-"Howard Kenneth Berry, III",http://berrylawok.com,,,Oklahoma City,OK,Canadian,(405) 974-8560,hkberry3@gmail.com,Personal Injury,,73112,Oklahoma City,3,
-Howard Roy Haralson,,,,Oklahoma City,OK,Canadian,(405) 789-2000,hrhokclaw@aol.com,Criminal Defense,,73123,Oklahoma City,3,
-Howard Tremayne Morrow,http://www.czwlaw.com,,,Oklahoma City,OK,Canadian,(405) 922-1858,attymorrow@gmail.com,General Practice,,73105,Oklahoma City,1,
-Husbands Law Firm,http://www.husbandslawfirm.com,,,Oklahoma City,OK,Canadian,(405) 604-0055,jh@husbandslawfirm.com,Criminal Defense,,73102,Oklahoma City,3,
-"Jack G. Clark, Jr.",https://cswp-law.com,,,Oklahoma City,OK,Canadian,(405) 420-6759,cclark@cswp-law.com,Business & Corporate Law,,73120,Oklahoma City,3,
-"James D Tack, Jr.",https://robertsonwilliams.com,,,Oklahoma City,OK,Canadian,(405) 848-1944,jtack@robertsonwilliams.com,Estate Planning and Probate,,73120,Oklahoma City,3,
-James David Ogle,http://bmolawok.com,,,Oklahoma City,OK,Canadian,(405) 692-7676,david@bmolawok.com,Criminal Defense,,73159,Oklahoma City,3,
-James Lee Hill,https://getcolbert.com,,,Oklahoma City,OK,Canadian,(405) 218-9200,James@getcolbert.com,General Practice,,73103,Oklahoma City,1,
-"James M. Forgotson, III",https://lhllaw.com,,,Oklahoma City,OK,Canadian,(405) 703-4567,Jim@LHLlaw.com,General Practice,,73159,Oklahoma City,1,
-James Wesley Todd,,,,Oklahoma City,OK,Canadian,(405) 973-5606,toddlawoffice@gmail.com,Trial Practice,,73101,Oklahoma City,3,
-Janice Lynn Howard-Croft,,,,Oklahoma City,OK,Canadian,(405) 227-3795,justicc4all@yahoo.com,Criminal Defense,,73162,Oklahoma City,3,
-Jarrod Heath Stevenson,http://www.jhstevensonlaw.com,,,Oklahoma City,OK,Canadian,(405) 236-5100,jarrod@jhstevensonlaw.com,Criminal Defense,,73101,Oklahoma City,3,
-Jason James Waddell,http://232Law1.com,,,Oklahoma City,OK,Canadian,(405) 232-5291,jason@jasonwaddelllaw.com,General Practice,,73116,Oklahoma City,1,
-Jay Thomas Chaney,http://www.chaneylawfirmok.com,,,Oklahoma City,OK,Canadian,(405) 456-9923,jchaney@chaneylawfirmok.com,Personal Injury,,73118,Oklahoma City,3,
-Jeffrey Alan Eulberg,https://eulberglaw.com,,,Oklahoma City,OK,Canadian,(405) 232-3450,Jeff@EulbergLaw.com,Criminal Defense,,73106,Oklahoma City,3,
-Jeffrey L. Cline,,,,Oklahoma City,OK,Canadian,(405) 607-8782,jeffinokc@gmail.com,General Practice,,73116,Oklahoma City,1,
-Jennifer Elizabeth Irish,http://mediationworkswell.com,,,Oklahoma City,OK,Canadian,(405) 285-2776,Jennifer@mediationworkswell.com,General Practice,,73120,Oklahoma City,1,
-Jennifer Lynn Simon,https://klepperlaw.com,,,Oklahoma City,OK,Canadian,(405) 948-6576,jennifer@klepperlaw.com,Criminal Defense,,73116,Oklahoma City,3,
-Jeramy Wayne Jarman,http://www.jarmanlaw.com,,,Oklahoma City,OK,Canadian,(405) 698-0039,JJ@jarmanlaw.com,Family Law,,73162,Oklahoma City,3,
-"Jerry J. Dunlap, II",,,,Oklahoma City,OK,Canadian,(405) 317-0746,dunlaplaw@cox.net,General Practice,,73147,Oklahoma City,1,
-Jessica Renee Washam,http://tnlg.com,,,Oklahoma City,OK,Canadian,(405) 608-1900,jwasham@tnlg.com,Estate Planning and Probate,,73116,Oklahoma City,3,
-Joe Clay Christensen,https://christensenlawgroup.com,,,Oklahoma City,OK,Canadian,(405) 232-2020,clay@christensenlawgroup.com,General Practice,,73116,Oklahoma City,1,
-John Bradshaw Boozer,http://www.boozerattorney.com,,,Oklahoma City,OK,Canadian,(405) 822-8504,John@boozerlawyer.com,Personal Injury,,73103,Oklahoma City,3,
-John David Maloy,,,,Oklahoma City,OK,Canadian,(405) 885-1613,,Family Law,,73106,Oklahoma City,3,
-John E. Hunsucker,http://www.OKDUI.com,,,Oklahoma City,OK,Canadian,(405) 231-5600,john@okdui.com,Criminal Defense,,73102,Oklahoma City,3,
-John Edmund Vitali,http://www.hvblaw.com,,,Oklahoma City,OK,Canadian,(405) 236-8600,vitali@hvblaw.com,Personal Injury,,73118,Oklahoma City,3,
-John F. Martino,http://www.martinolawfirm.com,,,Oklahoma City,OK,Canadian,(405) 639-3083,john@martinolawfirm.com,Criminal Defense,,73103,Oklahoma City,3,
-John Jeffrey Rodgers,,,,Oklahoma City,OK,Canadian,(405) 590-6790,okla.law.office@gmail.com,General Practice,,73120,Oklahoma City,1,
-"John William Mee, Jr.",https://meehoge.com,,,Oklahoma City,OK,Canadian,(405) 848-9100,jwmjr@meehoge.com,Probate,,73118,Oklahoma City,3,
-Joi Elizabeth Miskel,http://aquittalqueen.com,,,Oklahoma City,OK,Canadian,(405) 840-7783,joimiskel@acquittalqueen.com,Criminal Defense,,73106,Oklahoma City,3,
-Jonathan Ross Ortwein,,,,Oklahoma City,OK,Canadian,(405) 241-4445,,Personal Injury,,73102,Oklahoma City,3,
-Joseph Albert Griffin,http://None.com,,,Oklahoma City,OK,Canadian,(405) 319-1800,jgriffinokc@gmail.com,Criminal Defense,,73107,Oklahoma City,3,
-Joseph Lee Wells,,,,Oklahoma City,OK,Canadian,(405) 474-4800,,Criminal Defense,,73172,Oklahoma City,3,
-Joshua Caleb Mills,https://www.thefirmokc.com,,,Oklahoma City,OK,Canadian,(405) 602-2948,jcm@thefirmokc.com,Personal Injury,,73103,Oklahoma City,3,
-Justin Drew Houghton,https://merlinlawgroup.com,,,Oklahoma City,OK,Canadian,(405) 218-1105,dhoughton@merlinlawgroup.com,General Practice,,73102,Oklahoma City,1,
-Kara Rose Didier,http://www.krdfamilylaw.com,,,Oklahoma City,OK,Canadian,(405) 594-5600,kara@krdfamilylaw.com,General Practice,,73118,Oklahoma City,1,
-Katherine Gumm,,,,Oklahoma City,OK,Canadian,(405) 821-0214,akgumm@yahoo.com,Criminal Defense,,73112,Oklahoma City,3,
-Katherine Ruth Mazaheri,http://www.mazaherilawfirm.com,,,Oklahoma City,OK,Canadian,(405) 414-2222,Katherine@MazaheriLaw.com,General Practice,,73120,Oklahoma City,3,
-Kathleen Wendlocher Wallace,http://attorneykathleenwallace.com,,,Oklahoma City,OK,Canadian,(405) 875-8339,kwwallacejd@gmail.com,Estate Planning and Probate,,73106,Oklahoma City,3,
-Katrina Susann Compton,http://www.justicelegalteam.com,,,Oklahoma City,OK,Canadian,(405) 493-9090,kit@justicelegalteam.com,Family Law,,73103,Oklahoma City,3,
-Kelley L. Cornelius,http://www.klcpc.net,,,Oklahoma City,OK,Canadian,(405) 721-6124,kelley@klcpc.net,Personal Injury,,73112,Oklahoma City,3,
-Kelly A George,https://burch-george.com,,,Oklahoma City,OK,Canadian,(405) 239-7711,kellygeorge@burch-george.com,Personal Injury,,73102,Oklahoma City,3,
-Kelly Carson Poarch,,,,Oklahoma City,OK,Canadian,(405) 849-9890,kellypoarchpllc@gmail.com,Criminal Defense,,73131,Oklahoma City,3,
-Kelsey Lynne McNaught,,,,Oklahoma City,OK,Canadian,(405) 720-7010,mcmadlaw@yahoo.com,Criminal Defense,,73162,Oklahoma City,3,
-Kenneth Brian Putnam,http://putnamlawoffice.com,,,Oklahoma City,OK,Canadian,(405) 724-7701,bputnam@putnamlawoffice.com,General Practice,,73102,Oklahoma City,1,
-"Kenneth Lee Peacher, II",http://kennethpeacher.com,,,Oklahoma City,OK,Canadian,(405) 848-1775,peacher.kenneth@gmail.com,General Practice,,73101,Oklahoma City,1,
-Kenyatta Ray Bethea,http://www.hbolaw.com,,,Oklahoma City,OK,Canadian,(405) 246-0600,kbethea@hbolaw.com,General Practice,,73116,Oklahoma City,1,
-"Kester D. Lackey, Jr.",,,,Oklahoma City,OK,Canadian,(405) 848-5032,klackeyjr7@gmail.com,General Practice,,73105,Oklahoma City,1,
-Kevin Christian Brackett,,,,Oklahoma City,OK,Canadian,(405) 886-1209,kevin.brackettlaw@gmail.com,Divorce,,73103,Oklahoma City,3,
-Kevin Earl Krahl,https://lawfirmokc.com/,,,Oklahoma City,OK,Canadian,(405) 930-4300,krahl@lawfirmokc.com,Criminal Defense,,73101,Oklahoma City,3,
-Kevin Joseph Calvey,,,,Oklahoma City,OK,Canadian,(405) 808-0041,kevincalvey@gmail.com,General Practice,,73156,Oklahoma City,1,
-Kevin Louis Miller,http://kevinmillerpc.com,,,Oklahoma City,OK,Canadian,(405) 943-6650,kevin@kevinmillerpc.com,Estate Planning and Probate,,73112,Oklahoma City,3,
-Kevin Smith Taylor,http://www.taylorlawfirmok.com,,,Oklahoma City,OK,Canadian,(405) 210-5097,kevin@taylorlawfirmok.com,General Practice,,73103,Oklahoma City,3,
-Kevyn Gray Mattax,http://www.icostmoney.com,,,Oklahoma City,OK,Canadian,(405) 943-1965,kmattax@aol.com,Family Law,,73123,Oklahoma City,3,
-Kimberly Beth Rennie,https://wblaws.com,,,Oklahoma City,OK,Canadian,(405) 655-5733,Krennie@wblaws.com,Criminal Defense,,73116,Oklahoma City,3,
-Kindanne C. Jones,,,,Oklahoma City,OK,Canadian,(405) 522-2920,kindanne.jones@oag.ok.gov,General Practice,,73105,Oklahoma City,1,
-Kyndal Rene Kliewer,http://www.watersedge.com,,,Oklahoma City,OK,Canadian,(405) 605-4291,kkliewer@watersedge.com,General Practice,,73104,Oklahoma City,1,
-Landmark Towers West,https://bfm3law.com,,,Oklahoma City,OK,Canadian,(405) 724-4454,ben@bfm3law.com,Estate Planning and Probate,,73112,Oklahoma City,3,
-Lane Rudder Neal,http://www.dlb.net,,,Oklahoma City,OK,Canadian,(405) 235-9584,lneal@dlb.net,Trial Practice,,73102,Oklahoma City,3,
-Larry L.E. Elmer Finn,,,,Oklahoma City,OK,Canadian,,lefinn2010@gmail.com,General Practice,,73120,Oklahoma City,3,
-Lateesha Danielle Hunter,https://lateeshahunter.com,,,Oklahoma City,OK,Canadian,(405) 534-2200,lateesha@lateeshahunter.com,General Practice,,73106,Oklahoma City,1,
-Lawrence Joe Lee Goodwin,,,,Oklahoma City,OK,Canadian,(405) 605-7771,LGoodwin777@hotmail.com,Family Law,,73103,Oklahoma City,3,
-Leah Michelle Roper,https://centerforemploymentlaw.com,,,Oklahoma City,OK,Canadian,,leah@centerforemploymentlaw.com,Employment Law,,73103,Oklahoma City,3,
-Lewis Berkowitz,,,,Oklahoma City,OK,Canadian,(405) 843-7044,berkolaw@cox.net,Family Law,,73116,Oklahoma City,3,
-"Lily Debrah Cruickshank & Associates, PLLC",http://www.familylawyerokc.com,,,Oklahoma City,OK,Canadian,(405) 606-3062,lilycruickshank@yahoo.com,General Practice,,73102,Oklahoma City,1,
-Lisa J. Ludlam,https://okcfirm.com,,,Oklahoma City,OK,Canadian,(405) 206-3824,lisa@okcfirm.com,General Practice,,73102,Oklahoma City,1,
-Luke Alan Homen,http://www.convenientbankruptcy.com,,,Oklahoma City,OK,Canadian,(405) 639-2099,luke@lukehomenlaw.com,Bankruptcy - Business,,73159,Oklahoma City,3,
-M. Blake Yaffe,https://fylaw.com,,,Oklahoma City,OK,Canadian,(405) 378-3033,mbyaffe@fylaw.com,General Practice,,73189,Oklahoma City,1,
-M. Jay Farber,,,,Oklahoma City,OK,Canadian,(405) 470-4644,mjayfarberattorney@gmail.com,Criminal Defense,,73142,Oklahoma City,3,
-M. Kathi Rawls,https://www.carfraud.net,,,Oklahoma City,OK,Canadian,,mkr@rawlslawoffice.com,General Practice,,73106,Oklahoma City,1,
-Malori Riah Flaniken,https://www.kuiperlawfirm.com/,,,Oklahoma City,OK,Canadian,(918) 629-5886,malori.flaniken@kuiperlawfirm.com,General Practice,,73118,Oklahoma City,1,
-Mansell & Engel,https://meclaw.net,,,Oklahoma City,OK,Canadian,(405) 232-4100,kgivens@meclaw.net,Personal Injury,,73102,Oklahoma City,3,
-Marc Calvin Fleischer,http://www.ffpclaw.com,,,Oklahoma City,OK,Canadian,(405) 719-4563,marc.calvin.fleischer@gmail.com,General Practice,,73116,Oklahoma City,1,
-Marcus Anthony Gowens,http://www.dawkinslawfirm.com,,,Oklahoma City,OK,Canadian,(405) 848-4444,mgowens@dawkinslawfirm.com,Personal Injury,,73134,Oklahoma City,3,
-Mariano Acuna,https://acunalawfirm.com,,,Oklahoma City,OK,Canadian,(405) 225-0703,mariano@acunalawfirm.com,Personal Injury,,73118,Oklahoma City,3,
-Mark Allen Patzkowski,https://patzlaw.com,,,Oklahoma City,OK,Canadian,(405) 818-1960,mp@patzlaw.com,General Practice,,73127,Oklahoma City,1,
-Mark David Mitchell,https://okcmidtownlaw.com,,,Oklahoma City,OK,Canadian,(405) 232-6357,mmitchell@okcmidtownlaw.com,General Practice,,73103,Oklahoma City,1,
-Marsha Lois Blumenthal,,,,Oklahoma City,OK,Canadian,(405) 631-8999,,General Practice,,73144,Oklahoma City,1,
-MaryAnn Rodriguez Schein,http://www.oklahomadefenseattorney.net,,,Oklahoma City,OK,Canadian,(405) 735-7877,maryarodrigu@gmail.com,Immigration,,73159,Oklahoma City,3,
-Matthew Robert Eisert,http://www.eisertlaw.com,,,Oklahoma City,OK,Canadian,(405) 896-0880,matthew@eisertlaw.com,Family Law,,73157,Oklahoma City,3,
-Matthew Ryan Gile,https://hallestill.com,,,Oklahoma City,OK,Canadian,(405) 553-2828,mgile@hallestill.com,General Practice,,73102,Oklahoma City,1,
-Meagon Renee Eagon,http://www.dsda.com,,,Oklahoma City,OK,Canadian,(405) 898-8652,meagon@dsda.com,Litigation,,73102,Oklahoma City,3,
-Mehrdod Eric Bayat,http://www.bayatlaw.com,,,Oklahoma City,OK,Canadian,(405) 413-2100,ericbayat@bayatlaw.com,Family Law,,73106,Oklahoma City,3,
-Melanee Leigh Kistler,,,,Oklahoma City,OK,Canadian,(405) 706-9613,MLKistler21@gmail.com,Estate Planning and Probate,,73162,Oklahoma City,3,
-Michael A. Whiting,http://www.thecriminalrecorderaser.com,,,Oklahoma City,OK,Canadian,(405) 615-1785,whiting@whitingandbruner.com,Criminal Defense,,73102,Oklahoma City,3,
-Michael David McBride,,,,Oklahoma City,OK,Canadian,(405) 232-2102,lawyermcbride@yahoo.com,Criminal Defense,,73107,Oklahoma City,3,
-Michael E. Burris,,,,Oklahoma City,OK,Canadian,(405) 735-7240,meburris21@aol.com,Real Property (Land),,73170,Oklahoma City,3,
-Michael E. Mayberry,http://www.ok.gov/mediation,,,Oklahoma City,OK,Canadian,(405) 521-3927,mike.mayberry@ag.ok.gov,General Practice,,73105,Oklahoma City,1,
-Michael Paul Rogalin,,,,Oklahoma City,OK,Canadian,(405) 812-7494,lawyer1980@aol.com,General Practice,,73102,Oklahoma City,1,
-Michael W Thom,,,,Oklahoma City,OK,Canadian,(405) 943-2284,michaelt1@cox.net,General Practice,,73127,Oklahoma City,1,
-Michelle Lyn Greene,,,,Oklahoma City,OK,Canadian,(405) 254-6400,michelle.l.greene@gmail.com,General Practice,,73118,Oklahoma City,1,
-Mista Lizabeth Turner Burgess,,,,Oklahoma City,OK,Canadian,,,Business & Corporate Law,,73151,Oklahoma City,3,
-Monica Michelle Schweighart,https://mcintyrelaw.com/about-us/monica-schweighart/,,,Oklahoma City,OK,Canadian,(405) 570-7740,monica@mcintyrelaw.com,Personal Injury,,73139,Oklahoma City,3,
-Monty Lynn Cain,https://cainlaw-okc.com,,,Oklahoma City,OK,Canadian,(405) 759-7400,monty@cainlaw-okc.com,Criminal Defense,,73189,Oklahoma City,3,
-Mr. David Anthony Cincotta,https://www.cincottalawoffice.com,,,Oklahoma City,OK,Canadian,(405) 266-0360,David@cincottalawoffice.com,Criminal Defense,,73120,Oklahoma City,3,
-Ms. Michelle Kay Smith,http://MichelleSmithLaw.com,,,Oklahoma City,OK,Canadian,(405) 759-2333,Michelle@MichelleSmithLaw.com,General Practice,,73103,Oklahoma City,1,
-Nina Desiree McKosato,https://greysnowjusticecenter.cliogrow.com/,,,Oklahoma City,OK,Canadian,(405) 357-8414,greysnowjustice@gmail.com,Family Law,,73108,Oklahoma City,3,
-Oklahoma Council of Public Affairs,http://www.ocpathink.org,,,Oklahoma City,OK,Canadian,(405) 602-1667,ryan@ocpathink.org,Litigation,,73104,Oklahoma City,3,
-Oklahoma County Detention Center,https://okcountydc.net,,,Oklahoma City,OK,Canadian,(405) 504-6494,carri.remillard@okcountydc.net,General Practice,,73102,Oklahoma City,1,
-One Leadership Square,http://www.combsthiessen.com,,,Oklahoma City,OK,Canadian,(405) 601-8811,kevin@combsthiessen.com,General Practice,,73102,Oklahoma City,3,
-Patricia Anne Podolec,http://podoleclaw.com,,,Oklahoma City,OK,Canadian,(405) 760-3358,ppodolec@podoleclaw.com,General Practice,,73170,Oklahoma City,1,
-Paul David Kouri,https://paulkourilaw.com,,,Oklahoma City,OK,Canadian,(405) 347-7140,paul@paulkourilaw.com,General Practice,,73150,Oklahoma City,1,
-Paula Fuhrman Cail,,,,Oklahoma City,OK,Canadian,(405) 820-0699,pfuhrcail@gmail.com,Estate Planning and Probate,,73120,Oklahoma City,3,
-Paula Jo Davidson Wood,http://www.woodlawofficeassociates.com,,,Oklahoma City,OK,Canadian,(405) 259-6560,pauladavidsonwood@gmail.com,Family Law,,73101,Oklahoma City,3,
-Philip Anthony Hurtt,,,,Oklahoma City,OK,Canadian,(405) 634-7600,phurttattyatlaw@yahoo.com,Criminal Defense,,73159,Oklahoma City,3,
-Philip Lee Bohanon,,,,Oklahoma City,OK,Canadian,(405) 833-1508,philip.bohanon@gmail.com,Criminal Defense,,73120,Oklahoma City,3,
-Phillip Scott Spratt,https://sprattlawfirm.com,,,Oklahoma City,OK,Canadian,(405) 701-3033,Scott@Sprattlawfirm.com,Criminal Defense,,73102,Oklahoma City,3,
-Randy J. Malone,http://oklahomabeveragelaw.com,,,Oklahoma City,OK,Canadian,(405) 691-2927,randyjmalonepc@msn.com,Trial Practice,,73103,Oklahoma City,3,
-Raymond E. Tompkins,,,,Oklahoma City,OK,Canadian,(405) 751-5587,rayt574@gmail.com,General Practice,,73120,Oklahoma City,1,
-Rhonda G. Telford,http://www.innervisionlegal.com/,,,Oklahoma City,OK,Canadian,(405) 724-2525,rhonda@innervisionlegal.com,General Practice,,73132,Oklahoma City,1,
-Richard C Ogden,https://oscn.net,,,Oklahoma City,OK,Canadian,(405) 713-1403,richard.ogden@oscn.net,General Practice,,73102,Oklahoma City,1,
-Richard Chilton Labarthe,https://labarthelaw.com,,,Oklahoma City,OK,Canadian,(405) 760-3323,richard@labarthelaw.com,Bankruptcy - Personal,,73142,Oklahoma City,3,
-Richard Michael Parr,,,,Oklahoma City,OK,Canadian,(405) 524-2222,rparrlaw@sbcglobal.net,Family Law,,73106,Oklahoma City,3,
-Rick Lee Denker,https://denkerlawok.com,,,Oklahoma City,OK,Canadian,(405) 946-5533,rick@denkerlawok.com,Family Law,,73127,Oklahoma City,3,
-Robert Douglas Carel,,,,Oklahoma City,OK,Canadian,(405) 692-8918,dougcarellaw@gmail.com,Bankruptcy - Personal,,73170,Oklahoma City,3,
-Robert Everett Ferrell,https://cheekfalcone.com,,,Oklahoma City,OK,Canadian,(405) 286-9191,rferrell@cheekfalcone.com,General Practice,,73118,Oklahoma City,3,
-Robert John Wagner,http://www.wagnerlawfirm.com,,,Oklahoma City,OK,Canadian,(405) 521-9499,rjw@wagnerfirm.com,General Practice,,73118,Oklahoma City,3,
-Robert Todd Waddell,http://www.rtoddwaddelllaw.com,,,Oklahoma City,OK,Canadian,(405) 446-8681,Todd@ToddWaddellLaw.onmicrosoft.com,Criminal Defense,,73116,Oklahoma City,3,
-Robert Warden Gray,https://oklahomacounty.org,,,Oklahoma City,OK,Canadian,(405) 713-1600,Robert.gray@oklahomacounty.org,General Practice,,73102,Oklahoma City,1,
-Roe Theron Simmons,http://roesimmons.com,,,Oklahoma City,OK,Canadian,(405) 415-6770,roe@simmonsandassociates.net,General Practice,,73118,Oklahoma City,1,
-"Roland Vincent Combs,, III",https://rolandvcombs.com,,,Oklahoma City,OK,Canadian,(405) 942-7866,roland.combs@rolandvcombs.com,General Practice,,73112,Oklahoma City,1,
-Ross James Dewbre,http://www.dewbrelaw.com,,,Oklahoma City,OK,Canadian,(405) 691-5665,ross@dewbrelaw.com,General Practice,,73159,Oklahoma City,1,
-Russell Lee Mulinix,http://www.lawokc.com,,,Oklahoma City,OK,Canadian,(405) 232-3800,rusty@lawokc.com,General Practice,,73102,Oklahoma City,1,
-Ryan Jacob Reaves,https://mmsrlaw.com,,,Oklahoma City,OK,Canadian,(405) 235-2335,rreaves@mmsrlaw.com,Family Law,,73118,Oklahoma City,3,
-Ryan Wayne Schaller,https://www.gossenschaller.com,,,Oklahoma City,OK,Canadian,,ryan@gossenschaller.com,General Practice,,73120,Oklahoma City,1,
-S. Paul Hammons,,,,Oklahoma City,OK,Canadian,(405) 721-8833,s.p.hammons@sbcglobal.net,General Practice,,73162,Oklahoma City,3,
-Scott Adam Hester,https://oscn.net,,,Oklahoma City,OK,Canadian,(405) 620-3088,scott.hester@oscn.net,General Practice,,73105,Oklahoma City,1,
-Scott Daniel Harris,http://www.scottharrislaw.com,,,Oklahoma City,OK,Canadian,(405) 301-8504,scott@scottharrislaw.com,Bankruptcy - Personal,,73156,Oklahoma City,3,
-Shannon Carrie Haupt,https://leonardlaw.net,,,Oklahoma City,OK,Canadian,(405) 239-3800,haupts@leonardlaw.net,Employment Law,,73139,Oklahoma City,3,
-Shannon Dell Taylor,https://staylorlaw.com,,,Oklahoma City,OK,Canadian,(405) 602-8446,shannon@staylorlaw.com,Family Law,,73112,Oklahoma City,3,
-Shannon Elizabeth Payne Pearson,https://rlok.law/,,,Oklahoma City,OK,Canadian,(405) 473-8531,spearson@rlok.law,General Practice,,73102,Oklahoma City,1,
-Shawn J. Roberts,http://www.shawnjroberts.com,,,Oklahoma City,OK,Canadian,(405) 562-7371,sjr@shawnjroberts.com,Business & Corporate Law,,73118,Oklahoma City,3,
-Shawnnessy Murphy Black,,,,Oklahoma City,OK,Canadian,(405) 824-9116,shawnnessymm@gmail.com,General Practice,,73132,Oklahoma City,3,
-Shelton Law Group,https://www.sheltonlawok.com,,,Oklahoma City,OK,Canadian,(405) 605-8800,dshelton@sheltonlawok.com,Real Property (Land),,73102,Oklahoma City,3,
-Sherry Lynn Doyle,https://sherrydoylelaw.com,,,Oklahoma City,OK,Canadian,(405) 265-9340,sherry@sherrydoylelaw.com,General Practice,,73106,Oklahoma City,1,
-Sheryl S. Sullivan,https://sssullivanlaw.com,,,Oklahoma City,OK,Canadian,(405) 848-0050,sheryl@sssullivanlaw.com,General Practice,,73116,Oklahoma City,1,
-Skylar Lynn Pasquali,https://skylarpasqualilaw.com,,,Oklahoma City,OK,Canadian,(405) 761-4998,skylar@skylarpasqualilaw.com,Family Law,,73103,Oklahoma City,3,
-Spencer Fane,,,,Oklahoma City,OK,Canadian,(405) 753-5939,,Business & Corporate Law,,73114,Oklahoma City,3,
-Stanley Floyd Carroll,,,,Oklahoma City,OK,Canadian,(405) 848-2255,stan4law@aol.com,General Practice,,73118,Oklahoma City,1,
-Ste 115,https://coxinet.net,,,Oklahoma City,OK,Canadian,(405) 948-0505,canonlaw@coxinet.net,Criminal Defense,,73112,Oklahoma City,3,
-Ste 300,http://www.Fabian4dui.com,,,Oklahoma City,OK,Canadian,(405) 232-4384,sfabian@fabianduilaw.com,General Practice,,73102,Oklahoma City,1,
-Ste 510,https://dmoklaw.com,,,Oklahoma City,OK,Canadian,(405) 608-1907,darquita@dmoklaw.com,Divorce,,73116,Oklahoma City,3,
-Stefan Kent Doughty,https://ymail.com,,,Oklahoma City,OK,Canadian,(405) 722-3095,skdlaw@ymail.com,Criminal Defense,,73172,Oklahoma City,3,
-Stephanie Ann Younge,http://www.okcfamilyattorney.com,,,Oklahoma City,OK,Canadian,(405) 497-6931,stephanie@strattonlawokc.com,Family Law,,73118,Oklahoma City,3,
-Stephanie Lynn Khoury,https://givenslaw.net,,,Oklahoma City,OK,Canadian,(405) 604-6880,skhoury@givenslaw.net,General Practice,,73103,Oklahoma City,1,
-Stephen Anthony Harry,,,,Oklahoma City,OK,Canadian,(405) 694-4353,stephenaharry@gmail.com,Criminal Defense,,73112,Oklahoma City,3,
-Steven Edward Ferguson,,,,Oklahoma City,OK,Canadian,,fergatty@aol.com,General Practice,,73162,Oklahoma City,1,
-Steven Ernest Hanna,https://gilsondaub.com,,,Oklahoma City,OK,Canadian,(405) 805-6605,steven.hanna@gilsondaub.com,Business & Corporate Law,,73116,Oklahoma City,3,
-Steven Mace Ditto,https://dittolawoffices.com,,,Oklahoma City,OK,Canadian,(405) 478-3888,steve@dittolawoffices.com,General Practice,,73131,Oklahoma City,1,
-Thomas Austin Stone,http://stonelegalok.com,,,Oklahoma City,OK,Canadian,(405) 754-8262,Tom@StoneLegalOK.com,Criminal Defense,,73102,Oklahoma City,3,
-Thomas Brent Corbin,https://taylorlucas.com,,,Oklahoma City,OK,Canadian,(405) 232-8585,kasi.bowlin@taylorlucas.com,Criminal Defense,,73103,Oklahoma City,3,
-"Thomas F. Collins, III",https://collins-pc.com,,,Oklahoma City,OK,Canadian,(405) 942-2936,tfc@collins-pc.com,Business & Corporate Law,,73120,Oklahoma City,3,
-Thomas W. Hosty,,,,Oklahoma City,OK,Canadian,(405) 235-4040,hostylawoffice@yahoo.com,Criminal Defense,,73156,Oklahoma City,3,
-Tim Rhodes,,,,Oklahoma City,OK,Canadian,(405) 650-3300,trhodesokc@yahoo.com,Trial Practice,,73118,Oklahoma City,3,
-Timothy Blair Hummel,https://hummellawoffice.com,,,Oklahoma City,OK,Canadian,(405) 319-0300,tim@hummellawoffice.com,Family Law,,73102,Oklahoma City,3,
-Timothy D. Hardy McCoy,https://timmccoylawfirm.com,,,Oklahoma City,OK,Canadian,(405) 319-0000,tim@timmccoylawfirm.com,Family Law,,73116,Oklahoma City,3,
-Timothy David Beets,https://midtownattorneys.com,,,Oklahoma City,OK,Canadian,(405) 942-5705,tbeets@midtownattorneys.com,Bankruptcy - Personal,,73106,Oklahoma City,3,
-Timothy Earl Lurtz,https://czwlaw.com,,,Oklahoma City,OK,Canadian,(405) 524-2070,tel@czwlaw.com,General Practice,,73105,Oklahoma City,1,
-Timothy Lane Wallace,https://lawcenter.us,,,Oklahoma City,OK,Canadian,(405) 688-4444,lawcenter@lawcenter.us,Personal Injury,,73109,Oklahoma City,3,
-Timothy Luke Abel,http://www.abellawfirm.com,,,Oklahoma City,OK,Canadian,(405) 239-7046,label@abellawfirm.com,Personal Injury,,73105,Oklahoma City,3,
-Tom L. Cross,https://tomlcross.com,,,Oklahoma City,OK,Canadian,(405) 820-1091,tom@tomlcross.com,Business & Corporate Law,,73162,Oklahoma City,3,
-Tony Greg Puckett,https://mcafeetaft.com,,,Oklahoma City,OK,Canadian,(405) 235-9621,tony.puckett@mcafeetaft.com,General Practice,,73102,Oklahoma City,1,
-Travis A. Pickens,http://www.TravisAPickensLaw.com,,,Oklahoma City,OK,Canadian,(405) 840-5804,travis@travisppc.com,General Practice,,73116,Oklahoma City,1,
-Travis Wesley Watkins,https://taxhelpok.com,,,Oklahoma City,OK,Canadian,(405) 613-5245,tww1973@taxhelpok.com,General Practice,,73116,Oklahoma City,1,
-Two Leadership Square,http://eliasbooks.com,,,Oklahoma City,OK,Canadian,(405) 232-3722,tdowd@eliasbooks.com,General Practice,,73102,Oklahoma City,1,
-Ulf Rieger Heller,https://hellernet.net,,,Oklahoma City,OK,Canadian,(405) 843-4800,urheller@hellernet.net,Real Property (Land),,73116,Oklahoma City,3,
-Vernon Douglas Hyde,,,,Oklahoma City,OK,Canadian,(405) 919-9582,vhydeatty@aol.com,Estate Planning and Probate,,73116,Oklahoma City,3,
-Warhawk Legal,https://warhawklegal.com,,,Oklahoma City,OK,Canadian,(405) 397-1717,joe@warhawklegal.com,Personal Injury,,73118,Oklahoma City,3,
-William Howard Bock,https://wbocklaw.com,,,Oklahoma City,OK,Canadian,(405) 848-5400,billybock@wbocklaw.com,Criminal Defense,,73116,Oklahoma City,3,
-"William J. Molinsky, Jr.",http://lytlesoule.com,,,Oklahoma City,OK,Canadian,(405) 235-7471,molinsky@lytlesoule.com,General Practice,,73102,Oklahoma City,1,
-William Mark Lewis,https://goodwinlewis.com,,,Oklahoma City,OK,Canadian,(405) 900-5700,blewis@goodwinlewis.com,Estate Planning and Probate,,73102,Oklahoma City,3,
-William Owen Garretson,,,,Oklahoma City,OK,Canadian,(405) 528-1444,garretsonlaw@live.com,Criminal Defense,,73154,Oklahoma City,3,
-William R. Pierce,,,,Oklahoma City,OK,Canadian,(405) 633-0064,williamrpiercelaw@gmail.com,Criminal Defense,,73120,Oklahoma City,3,
-William Thomas Brett,http://Brettlawoklahoma.com,,,Oklahoma City,OK,Canadian,(405) 842-3555,wtbrett@brettlawokc.com,General Practice,,73142,Oklahoma City,1,
-Wilson Cain & Acquaviva,http://www.neighborslegalok.com,,,Oklahoma City,OK,Canadian,(405) 236-2600,jerrin@wcalaw.com,Family Law,,73103,Oklahoma City,3,
-"Zuhdi & Flynn, PLLC",https://zuhdiflynn.com,,,Oklahoma City,OK,Canadian,(405) 849-5300,sara@zuhdiflynn.com,Family Law,,73134,Oklahoma City,3,
-Amanda Rene Everett,,,,Owasso,OK,Canadian,(405) 708-3904,amandarhiggins1@gmail.com,Litigation,,74055,Oklahoma City,3,
-Haleigh Ann Collins,,,,Perry,OK,Canadian,,haleighacollins@gmail.com,Real Property (Land),,73077,Oklahoma City,3,
-Charles Mark Ready,,,,Piedmont,OK,Canadian,(405) 473-3244,mrdykingx@aol.com,Personal Injury,,73078,Oklahoma City,3,
-"Dennis, Corry, Porter & Smith, L.L.P.",http://www.dcplaw.com/,https://www.google.com/search?q=Dennis%2C+Corry%2C+Porter+%26+Smith%2C+L.L.P.+Piedmont+OK&ludocid=4582511797757672271,,Piedmont,OK,Canadian,(404) 365-0102,,General,3535 Piedmont Rd N #900,73078,Oklahoma City,4,
-Brinda Kaye White,,,,Shattuck,OK,Canadian,(580) 938-1950,brindaw@hotmail.com,Estate Planning and Probate,,73858,Oklahoma City,3,
-Jerry Edward Shiles,http://www.parmanlaw.com,,,Shawnee,OK,Canadian,(405) 408-6692,jerryshiles@yahoo.com,Family Law,,74804,Oklahoma City,3,
-Randy Dean Edmonson,http://workcompok.com,,,Shawnee,OK,Canadian,(405) 275-5200,oklahomalawinstitute@gmail.com,General Practice,,74802,Oklahoma City,1,
-Stacy S. Bateman-Woods,,,,Tecumseh,OK,Canadian,(405) 308-8747,StacyBateman@hotmail.com,Family Law,,74873,Oklahoma City,3,
-Katherine L. Casey,,,,The Village,OK,Canadian,(405) 748-3232,caseyhosty@yahoo.com,Criminal Defense,,73120,Oklahoma City,3,
-Chad Michael Neuens,https://holdenlitigation.com,,,Tulsa,OK,Canadian,(918) 508-6829,chadneuens@holdenlitigation.com,Personal Injury,,74103,Oklahoma City,3,
-John McPherson Hayes,,,,Tulsa,OK,Canadian,(918) 888-0630,JohnMacHayesLaw@aol.com,Criminal Defense,,74104,Oklahoma City,3,
-Terri Michelle McGrew,https://cityoftulsa.org,,,Tulsa,OK,Canadian,(918) 596-7739,mmcgrew@cityoftulsa.org,General Practice,,74103,Oklahoma City,1,
-J. Michael Entz,https://michaelentz.com,,,Warr Acres,OK,Canadian,(405) 773-9800,michael@michaelentz.com,Estate Planning and Probate,,73132,Oklahoma City,3,
-Becky J. Barney,http://barneylawoffice.com/,https://www.google.com/search?q=Becky+J.+Barney+Weatherford+OK&ludocid=12676556935957321434,,Weatherford,OK,Canadian,(580) 772-2500,,General,115 N Broadway St,73096,Oklahoma City,4,
-Clay Bruner,https://www.claybruner.com/,https://www.google.com/search?q=Clay+Bruner+Weatherford+OK&ludocid=16534575397387596103,,Weatherford,OK,Canadian,(580) 774-5363,Clay@claybruner.com,Personal Injury,222 W Tom Stafford Ave,73096,Oklahoma City,5,
-Duncan & Dirickson Attorneys At Law,,https://www.google.com/search?q=Duncan+%26+Dirickson+Attorneys+At+Law+Weatherford+OK&ludocid=11000650020922010525,,Weatherford,OK,Canadian,(580) 772-3207,,General,1100 E Main St Ste 305,73096,Oklahoma City,4,
-Elwick Don,,https://www.google.com/search?q=Elwick+Don+Weatherford+OK&ludocid=15902950992960839947,,Weatherford,OK,Canadian,(580) 772-7228,,General,115 Custer St,73096,Oklahoma City,4,
-Graft & Walraven,https://gwlawok.com/,https://www.google.com/search?q=Graft+%26+Walraven+Weatherford+OK&ludocid=11957659412977370563,,Weatherford,OK,Canadian,(580) 772-7721,,General,2811 E Main St,73096,Oklahoma City,4,
-"King Legal, PLLC",http://kinglegalok.com/,https://www.google.com/search?q=King+Legal%2C+PLLC+Weatherford+OK&ludocid=11716401085628656974,,Weatherford,OK,Canadian,(580) 302-5282,info@kinglegalok.com,Estate Planning,118 W Main St,73096,Oklahoma City,2,
-Legal Aid Services of Ok,https://www.legalaidok.org/,https://www.google.com/search?q=Legal+Aid+Services+of+Ok+Weatherford+OK&ludocid=6457295626106802128,,Weatherford,OK,Canadian,(580) 774-2235,,Family Law,109 S Broadway St,73096,Oklahoma City,4,
-Long & Associates PC,,,,Weatherford,OK,Canadian,(580) 774-1650,,General,101 E Main St,73096,Oklahoma City,4,
-Melrose L Minton III,https://www.mlmintonlaw.com/,https://www.google.com/search?q=Melrose+L+Minton+III+Weatherford+OK&ludocid=13971770894302901607,,Weatherford,OK,Canadian,(580) 772-5546,tminton@sbcglobal.net,Personal Injury,400 E Main St,73096,Oklahoma City,5,
-"Recker & Recker, PC",https://www.reckerandrecker.com/,https://www.google.com/search?q=Recker+%26+Recker%2C+PC+Weatherford+OK&ludocid=2524175717533076596,,Weatherford,OK,Canadian,(580) 302-5028,,Criminal Defense,109 S Broadway St,73096,Oklahoma City,5,
-Schultz Law Firm,,https://www.google.com/search?q=Schultz+Law+Firm+Weatherford+OK&ludocid=661533398477227898,,Weatherford,OK,Canadian,(580) 772-8600,,General,211 W Main St,73096,Oklahoma City,4,
-"Stephen D. Beam, A Professional Corporation",https://www.stephenbeamlaw.net/,https://www.google.com/search?q=Stephen+D.+Beam%2C+A+Professional+Corporation+Weatherford+OK&ludocid=5035287421589565642,,Weatherford,OK,Canadian,(580) 302-5023,,Personal Injury,110 S Broadway St,73096,Oklahoma City,5,
-Spencer Tracy Habluetzel,https://legaldynamicsok.com,,,Wheatland,OK,Canadian,(405) 613-9994,spencer@legaldynamicsok.com,Litigation,,73097,Oklahoma City,3,
-Bedlam Law,https://bedlamlaw.com/,https://www.google.com/search?q=Bedlam+Law+Yukon+OK&ludocid=9137329021465459022,,Yukon,OK,Canadian,(405) 232-2444,info@bedlamlaw.com,Criminal Defense,1617 Professional Cir,73099,Oklahoma City,5,
-Bison Law Firm,http://bisonlawfirm.com/,https://www.google.com/search?q=Bison+Law+Firm+Yukon+OK&ludocid=8073701673483554624,,Yukon,OK,Canadian,(405) 407-0111,info@bisonlawfirm.com,Personal Injury,1609 Professional Cir,73099,Oklahoma City,5,6
-Brenda Lyda Doroteo,https://www.doroteolaw.com/,,,Yukon,OK,Canadian,(405) 506-0120,brenda@doroteolaw.com,Immigration,,73099,Oklahoma City,3,
-Caldwell Estate Law,,https://www.google.com/search?q=Caldwell+Estate+Law+Yukon+OK&ludocid=18430712803235238963,,Yukon,OK,Canadian,(405) 972-9352,,General,10948 Northwest Expy #4,73099,Oklahoma City,4,
-Chad T Hantak Attorney at Law,,https://www.google.com/search?q=Chad+T+Hantak+Attorney+at+Law+Yukon+OK&ludocid=12459289450727278289,,Yukon,OK,Canadian,(405) 216-3230,,General,508 W Vandament Ave Ste.,73099,Oklahoma City,4,
-Davis Business Law,https://davisbusinesslaw.com/,https://www.google.com/search?q=Davis+Business+Law+Yukon+OK&ludocid=8457984358164873018,,Yukon,OK,Canadian,(405) 578-6053,office@davisbusinesslaw.com,Family Law,1617 Professional Cir,73099,Oklahoma City,4,2
-Fassio Law Criminal Defense and DUI Attorneys,https://fassiolaw.com/locations/yukon-criminal-defense-attorney/,https://www.google.com/search?q=Fassio+Law+Criminal+Defense+and+DUI+Attorneys+Yukon+OK&ludocid=3559873664582620666,,Yukon,OK,Canadian,(405) 913-6576,,Criminal Defense,508 W Vandament Ave #304,73099,Oklahoma City,5,2
-Hanes Law Firm,http://www.hanes-law.com/,https://www.google.com/search?q=Hanes+Law+Firm+Yukon+OK&ludocid=15247940369919062387,,Yukon,OK,Canadian,(405) 354-2833,hdh@haneslaw.net,Estate Planning,508 W Vandament Ave #300,73099,Oklahoma City,2,3
-Henthorn B Christoph,http://www.henthornlawfirm.com/,https://www.google.com/search?q=Henthorn+B+Christoph+Yukon+OK&ludocid=7320246173771113367,,Yukon,OK,Canadian,(405) 350-1297,info@henthornlawfirm.com,Workers' Compensation,508 W Vandament Ave #306,73099,Oklahoma City,5,
-Hohenheim Legal,https://www.darrenbarrlaw.com/,https://www.google.com/search?q=Hohenheim+Legal+Yukon+OK&ludocid=13693722892411086750,,Yukon,OK,Canadian,(828) 851-2963,,General,901 E Main St Ste 125,73099,Oklahoma City,4,
-Holliday Law Firm,http://www.jhollidaylaw.com/,https://www.google.com/search?q=Holliday+Law+Firm+Yukon+OK&ludocid=16414154727440231059,,Yukon,OK,Canadian,(405) 577-6977,,Estate Planning,1300 W Vandament Ave Ste 2701,73099,Oklahoma City,2,
-Jarod Allen Morris,,,,Yukon,OK,Canadian,(405) 435-0673,morrislawok@gmail.com,General Practice,,73099,Oklahoma City,3,
-Jeffery Wayne Massey,,,,Yukon,OK,Canadian,(405) 834-7379,masseylawokc@gmail.com,Criminal Defense,,73099,Oklahoma City,3,
-John Paul Jordan,https://jpjordanlaw.com,,,Yukon,OK,Canadian,(405) 226-1532,jp@jpjordanlaw.com,General Practice,,73099,Oklahoma City,3,
-Jon Charles Franke,https://whitefeatherlaw.com,,,Yukon,OK,Canadian,(405) 308-2239,jfranke@whitefeatherlaw.com,General Practice,,73099,Oklahoma City,1,
-Law Office of Brady Brus,,,,Yukon,OK,Canadian,(405) 623-7990,,General,,73085,Oklahoma City,4,
-Law Office of Jennifer L. Hoskins,http://www.hoskinslawok.com/,https://www.google.com/search?q=Law+Office+of+Jennifer+L.+Hoskins+Yukon+OK&ludocid=18318884311468350989,,Yukon,OK,Canadian,(405) 251-9856,,General,5 S 5th St,73099,Oklahoma City,4,
-"Law Offices of Angela J. Smith, Advocacy Inc. PC",,https://www.google.com/search?q=Law+Offices+of+Angela+J.+Smith%2C+Advocacy+Inc.+PC+Yukon+OK&ludocid=8041407202936364622,,Yukon,OK,Canadian,(405) 239-2603,,General,508 W Vandament Ave Ste,73099,Oklahoma City,4,
-Lee Law Firm,,,,Yukon,OK,Canadian,(405) 833-0432,,General,,73099,Oklahoma City,4,
-Linda Marie Modestino,,,,Yukon,OK,Canadian,(405) 641-9389,lmodestino@cox.net,General Practice,,73099,Oklahoma City,3,
-Morris Law Office,,,,Yukon,OK,Canadian,(405) 265-8941,,General,PO Box 850717,73085,Oklahoma City,4,
-Pamela Kennedy,https://pamelakennedylaw.com,,,Yukon,OK,Canadian,(405) 317-1009,pamela@pamelakennedylaw.com,Personal Injury,,73085,Oklahoma City,3,
-Pizzini Law Firm,http://www.pizzini-law.com/,https://www.google.com/search?q=Pizzini+Law+Firm+Yukon+OK&ludocid=3123848721866682639,,Yukon,OK,Canadian,(405) 265-2845,,Family Law,508 W Vandament Ave #308,73099,Oklahoma City,4,
-"Prestidge Law Firm, PC",,,,Yukon,OK,Canadian,(405) 577-7703,,General,520 Pointe Parkway Blvd,73099,Oklahoma City,4,
-R Everett Law Office,,https://www.google.com/search?q=R+Everett+Law+Office+Yukon+OK&ludocid=6340268646449496900,,Yukon,OK,Canadian,(405) 350-0990,,General,508 W Vandament Ave,73099,Oklahoma City,4,
-Rick James Henthorn,https://henthornlaw.net,,,Yukon,OK,Canadian,(405) 203-0158,rick@henthornlaw.net,General Practice,,73099,Oklahoma City,1,
-Stacy Legal Group,,https://www.google.com/search?q=Stacy+Legal+Group+Yukon+OK&ludocid=1565581403202290141,,Yukon,OK,Canadian,(405) 735-3800,,General,432 S Mustang Rd Ste B,73099,Oklahoma City,4,
-Tharp William,http://www.rameyandtharp.com/,https://www.google.com/search?q=Tharp+William+Yukon+OK&ludocid=10285073418704313037,,Yukon,OK,Canadian,(405) 354-1987,,Family Law,3 S 5th St,73099,Oklahoma City,4,
-The Law Office of H.G. Drain LLC,http://hdrainlaw.com/,https://www.google.com/search?q=The+Law+Office+of+H.G.+Drain+LLC+Yukon+OK&ludocid=16699904046514231668,,Yukon,OK,Canadian,(405) 535-4555,hg@hdrainlaw.com,General,508 W Vandament Ave Ste 203,73099,Oklahoma City,4,
-"Thomason Law, PLLC",http://www.thomason-law.com/,https://www.google.com/search?q=Thomason+Law%2C+PLLC+Yukon+OK&ludocid=17312923539416167920,,Yukon,OK,Canadian,(405) 265-3565,,Estate Planning,115 E Vandament Ave,73099,Oklahoma City,2,
-Tipps Shelley A,https://tippslawfirm.com/,https://www.google.com/search?q=Tipps+Shelley+A+Yukon+OK&ludocid=6938200689733652978,,Yukon,OK,Canadian,(405) 354-1801,shelley@tippslawfirm.com,Family Law,508 W Vandament Ave #202,73099,Oklahoma City,4,
-Tommie Craig Gibson,,,,Yukon,OK,Canadian,(405) 354-2900,tomgibsonlawyer@cox.net,Personal Injury,,73099,Oklahoma City,3,
-"W Mark Hixson, P.C., Attorney at Law",http://hixson.law/,https://www.google.com/search?q=W+Mark+Hixson%2C+P.C.%2C+Attorney+at+Law+Yukon+OK&ludocid=6750013127201218604,,Yukon,OK,Canadian,(405) 354-6000,Mark@Hixson.Law,Estate Planning,1605F Professional Cir,73099,Oklahoma City,2,
-Wheatley Segler Osby & Miller,,https://www.google.com/search?q=Wheatley+Segler+Osby+%26+Miller+Yukon+OK&ludocid=2458108795813845362,,Yukon,OK,Canadian,(405) 354-5276,,General,501 W Main St,73099,Oklahoma City,4,
-Whitefeather Law Group,https://www.whitefeatherlaw.com/,https://www.google.com/search?q=Whitefeather+Law+Group+Yukon+OK&ludocid=5496602630764749760,,Yukon,OK,Canadian,(405) 470-0682,,Personal Injury,10924 Northwest Expy,73099,Oklahoma City,5,3
-William Devin Resides,,,,Yukon,OK,Canadian,(405) 410-9915,wresides@outlook.com,Criminal Defense,,73099,Oklahoma City,3,
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+Alicia Quenette Currin-Moore,https://walshgallegos.com/,,,,OK,Canadian,,acurrinmoore@wabsa.com,General Practice,,,Oklahoma City,1
+Ammon Brisolara,https://www.avvo.com/attorneys/73099-ok-ammon-brisolara-4835472.html,,https://www.avvo.com/attorneys/73099-ok-ammon-brisolara-4835472.html,Yukon,OK,Canadian,(405) 465-0672,,General,Morgan Road,73099,Oklahoma City,4
+Amy Steele Neathery,,,,El Reno,OK,Canadian,(405) 209-8668,neatherylaw@outlook.com,Trial Practice,,73036,Oklahoma City,3
+Analisa Morrison,https://lawyers.justia.com/lawyer/analisa-morrison-1747391,,https://lawyers.justia.com/lawyer/analisa-morrison-1747391,TUTTLE,OK,Canadian,(909) 677-0164,,General,PO BOX 971,73089,Oklahoma City,4
+Andrea Johanna Adum,https://andreaadum.com,,,,OK,Canadian,(405) 933-2415,andrea@andreaadum.com,Immigration,,,Oklahoma City,3
+Andrew Mark Mark Van Paasschen,https://lawyers.justia.com/lawyer/andrew-mark-mark-van-paasschen-1810565,,https://lawyers.justia.com/lawyer/andrew-mark-mark-van-paasschen-1810565,YUKON,OK,Canadian,(405) 731-4480,,General,1609 PROFESSIONAL CIRCLE,73099,Oklahoma City,4
+Andrew Michael-Don Casey,https://hchokc.com,,,,OK,Canadian,,casey@hchokc.com,Personal Injury,,,Oklahoma City,3
+Angela Willow Ganote,http://chickasaw.net,,,,OK,Canadian,,angela.ganote@chickasaw.net,Litigation,,,Oklahoma City,3
+Antuanya SanTaro DeBose,https://www.oid.ok.gov/about-oid/divisions-programs/legal-division/,,,,OK,Canadian,(405) 833-0202,Bo@deboselaw.com,General Practice,,,Oklahoma City,1
+Arnold Elaine,http://elainearnoldlaw.com/,https://www.google.com/search?q=Arnold+Elaine+Mustang+OK&ludocid=14663392844693773573,,Mustang,OK,Canadian,(405) 376-6014,,General,543 E State Hwy 152 Ste 101,73064,Oklahoma City,4
+Aubrey Joli DeClercq,http://Thedeclercqlawfirm.com,,,,OK,Canadian,(405) 426-7088,aubrey@thedeclercqlawfirm.com,General Practice,,,Oklahoma City,1
+Austin David Manley,http://Manleylegalservices.com,,,,OK,Canadian,(918) 955-6393,austin.manley@manleylegalservices.com,Business & Corporate Law,,,Oklahoma City,3
+Bass Law El Reno,http://www.basslaw.net/,https://www.google.com/search?q=Bass+Law+El+Reno+El+Reno+OK&ludocid=4199877705314908010,,El Reno,OK,Canadian,(405) 262-4040,,Family Law,104 N Rock Island Ave,73036,Oklahoma City,4
+Becky J. Barney,http://barneylawoffice.com/,https://www.google.com/search?q=Becky+J.+Barney+Weatherford+OK&ludocid=12676556935957321434,,Weatherford,OK,Canadian,(580) 772-2500,,General,115 N Broadway St,73096,Oklahoma City,4
+Bedlam Law,https://bedlamlaw.com/,https://www.google.com/search?q=Bedlam+Law+Yukon+OK&ludocid=9137329021465459022,,Yukon,OK,Canadian,(405) 232-2444,info@bedlamlaw.com,Criminal Defense,1617 Professional Cir,73099,Oklahoma City,5
+Bison Law Firm,http://bisonlawfirm.com/,https://www.google.com/search?q=Bison+Law+Firm+Yukon+OK&ludocid=8073701673483554624,,Yukon,OK,Canadian,(405) 407-0111,info@bisonlawfirm.com,Personal Injury,1609 Professional Cir,73099,Oklahoma City,5
+Bob W. Hughey,https://www.avvo.com/attorneys/73036-ok-bob-hughey-5027022.html,,https://www.avvo.com/attorneys/73036-ok-bob-hughey-5027022.html,El Reno,OK,Canadian,(405) 264-5530,,General,7905 E Us Highway 66,73036,Oklahoma City,4
+Boling Tammy S,https://familyattorneysnearme.com/oklahoma/el-reno/boling-tammy-s/,https://www.google.com/search?q=Boling+Tammy+S+El+Reno+OK&ludocid=1832972573512703886,,El Reno,OK,Canadian,(405) 262-1101,,Family Law,203 N Bickford Ave,73036,Oklahoma City,4
+Brandi Lynne Morgan,https://brandimorganlaw.com,,,Mustang,OK,Canadian,(405) 255-0171,brandi@brandimorganlaw.com,General Practice,,73064,Oklahoma City,1
+Brandon Thomas Orr,https://orrlawok.com,,,,OK,Canadian,,brandon@orrlawok.com,General Practice,,,Oklahoma City,1
+Brenda Lyda Doroteo,https://www.doroteolaw.com/,,,Yukon,OK,Canadian,(405) 506-0120,brenda@doroteolaw.com,Immigration,,73099,Oklahoma City,3
+Brett M Stingley,,,,,OK,Canadian,(405) 268-6821,bmstingley@gmail.com,Litigation,,,Oklahoma City,3
+Brian H. Wayman,https://lawyers.justia.com/lawyer/brian-h-wayman-1688125,,https://lawyers.justia.com/lawyer/brian-h-wayman-1688125,MUSTANG,OK,Canadian,(972) 345-2580,,General,1839 E PLEASANTVIEW LN,73064,Oklahoma City,4
+Britni Dawn Cobb,https://bdcobblaw.com,,,,OK,Canadian,,info@bdcobblaw.com,General Practice,,,Oklahoma City,1
+Bryan Charles Dixon,https://ok-counsel.com,,,,OK,Canadian,(405) 850-5071,bdixon@ok-counsel.com,Litigation,,,Oklahoma City,3
+Caldwell Estate Law,https://www.google.com/search?q=Caldwell+Estate+Law+Yukon+OK&ludocid=18430712803235238963,https://www.google.com/search?q=Caldwell+Estate+Law+Yukon+OK&ludocid=18430712803235238963,,Yukon,OK,Canadian,(405) 972-9352,,Social Security Disability,10948 Northwest Expy #4,73099,Oklahoma City,2
+Caleb R. Stiles,https://lawyers.justia.com/lawyer/caleb-r-stiles-1665715,,https://lawyers.justia.com/lawyer/caleb-r-stiles-1665715,El Reno,OK,Canadian,(405) 939-0223,,General,1526 W. Elm Street,73036,Oklahoma City,4
+Candice Lynnette Milard,,,,,OK,Canadian,,c.milardlaw@gmail.com,General Practice,,,Oklahoma City,1
+"Carlos Dayne Mayes, IV",,,,,OK,Canadian,(405) 517-6818,daynemayes@gmail.com,General Practice,,,Oklahoma City,1
+Carylee Katharine Eisenberg,https://lawyers.justia.com/lawyer/carylee-katharine-eisenberg-960900,,https://lawyers.justia.com/lawyer/carylee-katharine-eisenberg-960900,Mustang,OK,Canadian,(580) 729-1500,,General,210 N Pebble Creek Terrace,73064,Oklahoma City,4
+Chad T Hantak Attorney at Law,https://www.google.com/search?q=Chad+T+Hantak+Attorney+at+Law+Yukon+OK&ludocid=12459289450727278289,https://www.google.com/search?q=Chad+T+Hantak+Attorney+at+Law+Yukon+OK&ludocid=12459289450727278289,,Yukon,OK,Canadian,(405) 216-3230,,Social Security Disability,508 W Vandament Ave Ste.,73099,Oklahoma City,2
+Charles Mark Ready,,,,Piedmont,OK,Canadian,(405) 473-3244,mrdykingx@aol.com,Personal Injury,,73078,Oklahoma City,3
+Charles P Rainbolt,https://www.avvo.com/attorneys/73099-ok-charles-rainbolt-5030996.html,,https://www.avvo.com/attorneys/73099-ok-charles-rainbolt-5030996.html,Yukon,OK,Canadian,(405) 528-6569,,Litigation,14740 Rochefort Ln,73099,Oklahoma City,4
+Charles W. Gass,http://www.charlesgass.com,,https://lawyers.justia.com/lawyer/charles-w-gass-966107,Yukon,OK,Canadian,(405) 354-7227,,General,508 W Vandament Ave,73099,Oklahoma City,4
+Chase Addison Grant,https://estateplanoklahoma.com,,,,OK,Canadian,,chase@estateplanoklahoma.com,Estate Planning and Probate,,,Oklahoma City,3
+Chatman Attrney Cnselor At Law,https://www.attorneylawyerlist.com/oklahoma/yukon/law-offfice-700827/,,https://www.attorneylawyerlist.com/oklahoma/yukon/law-offfice-700827/,Yukon,OK,Canadian,(405) 354-1876,,Personal Injury,112 S 4th St,73099,Oklahoma City,5
+Chris A Arledge PC,https://www.google.com/search?q=Chris+A+Arledge+PC+Mustang+OK&ludocid=6114347918509113838,https://www.google.com/search?q=Chris+A+Arledge+PC+Mustang+OK&ludocid=6114347918509113838,,Mustang,OK,Canadian,(405) 376-0911,,Social Security Disability,528 W State Hwy 152,73064,Oklahoma City,2
+Christopher Michael Murphy,https://lawyers.justia.com/lawyer/christopher-michael-murphy-964142,,https://lawyers.justia.com/lawyer/christopher-michael-murphy-964142,Yukon,OK,Canadian,(405) 494-4931,,General,10633 NW 34th St,73099,Oklahoma City,4
+Claibourne Rick III,https://treyricklaw.com,,,Mustang,OK,Canadian,(405) 633-2261,trey@treyricklaw.com,General Practice,,73064,Oklahoma City,3
+Clay Bruner,https://www.claybruner.com/,https://www.google.com/search?q=Clay+Bruner+Weatherford+OK&ludocid=16534575397387596103,,Weatherford,OK,Canadian,(580) 774-5363,Clay@claybruner.com,Personal Injury,222 W Tom Stafford Ave,73096,Oklahoma City,5
+Connie Hart Yellowman,https://lawyers.justia.com/lawyer/connie-hart-yellowman-964307,,https://lawyers.justia.com/lawyer/connie-hart-yellowman-964307,El Reno,OK,Canadian,(405) 422-5004,,General,513 W Lynn Dr,73036,Oklahoma City,4
+Cooksey Cole Law Firm,,,,El Reno,OK,Canadian,(405) 422-5175,,General,,73036,Oklahoma City,4
+CUDJO'S BUSINESS LAW FIRM LLP,https://www.google.com/search?q=CUDJO%27S+BUSINESS+LAW+FIRM+LLP+El+Reno+OK&ludocid=5494040358371343451,https://www.google.com/search?q=CUDJO%27S+BUSINESS+LAW+FIRM+LLP+El+Reno+OK&ludocid=5494040358371343451,,El Reno,OK,Canadian,(405) 400-3714,,Social Security Disability,601 N Evans Ave,73036,Oklahoma City,2
+David H Halley,https://www.google.com/search?q=David+H+Halley+El+Reno+OK&ludocid=15934091315422742285,https://www.google.com/search?q=David+H+Halley+El+Reno+OK&ludocid=15934091315422742285,,El Reno,OK,Canadian,(405) 262-7800,,Social Security Disability,107 S Rock Island Ave,73036,Oklahoma City,2
+David Marion Brockman,https://www.avvo.com/attorneys/73064-ok-david-brockman-5028101.html,,https://www.avvo.com/attorneys/73064-ok-david-brockman-5028101.html,Mustang,OK,Canadian,(405) 990-4165,,General,11701 SW 54th St,73064,Oklahoma City,4
+Davis Business Law,https://davisbusinesslaw.com/,https://www.google.com/search?q=Davis+Business+Law+Yukon+OK&ludocid=8457984358164873018,,Yukon,OK,Canadian,(405) 578-6053,office@davisbusinesslaw.com,Family Law,1617 Professional Cir,73099,Oklahoma City,4
+Dayten Aberaham Israel,https://launchpointe.legal/,,,,OK,Canadian,,dayten@launchpointe.legal,Business & Corporate Law,,,Oklahoma City,3
+"Dennis, Corry, Porter & Smith, L.L.P.",http://www.dcplaw.com/,https://www.google.com/search?q=Dennis%2C+Corry%2C+Porter+%26+Smith%2C+L.L.P.+Piedmont+OK&ludocid=4582511797757672271,,Piedmont,OK,Canadian,(404) 365-0102,,General,3535 Piedmont Rd N #900,73078,Oklahoma City,4
+Denton Law Firm,https://dentonlawfirm.com/,https://www.google.com/search?q=Denton+Law+Firm+Mustang+OK&ludocid=997511207217167977,,Mustang,OK,Canadian,(405) 376-2212,,Personal Injury,925 W State Hwy 152,73064,Oklahoma City,5
+Diana G. Mueller,https://www.avvo.com/attorneys/73078-ok-diana-mueller-5034241.html,,https://www.avvo.com/attorneys/73078-ok-diana-mueller-5034241.html,Piedmont,OK,Canadian,(405) 283-0050,,Guardianship,Po Box 595,73078,Oklahoma City,4
+Dillan Mark Savage,https://wirthlawoffice.com,,,,OK,Canadian,(918) 289-8688,dillan@wirthlawoffice.com,General Practice,,,Oklahoma City,3
+Donald D. Self,https://www.avvo.com/attorneys/73099-ok-donald-self-5027968.html,,https://www.avvo.com/attorneys/73099-ok-donald-self-5027968.html,Yukon,OK,Canadian,(405) 642-9531,,General,3101 Wimberley Dr,73099,Oklahoma City,4
+Donald Lynn Easter,https://www.avvo.com/attorneys/73099-ok-donald-easter-5034293.html,,https://www.avvo.com/attorneys/73099-ok-donald-easter-5034293.html,Yukon,OK,Canadian,(405) 973-4575,,Bankruptcy & Debt,1117 Cambridge Dr,73099,Oklahoma City,4
+Duncan & Dirickson Attorneys At Law,https://www.google.com/search?q=Duncan+%26+Dirickson+Attorneys+At+Law+Weatherford+OK&ludocid=11000650020922010525,https://www.google.com/search?q=Duncan+%26+Dirickson+Attorneys+At+Law+Weatherford+OK&ludocid=11000650020922010525,,Weatherford,OK,Canadian,(580) 772-3207,,Social Security Disability,1100 E Main St Ste 305,73096,Oklahoma City,2
+Dustin Dwight Peterson,http://www.petersonlawcenter.com,,,,OK,Canadian,,attorneydustinpeterson@gmail.com,General Practice,,,Oklahoma City,1
+ElFairo Antonio Mitchell,http://www.heritageoaklaw.com,,,,OK,Canadian,,fairomitchell@gmail.com,General Practice,,,Oklahoma City,1
+Elwick Don,https://www.google.com/search?q=Elwick+Don+Weatherford+OK&ludocid=15902950992960839947,https://www.google.com/search?q=Elwick+Don+Weatherford+OK&ludocid=15902950992960839947,,Weatherford,OK,Canadian,(580) 772-7228,,Social Security Disability,115 Custer St,73096,Oklahoma City,2
+Email : Unlisted,,,,,OK,Canadian,,,General Practice,,,Oklahoma City,1
+Fassio Law Criminal Defense and DUI Attorneys,https://fassiolaw.com/locations/yukon-criminal-defense-attorney/,https://www.google.com/search?q=Fassio+Law+Criminal+Defense+and+DUI+Attorneys+Yukon+OK&ludocid=3559873664582620666,,Yukon,OK,Canadian,(405) 913-6576,clientrelations@fassiolaw.com,Criminal Defense,508 W Vandament Ave #304,73099,Oklahoma City,5
+Fenton R. Ramey,https://www.avvo.com/attorneys/73099-ok-fenton-ramey-5029043.html,,https://www.avvo.com/attorneys/73099-ok-fenton-ramey-5029043.html,Yukon,OK,Canadian,(405) 650-9885,,Estate Planning,1404 Spring Creek DrPo Box 850187,73099,Oklahoma City,4
+Garold Lloyd Spencer,https://www.avvo.com/attorneys/73099-ok-garold-spencer-5029371.html,,https://www.avvo.com/attorneys/73099-ok-garold-spencer-5029371.html,Yukon,OK,Canadian,(405) 206-6778,,General,13329 NW 3rd St,73099,Oklahoma City,4
+Gary Edgar Miller,https://www.avvo.com/attorneys/73099-ok-gary-miller-5029392.html,,https://www.avvo.com/attorneys/73099-ok-gary-miller-5029392.html,Yukon,OK,Canadian,(405) 627-4943,,General,721 Woodlawn Dr,73099,Oklahoma City,4
+Gary Eugene Taylor,https://www.avvo.com/attorneys/73064-ok-gary-taylor-5038151.html,,https://www.avvo.com/attorneys/73064-ok-gary-taylor-5038151.html,Mustang,OK,Canadian,(405) 376-3669,,General,Po Box 127,73064,Oklahoma City,4
+Graft & Walraven,https://gwlawok.com/,https://www.google.com/search?q=Graft+%26+Walraven+Weatherford+OK&ludocid=11957659412977370563,,Weatherford,OK,Canadian,(580) 772-7721,,Estate Planning,2811 E Main St,73096,Oklahoma City,2
+Graham Ian Guhl,http://www.guhllawfirm.com,,,,OK,Canadian,(405) 609-2929,graham@guhllawfirm.com,Criminal Defense,,,Oklahoma City,3
+Haley Law Office,https://www.google.com/search?q=Haley+Law+Office+El+Reno+OK&ludocid=3265407632447798622,https://www.google.com/search?q=Haley+Law+Office+El+Reno+OK&ludocid=3265407632447798622,,El Reno,OK,Canadian,(405) 262-7100,,Social Security Disability,219 N Bickford Ave,73036,Oklahoma City,2
+Handley Fletcher Dal Jr Atty,https://www.google.com/search?q=Handley+Fletcher+Dal+Jr+Atty+El+Reno+OK&ludocid=6167624495407017902,https://www.google.com/search?q=Handley+Fletcher+Dal+Jr+Atty+El+Reno+OK&ludocid=6167624495407017902,,El Reno,OK,Canadian,(405) 262-3502,,Family Law,421 S Rock Island Ave,73036,Oklahoma City,4
+Hanes Law Firm,http://www.hanes-law.com/,https://www.google.com/search?q=Hanes+Law+Firm+Yukon+OK&ludocid=15247940369919062387,,Yukon,OK,Canadian,(405) 354-2833,hdh@haneslaw.net,Estate Planning,508 W Vandament Ave #300,73099,Oklahoma City,2
+Heather Renee Nance,https://www.avvo.com/attorneys/73762-ok-heather-nance-5040703.html,,https://www.avvo.com/attorneys/73762-ok-heather-nance-5040703.html,Okarche,OK,Canadian,(405) 226-6911,,General,Po Box 803,73762,Oklahoma City,4
+Henricksen & Henricksen,https://www.attorneylawyerlist.com/oklahoma/el-reno/law-offfice-701914/,,https://www.attorneylawyerlist.com/oklahoma/el-reno/law-offfice-701914/,El Reno,OK,Canadian,(405) 262-0983,,Personal Injury,210 N Choctaw Ave,73036,Oklahoma City,5
+Henthorn B Christoph,http://www.henthornlawfirm.com/,https://www.google.com/search?q=Henthorn+B+Christoph+Yukon+OK&ludocid=7320246173771113367,,Yukon,OK,Canadian,(405) 350-1297,info@henthornlawfirm.com,Workers' Compensation,508 W Vandament Ave #306,73099,Oklahoma City,5
+Hershel Marcellous Gorham,http://www.hershelgorhamlaw.com,,,El Reno,OK,Canadian,(405) 821-5814,gorhamlawfirm@gmail.com,General Practice,,73036,Oklahoma City,1
+Hohenheim Legal,https://www.darrenbarrlaw.com/,https://www.google.com/search?q=Hohenheim+Legal+Yukon+OK&ludocid=13693722892411086750,,Yukon,OK,Canadian,(828) 851-2963,,Estate Planning,901 E Main St Ste 125,73099,Oklahoma City,2
+Holliday Law Firm,http://www.jhollidaylaw.com/,https://www.google.com/search?q=Holliday+Law+Firm+Yukon+OK&ludocid=16414154727440231059,,Yukon,OK,Canadian,(405) 577-6977,jholliday@jhollidaylaw.com,Estate Planning,1300 W Vandament Ave Ste 2701,73099,Oklahoma City,2
+Hughey & Parker,https://www.attorneylawyerlist.com/oklahoma/el-reno/law-offfice-702042/,,https://www.attorneylawyerlist.com/oklahoma/el-reno/law-offfice-702042/,El Reno,OK,Canadian,(405) 262-2889,,Personal Injury,P.O. BOX 1147,73036,Oklahoma City,5
+Indian Affairs Bureau Law,https://www.google.com/search?q=Indian+Affairs+Bureau+Law+El+Reno+OK&ludocid=2289465451467519826,https://www.google.com/search?q=Indian+Affairs+Bureau+Law+El+Reno+OK&ludocid=2289465451467519826,,El Reno,OK,Canadian,(405) 262-4814,,Social Security Disability,1635 OK-66,73036,Oklahoma City,2
+Jacque Lynn Pearsall,https://lawyers.justia.com/lawyer/jacque-lynn-pearsall-1529953,,https://lawyers.justia.com/lawyer/jacque-lynn-pearsall-1529953,Yukon,OK,Canadian,(405) 354-5536,,General,920 Majestic Ave,73099,Oklahoma City,4
+James Travers Volz,https://www.avvo.com/attorneys/73078-ok-james-volz-5035546.html,,https://www.avvo.com/attorneys/73078-ok-james-volz-5035546.html,Piedmont,OK,Canadian,(405) 373-3233,,General,14100 N Frisco Rd,73078,Oklahoma City,4
+Jana Ja Le Harris,https://lawyers.justia.com/lawyer/jana-ja-le-harris-966156,,https://lawyers.justia.com/lawyer/jana-ja-le-harris-966156,Mustang,OK,Canadian,(405) 850-1403,,General,825 S Chuckwagon Dr,73064,Oklahoma City,4
+Jane A. Webb,https://mycc.bank,,,,OK,Canadian,,jane.w@mycc.bank,General Practice,,,Oklahoma City,3
+Janice Kay White,https://www.avvo.com/attorneys/73085-ok-janice-white-5038922.html,,https://www.avvo.com/attorneys/73085-ok-janice-white-5038922.html,Yukon,OK,Canadian,(405) 354-2159,,General,Po Box 851122,73085,Oklahoma City,4
+Janis Elaine Flanagan Darley,https://www.avvo.com/attorneys/73099-ok-janis-darley-141566.html,,https://www.avvo.com/attorneys/73099-ok-janis-darley-141566.html,Yukon,OK,Canadian,(405) 650-4037,,Health Care,11145 Folkstone Dr,73099,Oklahoma City,4
+Jarod Allen Morris,,,,Yukon,OK,Canadian,(405) 435-0673,morrislawok@gmail.com,General Practice,,73099,Oklahoma City,3
+Javier Giovanny Hernandez,http://jghernandezlaw.com,,,,OK,Canadian,(405) 774-2020,ATTORNEY@JGHERNANDEZLAW.COM,General Practice,,,Oklahoma City,1
+Jeffery Wayne Massey,,,,Yukon,OK,Canadian,(405) 834-7379,masseylawokc@gmail.com,Criminal Defense,,73099,Oklahoma City,3
+Jenna Brown,https://www.avvo.com/attorneys/73085-ok-jenna-brown-5037509.html,,https://www.avvo.com/attorneys/73085-ok-jenna-brown-5037509.html,Yukon,OK,Canadian,(405) 822-5058,,General,Po Box 850986,73085,Oklahoma City,4
+Jennifer Bridgforth Volino,https://thetitlelawgroup.com/,,,,OK,Canadian,(405) 488-7061,jvolino@trimblelawgroup.com,General Practice,,,Oklahoma City,1
+Jessica Brown,https://www.avvo.com/attorneys/73099-ok-jessica-brown-5194839.html,,https://www.avvo.com/attorneys/73099-ok-jessica-brown-5194839.html,Yukon,OK,Canadian,(405) 679-4979,,Criminal Defense,Virtual,73099,Oklahoma City,4
+John Cecil Harrison,,,,,OK,Canadian,(405) 343-0545,jharrisonlaw@sbcglobal.net,Real Property (Land),,,Oklahoma City,3
+John Edward Gatliff,https://www.avvo.com/attorneys/73103-ok-john-gatliff-5043287.html,,https://www.avvo.com/attorneys/73103-ok-john-gatliff-5043287.html,Mustang,OK,Canadian,(405) 232-8700,,Contracts & Agreements,Po Box 44,73064,Oklahoma City,4
+John G Booth,https://lawyers.justia.com/lawyer/john-g-booth-1203916,,https://lawyers.justia.com/lawyer/john-g-booth-1203916,Geary,OK,Canadian,(416) 709-5171,,General,301 South Walbaum Road,73014,Oklahoma City,4
+John Paul Jordan,https://jpjordanlaw.com,,,Yukon,OK,Canadian,(405) 226-1532,jp@jpjordanlaw.com,General Practice,,73099,Oklahoma City,3
+Jon Charles Franke,https://www.avvo.com/attorneys/73099-ok-jon-franke-5041910.html,,https://www.avvo.com/attorneys/73099-ok-jon-franke-5041910.html,Yukon,OK,Canadian,(405) 308-2239,,Contracts & Agreements,10924 NW Expressway,73099,Oklahoma City,4
+Jon Mitchell Surrett,https://surrettandassociates.com,,,,OK,Canadian,,mitchsurrett@surrettandassociates.com,Government Practice,,,Oklahoma City,3
+Jon W. Lurtz,https://www.lurtzlaw.com,,https://www.avvo.com/attorneys/73099-ok-jon-lurtz-5041999.html,Yukon,OK,Canadian,(405) 557-1706,,Estate Planning,1308 Cambridge Dr,73099,Oklahoma City,2
+Jonathan Eric Miller,https://www.avvo.com/attorneys/73078-ok-jonathan-miller-5042350.html,,https://www.avvo.com/attorneys/73078-ok-jonathan-miller-5042350.html,Piedmont,OK,Canadian,(405) 938-9108,,Wills & Living Wills,Po Box 546,73078,Oklahoma City,4
+Joseph Biscone II,https://lawyers.justia.com/lawyer/joseph-biscone-ii-971454,,https://lawyers.justia.com/lawyer/joseph-biscone-ii-971454,Mustang,OK,Canadian,(405) 232-6490,,General,11100 S Cemetery Rd,73064,Oklahoma City,4
+Joseph Fletcher Pearsall,https://www.avvo.com/attorneys/73099-ok-joseph-pearsall-5040455.html,,https://www.avvo.com/attorneys/73099-ok-joseph-pearsall-5040455.html,Yukon,OK,Canadian,(405) 314-3054,,General,834 Chase Ln,73099,Oklahoma City,4
+Julie Dawn Gragg-Landes,http://rlslawyer.com,,,,OK,Canadian,,julie@RLSLawyer.com,General Practice,,,Oklahoma City,1
+Kathleen Therese Ralson,https://www.avvo.com/attorneys/73064-ok-kathleen-ralson-5031079.html,,https://www.avvo.com/attorneys/73064-ok-kathleen-ralson-5031079.html,Mustang,OK,Canadian,(405) 706-5578,,General,418 W Juniper Dr,73064,Oklahoma City,4
+Kenneth Dominic Law Office,https://www.google.com/search?q=Kenneth+Dominic+Law+Office+El+Reno+OK&ludocid=11191954306187030425,https://www.google.com/search?q=Kenneth+Dominic+Law+Office+El+Reno+OK&ludocid=11191954306187030425,,El Reno,OK,Canadian,(405) 295-2929,,Social Security Disability,100 N Rock Island Ave,73036,Oklahoma City,2
+"King Legal, PLLC",http://kinglegalok.com/,https://www.google.com/search?q=King+Legal%2C+PLLC+Weatherford+OK&ludocid=11716401085628656974,,Weatherford,OK,Canadian,(580) 302-5282,info@kinglegalok.com,Estate Planning,118 W Main St,73096,Oklahoma City,2
+Kirk Allen Marshall,https://www.avvo.com/attorneys/73099-ok-kirk-marshall-5041436.html,,https://www.avvo.com/attorneys/73099-ok-kirk-marshall-5041436.html,Yukon,OK,Canadian,(405) 706-5641,,Contracts & Agreements,304 W Grand Teton Ct,73099,Oklahoma City,4
+Krissa Lynn Denning,https://lawyers.justia.com/lawyer/krissa-lynn-denning-1779749,,https://lawyers.justia.com/lawyer/krissa-lynn-denning-1779749,YUKON,OK,Canadian,,,General,9121 POPPEY PL,73099,Oklahoma City,4
+Kristen Louise Hartman,https://hartmanlawokc.com,,,,OK,Canadian,(405) 605-1961,kristen@hartmanlawokc.com,Criminal Defense,,,Oklahoma City,3
+Kristin Fisher Stacy,http://www.stacylegalgroup.com/,,,,OK,Canadian,,Kristin@stacylegalgroup.com,General Practice,,,Oklahoma City,1
+Lauren Fisher Guhl,,,,,OK,Canadian,(405) 627-0079,guhl.lauren@gmail.com,Family Law,,,Oklahoma City,3
+Lauren LeBlanc Day,https://www.avvo.com/attorneys/73099-ok-lauren-day-5042373.html,,https://www.avvo.com/attorneys/73099-ok-lauren-day-5042373.html,Yukon,OK,Canadian,(405) 706-9068,,Appeals,1302 Redbud St Apt 202,73099,Oklahoma City,4
+Law Office of Brady Brus,https://www.bradybruslaw.com,,,Yukon,OK,Canadian,(405) 623-7990,,Family Law,,73085,Oklahoma City,4
+Law Office of Jennifer L. Hoskins,http://www.hoskinslawok.com/,https://www.google.com/search?q=Law+Office+of+Jennifer+L.+Hoskins+Yukon+OK&ludocid=18318884311468350989,,Yukon,OK,Canadian,(405) 251-9856,,General,5 S 5th St,73099,Oklahoma City,4
+"Law Offices of Angela J. Smith, Advocacy Inc. PC",https://www.google.com/search?q=Law+Offices+of+Angela+J.+Smith%2C+Advocacy+Inc.+PC+Yukon+OK&ludocid=8041407202936364622,https://www.google.com/search?q=Law+Offices+of+Angela+J.+Smith%2C+Advocacy+Inc.+PC+Yukon+OK&ludocid=8041407202936364622,,Yukon,OK,Canadian,(405) 239-2603,,Social Security Disability,508 W Vandament Ave Ste,73099,Oklahoma City,2
+Leann Gloria Farha,https://jeffcrainlaw.com,,,,OK,Canadian,,leann@jeffcrainlaw.com,Estate Planning and Probate,,,Oklahoma City,3
+Lee Law Firm,,,,Yukon,OK,Canadian,(405) 833-0432,,General,,73099,Oklahoma City,4
+Legal Aid Services of Ok,https://www.legalaidok.org/,https://www.google.com/search?q=Legal+Aid+Services+of+Ok+Weatherford+OK&ludocid=6457295626106802128,,Weatherford,OK,Canadian,(580) 774-2235,,Family Law,109 S Broadway St,73096,Oklahoma City,4
+Leslie Lanay Jones,,,,,OK,Canadian,,leslielanayj@gmail.com,Personal Injury,,,Oklahoma City,3
+Lincoln Colby Hatfield,https://www.avvo.com/attorneys/73099-ok-lincoln-hatfield-5038508.html,,https://www.avvo.com/attorneys/73099-ok-lincoln-hatfield-5038508.html,Yukon,OK,Canadian,(580) 330-0370,,General,12017 Brinley Reign Dr,73099,Oklahoma City,4
+Linda L Stevens PLLC,https://www.google.com/search?q=Linda+L+Stevens+PLLC+Mustang+OK&ludocid=9069304484071330046,https://www.google.com/search?q=Linda+L+Stevens+PLLC+Mustang+OK&ludocid=9069304484071330046,,Mustang,OK,Canadian,(405) 376-7038,,Social Security Disability,925 W State Hwy 152,73064,Oklahoma City,2
+Linda Marie Modestino,,,,Yukon,OK,Canadian,(405) 641-9389,lmodestino@cox.net,General Practice,,73099,Oklahoma City,3
+Lisa Kae Cosentino,https://www.avvo.com/attorneys/73085-ok-lisa-cosentino-5037492.html,,https://www.avvo.com/attorneys/73085-ok-lisa-cosentino-5037492.html,Yukon,OK,Canadian,(405) 590-1401,,Guardianship,Po Box 851173,73085,Oklahoma City,4
+Long & Associates PC,,,,Weatherford,OK,Canadian,(580) 774-1650,,General,101 E Main St,73096,Oklahoma City,4
+Lori Ann Young,https://trinitylegal.org,,,,OK,Canadian,(405) 226-1300,lyoung@trinitylegal.org,Family Law,,,Oklahoma City,3
+Maria Tully Erbar,https://www.erbarlawoffice.com,,https://www.avvo.com/attorneys/73099-ok-maria-erbar-5055891.html,Yukon,OK,Canadian,(405) 842-5015,,Family Law,9805 Ramsey Rd,73099,Oklahoma City,4
+"Marvin Laws, P.C.",http://okconstructionlaw.net/,https://www.google.com/search?q=Marvin+Laws%2C+P.C.+Mustang+OK&ludocid=8419751661983880598,,Mustang,OK,Canadian,(405) 381-9933,okconstructionlaw@outlook.com,Civil Litigation,925 W State Hwy 152 Suite M,73064,Oklahoma City,3
+Matthew David Craig,https://ogletreedeakins.com,,,,OK,Canadian,,matthew.craig@ogletreedeakins.com,Litigation,,,Oklahoma City,3
+Mc Cann Law Office,http://www.semccannlaw.com/,https://www.google.com/search?q=Mc+Cann+Law+Office+El+Reno+OK&ludocid=12633733318031579399,,El Reno,OK,Canadian,(405) 262-8100,scott@semccannlaw.com,Personal Injury,100 N Rock Island Ave # A,73036,Oklahoma City,5
+Melissa Purvis,https://www.avvo.com/attorneys/73078-ok-melissa-purvis-4676166.html,,https://www.avvo.com/attorneys/73078-ok-melissa-purvis-4676166.html,Piedmont,OK,Canadian,(405) 630-7485,,Tax,104 Piedmont Rd NSte D,73078,Oklahoma City,4
+Melrose L Minton III,https://www.mlmintonlaw.com/,https://www.google.com/search?q=Melrose+L+Minton+III+Weatherford+OK&ludocid=13971770894302901607,,Weatherford,OK,Canadian,(580) 772-5546,tminton@sbcglobal.net,Personal Injury,400 E Main St,73096,Oklahoma City,5
+Michael Allen Dial,,,,,OK,Canadian,,michaeladial@yahoo.com,Personal Injury,,,Oklahoma City,3
+Micheal Steven Oglesby,https://www.avvo.com/attorneys/73099-ok-micheal-oglesby-5037853.html,,https://www.avvo.com/attorneys/73099-ok-micheal-oglesby-5037853.html,Yukon,OK,Canadian,(405) 724-4644,,General,3 S 5th St,73099,Oklahoma City,4
+"Miller Dollarhide, P.C.",http://www.millerdollarhide.com/,https://www.google.com/search?q=Miller+Dollarhide%2C+P.C.+Mustang+OK&ludocid=15097633974157664182,,Mustang,OK,Canadian,(405) 236-8541,,Social Security Disability,925 W State Hwy 152,73064,Oklahoma City,1
+Morris Law Office,,,,Yukon,OK,Canadian,(405) 265-8941,,General,PO Box 850717,73085,Oklahoma City,4
+Nathaniel F. Raddatz,,,,,OK,Canadian,(405) 848-2409,nraddatz@hotmail.com,Real Property (Land),,,Oklahoma City,3
+Nevin Ray Kirkland,,,,,OK,Canadian,,nkirkland@live.com,General Practice,,,Oklahoma City,1
+Norman Franklin Austin,https://pldi.net,,,Okarche,OK,Canadian,(405) 263-4677,frankaustin@pldi.net,Personal Injury,,73762,Oklahoma City,3
+"O'Brien Law Firm, PLLC",https://obrienlawok.com/home,https://www.google.com/search?q=O%27Brien+Law+Firm%2C+PLLC+Mustang+OK&ludocid=10393394242940173535,,Mustang,OK,Canadian,(405) 479-1134,eben@eyebytes.com,Criminal Defense,7700 S Cimarron Rd,73064,Oklahoma City,5
+Oklahoma City Family Law Center,http://okcfamilylawcenter.com/,https://www.google.com/search?q=Oklahoma+City+Family+Law+Center+Mustang+OK&ludocid=16708117857391057759,,Mustang,OK,Canadian,(405) 606-8713,,Family Law,202 N Mustang Rd Ste 20,73064,Oklahoma City,4
+"Oklahoma Conflict Resolution Consultants, LLC",http://www.okconflictres.com/,https://www.google.com/search?q=Oklahoma+Conflict+Resolution+Consultants%2C+LLC+Mustang+OK&ludocid=13701552575730988453,,Mustang,OK,Canadian,(405) 982-5783,,Family Law,1460 N Mustang Rd Suite 112,73064,Oklahoma City,4
+Pamela Kennedy,https://pamelakennedylaw.com,,,Yukon,OK,Canadian,(405) 317-1009,pamela@pamelakennedylaw.com,Personal Injury,,73085,Oklahoma City,3
+Patricia A Flanagan Law Office,https://www.attorneylawyerlist.com/oklahoma/yukon/law-offfice-703549/,,https://www.attorneylawyerlist.com/oklahoma/yukon/law-offfice-703549/,Yukon,OK,Canadian,(405) 354-2213,,Personal Injury,103 E Vandament Ave Ste D,73099,Oklahoma City,5
+Paul Clayton Eubanks,https://mines.ok.gov,,,,OK,Canadian,(405) 522-9849,clayton.eubanks@mines.ok.gov,General Practice,,,Oklahoma City,1
+Perkins Law Firm PLLC,http://www.perkins-lawfirm.com/,https://www.google.com/search?q=Perkins+Law+Firm+PLLC+El+Reno+OK&ludocid=298491957268571564,,El Reno,OK,Canadian,(405) 593-2662,,General,221 S Bickford Ave,73036,Oklahoma City,4
+Pizzini Law Firm,http://www.pizzini-law.com/,https://www.google.com/search?q=Pizzini+Law+Firm+Yukon+OK&ludocid=3123848721866682639,,Yukon,OK,Canadian,(405) 265-2845,,Family Law,508 W Vandament Ave #308,73099,Oklahoma City,4
+"Prestidge Law Firm, PC",https://www.prestidgelawoffice.com,,,Yukon,OK,Canadian,(405) 577-7703,,Criminal Defense,520 Pointe Parkway Blvd,73099,Oklahoma City,5
+R Everett Law Office,https://www.google.com/search?q=R+Everett+Law+Office+Yukon+OK&ludocid=6340268646449496900,https://www.google.com/search?q=R+Everett+Law+Office+Yukon+OK&ludocid=6340268646449496900,,Yukon,OK,Canadian,(405) 350-0990,,Social Security Disability,508 W Vandament Ave,73099,Oklahoma City,2
+Rachel Brooke Morefield,,,,,OK,Canadian,,rachel@rmorefieldlaw.com,Estate Planning and Probate,,,Oklahoma City,3
+"Recker & Recker, PC",https://www.reckerandrecker.com/,https://www.google.com/search?q=Recker+%26+Recker%2C+PC+Weatherford+OK&ludocid=2524175717533076596,,Weatherford,OK,Canadian,(580) 302-5028,,Criminal Defense,109 S Broadway St,73096,Oklahoma City,5
+Rehl Law Firm,http://www.rehllawfirm.com/contact/index.html,https://www.google.com/search?q=Rehl+Law+Firm+Mustang+OK&ludocid=15016261896152876305,,Mustang,OK,Canadian,(405) 926-3369,,General,925 W State Hwy 152,73064,Oklahoma City,4
+"Rice Law Firm, PLLC",http://www.ricelawfirmok.com/,https://www.google.com/search?q=Rice+Law+Firm%2C+PLLC+Mustang+OK&ludocid=727145524856822654,,Mustang,OK,Canadian,(405) 261-9802,Ricelawfirm.ok@gmail.com,Workers' Compensation,2019 E State Hwy 152 #101,73064,Oklahoma City,5
+Richard M Fogg,https://www.fogglawfirm.com,,https://www.avvo.com/attorneys/73036-ok-richard-fogg-4774150.html,El Reno,OK,Canadian,(405) 627-1490,,Family Law,421 S. Rock Island Ave,73036,Oklahoma City,4
+Rick James Henthorn,https://henthornlaw.net,,,Yukon,OK,Canadian,(405) 203-0158,rick@henthornlaw.net,General Practice,,73099,Oklahoma City,1
+Rinehart Rinehart & Rinehart,http://rinehartlaw.net/,https://www.google.com/search?q=Rinehart+Rinehart+%26+Rinehart+El+Reno+OK&ludocid=18063499889258173484,,El Reno,OK,Canadian,(405) 262-2360,,Estate Planning,115 S Rock Island Ave #2732,73036,Oklahoma City,2
+Robert D. Dennis,https://www.avvo.com/attorneys/73064-ok-robert-dennis-5038385.html,,https://www.avvo.com/attorneys/73064-ok-robert-dennis-5038385.html,Mustang,OK,Canadian,(405) 650-7800,,General,524 E Hillcrest Ln,73064,Oklahoma City,4
+"Robert F. Groshon, Jr.",https://groshonlawoffice.com,,,,OK,Canadian,(405) 290-7002,bob@groshonlawoffice.com,Criminal Defense,,,Oklahoma City,3
+Robert John Connor,https://lawyers.justia.com/lawyer/robert-john-connor-1226288,,https://lawyers.justia.com/lawyer/robert-john-connor-1226288,EL RENO,OK,Canadian,(405) 805-6635,,General,618 S HOFF AVE,73036,Oklahoma City,4
+Robyn B. Hopkins,https://www.avvo.com/attorneys/73078-ok-robyn-hopkins-4690702.html,,https://www.avvo.com/attorneys/73078-ok-robyn-hopkins-4690702.html,Piedmont,OK,Canadian,(405) 373-4792,,Criminal Defense,1225 Piedmont Rd. N.,73078,Oklahoma City,4
+Rodney Gavin Fouts,http://www.pioneerestateplanning.com,,,,OK,Canadian,(405) 215-9222,gavin@pioneer.legal,Personal Injury,,,Oklahoma City,3
+Rodney Joe Heggy,https://lawyers.justia.com/lawyer/rodney-joe-heggy-967912,,https://lawyers.justia.com/lawyer/rodney-joe-heggy-967912,Yukon,OK,Canadian,(405) 235-1560,,General,720 Chateau Ave,73099,Oklahoma City,4
+Ron Phelps & Assoc,https://www.attorneylawyerlist.com/oklahoma/yukon/law-offfice-704008/,,https://www.attorneylawyerlist.com/oklahoma/yukon/law-offfice-704008/,Yukon,OK,Canadian,(405) 283-0068,,Personal Injury,11604 Royal Coach Dr,73099,Oklahoma City,5
+Ryan Wilson Hearne,,,,,OK,Canadian,(405) 471-7578,rwhboy@gmail.com,General Practice,,,Oklahoma City,1
+Sarah Danielle Willey,,,,,OK,Canadian,,sarahdwilley1@gmail.com,Family Law,,,Oklahoma City,3
+Sarah Michelle Ventris,http://www.legatumlegalok.com,,,,OK,Canadian,(405) 654-1390,sarah@legatumlegalok.com,Estate Planning and Probate,,,Oklahoma City,3
+Schultz Law Firm,https://www.google.com/search?q=Schultz+Law+Firm+Weatherford+OK&ludocid=661533398477227898,https://www.google.com/search?q=Schultz+Law+Firm+Weatherford+OK&ludocid=661533398477227898,,Weatherford,OK,Canadian,(580) 772-8600,,Social Security Disability,211 W Main St,73096,Oklahoma City,2
+Scott Earl McCann,https://www.avvo.com/attorneys/73036-ok-scott-mccann-5038548.html,,https://www.avvo.com/attorneys/73036-ok-scott-mccann-5038548.html,El Reno,OK,Canadian,(405) 204-7100,,General,100 N Rock Island Ave Unit A,73036,Oklahoma City,4
+Sealy R. Adams,https://okdhs.org,,,,OK,Canadian,,sealy.adams@okdhs.org,General Practice,,,Oklahoma City,1
+Shannon Collene Weis,https://lawyers.justia.com/lawyer/shannon-collene-weis-966920,,https://lawyers.justia.com/lawyer/shannon-collene-weis-966920,Yukon,OK,Canadian,(405) 354-0556,,General,1109 McConnell Dr,73099,Oklahoma City,4
+Shannon K. Bradshaw,https://lawyers.justia.com/lawyer/shannon-k-bradshaw-1488230,,https://lawyers.justia.com/lawyer/shannon-k-bradshaw-1488230,Yukon,OK,Canadian,(405) 702-3003,,General,P.O. Box 850994,73099,Oklahoma City,4
+Shelly Ann McCorkle,http://www.McCorkleLawOK.com,,,,OK,Canadian,(405) 888-9100,Shelly@McCorkleLawOK.com,Criminal Defense,,,Oklahoma City,3
+Shiloh Renes,https://forbesandrenes.com,,,,OK,Canadian,(405) 733-1990,srenes@forbesandrenes.com,Personal Injury,,,Oklahoma City,3
+Skylar Ann Schneider,https://oklahoma.gov/oids/about/staff.html,,,El Reno,OK,Canadian,(405) 615-8174,skylar.bell@oids.ok.gov,Criminal Defense,,73036,Oklahoma City,3
+Stacy Legal Group,https://www.google.com/search?q=Stacy+Legal+Group+Yukon+OK&ludocid=1565581403202290141,https://www.google.com/search?q=Stacy+Legal+Group+Yukon+OK&ludocid=1565581403202290141,,Yukon,OK,Canadian,(405) 735-3800,,Social Security Disability,432 S Mustang Rd Ste B,73099,Oklahoma City,2
+Stefanie Nance Hampton,https://lawyers.justia.com/lawyer/stefanie-nance-hampton-972651,,https://lawyers.justia.com/lawyer/stefanie-nance-hampton-972651,El Reno,OK,Canadian,(405) 262-0177,,General,303 N. Choctaw Avenue,73036,Oklahoma City,4
+Steffen Sandy,https://www.google.com/search?q=Steffen+Sandy+El+Reno+OK&ludocid=3012153132730724850,https://www.google.com/search?q=Steffen+Sandy+El+Reno+OK&ludocid=3012153132730724850,,El Reno,OK,Canadian,(405) 262-1322,,Social Security Disability,107 S Rock Island Ave,73036,Oklahoma City,2
+Stephanie Ashton Morris,,,,,OK,Canadian,,steph.morrislaw@gmail.com,Criminal Defense,,,Oklahoma City,3
+"Stephen D. Beam, A Professional Corporation",https://www.stephenbeamlaw.net/,https://www.google.com/search?q=Stephen+D.+Beam%2C+A+Professional+Corporation+Weatherford+OK&ludocid=5035287421589565642,,Weatherford,OK,Canadian,(580) 302-5023,,Personal Injury,110 S Broadway St,73096,Oklahoma City,5
+Stephen Edward Dimas,,,,,OK,Canadian,,stephenedimas@gmail.com,General Practice,,,Oklahoma City,1
+Steven Michael Feisal,https://www.avvo.com/attorneys/73036-ok-steven-feisal-5031732.html,,https://www.avvo.com/attorneys/73036-ok-steven-feisal-5031732.html,El Reno,OK,Canadian,(405) 202-0771,,General,11422 N Banner Rd,73036,Oklahoma City,4
+Steven Mortimer,https://www.avvo.com/attorneys/73099-ok-steven-mortimer-3564245.html,,https://www.avvo.com/attorneys/73099-ok-steven-mortimer-3564245.html,Yukon,OK,Canadian,(405) 517-3414,,Social Security,"705 S. Mustang Rd, #172",73099,Oklahoma City,4
+Stevener Arthur Jr Attorney At Law,,,,El Reno,OK,Canadian,(405) 262-4511,,General,200 N Choctaw Ave,73036,Oklahoma City,4
+Susan D Williams PC,,,,El Reno,OK,Canadian,(405) 262-1449,,General,219 E Russell St,73036,Oklahoma City,4
+Swain Law Group,http://www.swainlawgroup.com/,https://www.google.com/search?q=Swain+Law+Group+El+Reno+OK&ludocid=9940225468182376113,,El Reno,OK,Canadian,(405) 501-0827,,Personal Injury,421 S Rock Island Ave,73036,Oklahoma City,5
+Tanner Edward Rice,,,,,OK,Canadian,(405) 823-1241,ricelawfirm.ok@gmail.com,Personal Injury,,,Oklahoma City,3
+Terry Reed McMillan,,,,,OK,Canadian,(405) 301-9086,t.mcmillan.reed@gmail.com,Personal Injury,,,Oklahoma City,3
+Tharp William,http://www.rameyandtharp.com/,https://www.google.com/search?q=Tharp+William+Yukon+OK&ludocid=10285073418704313037,,Yukon,OK,Canadian,(405) 354-1987,rameyandtharp@sbcglobal.net,Family Law,3 S 5th St,73099,Oklahoma City,4
+The Handley Law Center,https://www.handleylaw.com/,https://www.google.com/search?q=The+Handley+Law+Center+El+Reno+OK&ludocid=5843353661860187665,,El Reno,OK,Canadian,(405) 295-1924,fit@handley.builder.legalfit.com,Personal Injury,111 S Rock Island Ave,73036,Oklahoma City,5
+The Law Office of Dakota C. Low,https://dakotalow.com/,https://www.google.com/search?q=The+Law+Office+of+Dakota+C.+Low+Mustang+OK&ludocid=171848152475220513,,Mustang,OK,Canadian,(405) 601-8899,dlow@dakotalow.com,Personal Injury,925 W State Hwy 152,73064,Oklahoma City,5
+The Law Office of Eliza Johnson,https://www.google.com/search?q=The+Law+Office+of+Eliza+Johnson+Mustang+OK&ludocid=16694316167519563078,https://www.google.com/search?q=The+Law+Office+of+Eliza+Johnson+Mustang+OK&ludocid=16694316167519563078,,Mustang,OK,Canadian,(405) 253-5817,,Social Security Disability,1321 E State Hwy 152,73064,Oklahoma City,2
+The Law Office of Erik G. Roscom,http://roscomlaw.com/,https://www.google.com/search?q=The+Law+Office+of+Erik+G.+Roscom+El+Reno+OK&ludocid=11373639610180674721,,El Reno,OK,Canadian,(405) 295-1474,erik@roscomlaw.com,Criminal Defense,300 N Choctaw Ave Ste 3,73036,Oklahoma City,5
+The Law Office of H.G. Drain LLC,http://hdrainlaw.com/,https://www.google.com/search?q=The+Law+Office+of+H.G.+Drain+LLC+Yukon+OK&ludocid=16699904046514231668,,Yukon,OK,Canadian,(405) 535-4555,hg@hdrainlaw.com,General,508 W Vandament Ave Ste 203,73099,Oklahoma City,4
+"Thomason Law, PLLC",http://www.thomason-law.com/,https://www.google.com/search?q=Thomason+Law%2C+PLLC+Yukon+OK&ludocid=17312923539416167920,,Yukon,OK,Canadian,(405) 265-3565,impallari@gmail.com,Estate Planning,115 E Vandament Ave,73099,Oklahoma City,2
+Timothy James Gallegly,https://crowedunlevy.com,,,,OK,Canadian,,tim.gallegly@crowedunlevy.com,General Practice,,,Oklahoma City,3
+Tipps Shelley A,https://tippslawfirm.com/,https://www.google.com/search?q=Tipps+Shelley+A+Yukon+OK&ludocid=6938200689733652978,,Yukon,OK,Canadian,(405) 354-1801,shelley@tippslawfirm.com,Family Law,508 W Vandament Ave #202,73099,Oklahoma City,4
+Todd Lance Grimmett,,,,,OK,Canadian,(405) 612-0024,toddlanceg@gmail.com,General Practice,,,Oklahoma City,3
+Tommie Craig Gibson,,,,Yukon,OK,Canadian,(405) 354-2900,tomgibsonlawyer@cox.net,Personal Injury,,73099,Oklahoma City,3
+Travis James Vernier,https://www.bennettvernier.com/,,,,OK,Canadian,(405) 456-0404,travis@bennettvernier.com,General Practice,,,Oklahoma City,1
+Vandruff Legal,https://www.google.com/search?q=Vandruff+Legal+Mustang+OK&ludocid=15665714152555562320,https://www.google.com/search?q=Vandruff+Legal+Mustang+OK&ludocid=15665714152555562320,,Mustang,OK,Canadian,(405) 609-7684,,Social Security Disability,,73064,Oklahoma City,2
+Victor Ronald Frangione,https://lawyers.justia.com/lawyer/victor-ronald-frangione-1185528,,https://lawyers.justia.com/lawyer/victor-ronald-frangione-1185528,YUKON,OK,Canadian,(405) 615-9643,,General,10921 NW 36TH TER,73099,Oklahoma City,4
+"W Mark Hixson, P.C., Attorney at Law",http://hixson.law/,https://www.google.com/search?q=W+Mark+Hixson%2C+P.C.%2C+Attorney+at+Law+Yukon+OK&ludocid=6750013127201218604,,Yukon,OK,Canadian,(405) 354-6000,Mark@Hixson.Law,Estate Planning,1605F Professional Cir,73099,Oklahoma City,2
+Walter Evans Suttle,https://www.avvo.com/attorneys/73064-ok-walter-suttle-5035790.html,,https://www.avvo.com/attorneys/73064-ok-walter-suttle-5035790.html,Mustang,OK,Canadian,(405) 670-3471,,Social Security,Po Box 1487,73064,Oklahoma City,4
+Wheatley Segler Osby & Miller,https://www.google.com/search?q=Wheatley+Segler+Osby+%26+Miller+Yukon+OK&ludocid=2458108795813845362,https://www.google.com/search?q=Wheatley+Segler+Osby+%26+Miller+Yukon+OK&ludocid=2458108795813845362,,Yukon,OK,Canadian,(405) 354-5276,,Social Security Disability,501 W Main St,73099,Oklahoma City,2
+Whitefeather Law Group,https://www.whitefeatherlaw.com/,https://www.google.com/search?q=Whitefeather+Law+Group+Yukon+OK&ludocid=5496602630764749760,,Yukon,OK,Canadian,(405) 470-0682,,Personal Injury,10924 Northwest Expy,73099,Oklahoma City,5
+William Bradley Brents,https://www.avvo.com/attorneys/73099-ok-william-brents-5100240.html,,https://www.avvo.com/attorneys/73099-ok-william-brents-5100240.html,Yukon,OK,Canadian,(405) 528-2529,,Estate Planning,9812 Stonebridge Dr,73099,Oklahoma City,4
+William Devin Resides,,,,Yukon,OK,Canadian,(405) 410-9915,wresides@outlook.com,Criminal Defense,,73099,Oklahoma City,3
+"William H. Whitehill, Jr.",https://whitehill.law,,,Mustang,OK,Canadian,(405) 548-4487,bill@whitehill.law,General Practice,,73064,Oklahoma City,1
