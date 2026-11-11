@@ -96,8 +96,8 @@ COUNTY_DEFINITIONS = {
         "state": "KS",
         "slug": "riley-county-ks",
         "msa": "Manhattan",
-        "cities": ["Manhattan", "Ogden", "Riley", "Leonardville", "Randolph"],
-        "zip_codes": ["66502", "66503", "66506", "66517", "66531", "66449", "66554", "66505"],
+        "cities": ["Manhattan", "Ogden", "Riley", "Leonardville", "Randolph", "Fort Riley", "Keats"],
+        "zip_codes": ["66502", "66503", "66506", "66517", "66531", "66449", "66554", "66505", "66442", "66520"],
         "extra_search_terms": ["Manhattan KS", "Kansas State University", "Riley County Kansas"],
     },
     "sedgwick": {
