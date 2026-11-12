@@ -1515,12 +1515,13 @@ COUNTY_DEFINITIONS = {
         "name": "Reno County",
         "state": "KS",
         "slug": "reno-county-ks",
-        "msa": "Wichita",
+        "msa": "Hutchinson",
         "cities": [
             "Hutchinson", "South Hutchinson", "Nickerson", "Pretty Prairie",
             "Haven", "Partridge", "Burrton", "Turon", "Yoder", "Arlington",
             "Abbyville", "Sylvia", "Medora", "Plevna", "Willowbrook",
         ],
+        "zip_codes": ["67501", "67502", "67504", "67505", "67543", "67561", "67570", "67566", "67514", "67510", "67581", "67583", "67568", "67585", "67522"],
         "extra_search_terms": ["Hutchinson KS", "Reno County Kansas"],
     },
     "rice_ks": {
