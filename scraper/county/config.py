@@ -91,6 +91,15 @@ COUNTY_DEFINITIONS = {
         ],
         "extra_search_terms": ["Plano TX", "Collin County Texas"],
     },
+    "butler": {
+        "name": "Butler County",
+        "state": "KS",
+        "slug": "butler-county-ks",
+        "msa": "El Dorado",
+        "cities": ["El Dorado", "Augusta", "Andover", "Douglass", "Towanda", "Rose Hill", "Leon", "Benton", "Whitewater", "Potwin", "Latham", "Elbing", "Cassoday", "Brainerd"],
+        "zip_codes": ["67042", "67010", "67002", "67039", "67144", "67133", "67074", "67017", "67154", "67123", "67072", "67041", "66842"],
+        "extra_search_terms": ["El Dorado KS", "Butler County Kansas"],
+    },
     "riley": {
         "name": "Riley County",
         "state": "KS",
