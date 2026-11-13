@@ -1,31 +1,20 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers
-Barrett Law Office,,,,Baxter Springs,KS,Cherokee,620-856-3531,,General,1246 Military - PO Box 467,66713,,4,
-Bingham Law,http://binghamlaw.org,,,Baxter Springs,KS,Cherokee,(620) 856-2600,mdbingham@yahoo.com,DUI,1120 Military Ave,66713,,5,
-"Buchanan, Williams & O'Brien, P.C.",https://www.bwoattorneys.com,,,Baxter Springs,KS,Cherokee,417-417-0248,,Personal Injury,,,,5,
-Derfelt Law Office,,https://www.google.com/maps/place/?q=place_id:ChIJyZJsS1oNyIcRjW_jERTVG70,,Baxter Springs,KS,Cherokee,(620) 240-9771,,General,223 N Willow Ave,66713,,4,
-Gayoso Law Office,,,,Baxter Springs,KS,Cherokee,620-860-1771,,General,"1120 Military Ave, P.O. Box 284",66713,,4,
-Law Office of William Fleischaker,http://www.billfleischakerlaw.com,,,Baxter Springs,KS,Cherokee,417-614-2101,,General,,,,4,
-"Martin Law Office, P.C.",http://www.traceymartinlaw.com,,,Baxter Springs,KS,Cherokee,417-417-1936,virginia@traceymartinlaw.com,Personal Injury,,,,5,
-"Norman E. Rouse, Collins, Webster & Rouse, P.C.",http://www.rousebankruptcy.com/,,,Baxter Springs,KS,Cherokee,417-417-0196,,Criminal Defense,,,,5,
-Prigmore Law Office,http://www.prigmorelawoffice.com/,,,Baxter Springs,KS,Cherokee,417-621-9897,tdprigmore40@gmail.com,Family Law,,,,4,
-Sarah Luce Reeder & Associates LLC,https://www.lucereederlaw.com,,,Baxter Springs,KS,Cherokee,417-417-1941,lucereederlaw@aol.com,Criminal Defense,,,,5,2
-"The Glades Law Firm, P.C.",https://www.gladeslaw.com/,,,Baxter Springs,KS,Cherokee,417-609-0040,bglades@thegladeslawfirm.com,Personal Injury,,,,5,
-The Law Firm of Webster & Carlton,http://www.morrisonwebstercarlton.com/,,,Baxter Springs,KS,Cherokee,417-582-8110,,Personal Injury,,,,5,
-The Law Office of C.Y. Meek,,https://www.google.com/maps/place/?q=place_id:ChIJqz4H364SyIcRz6n_Yzf5Da0,,Baxter Springs,KS,Cherokee,(620) 856-2771,,General,1031 Military Ave,66713,,4,
-"The Law Office of Cobb Young, LLC",http://www.cobbyounglaw.com,,,Baxter Springs,KS,Cherokee,417-417-8256,cobbyounglawyer@sbcglobal.net,Personal Injury,,,,5,2
-"Thomas-Walters, PLLC",https://thomas-walters.com/,,,Baxter Springs,KS,Cherokee,417-482-2637,,Medical Malpractice,,,,5,4
-"Amy Ross Law, LLC",,https://www.google.com/maps/place/?q=place_id:ChIJXXievJIJyIcRUam4buHsoEo,,Columbus,KS,Cherokee,(620) 762-0300,,General,131 S Pennsylvania Ave,66725,,4,
-"Barbara A. Wright, Attorney At Law",https://barbaralaw.com,,,Columbus,KS,Cherokee,620-704-2232,,Real Estate,P.O. Box 476,66725,,2,
-Bullard John,,,,Columbus,KS,Cherokee,(620) 762-6027,,General,217 W Maple St,66725,,4,
-Coleman & Conard,http://colemanandconard.com/,https://www.google.com/maps/place/?q=place_id:ChIJxc2XZVMJyIcReFmwYJh4ooc,,Columbus,KS,Cherokee,(620) 231-3960,jconard@colemanandconard.com,Personal Injury,114 W Pine St,66725,,5,2
-Frederick Law Office LLC,,https://www.google.com/maps/place/?q=place_id:ChIJ_TmcuuoJyIcR3wMuvGQVwlQ,,Columbus,KS,Cherokee,(620) 674-3991,,General,1300 US-160,66725,,4,
-Gayoso Law Office,,https://www.google.com/maps/place/?q=place_id:ChIJx8Ve-64SyIcRVS7923lneHM,,Columbus,KS,Cherokee,,,General,,66713,,4,
-McElroy Law Office,http://www.tmcelroylawoffice.com,,,Columbus,KS,Cherokee,(620) 429-4220,,General,110 S Kansas Ave,66725,,4,
-Robert E Myers Attorney at Law LLC,http://rmyerslegal.com/,https://www.google.com/maps/place/?q=place_id:ChIJhaHVO7oJyIcRVMJEeNW5huA,,Columbus,KS,Cherokee,(620) 429-3151,rmyerslegal@yahoo.com,Personal Injury,313 E Maple St,66725,,5,
-Samuel J Marsh Attorney,http://samuelmarsh.net,,,Columbus,KS,Cherokee,(620) 429-2986,,General,114 W Pine St,66725,,4,
-Shumake Darrel G,http://www.darrelgshumake.com,https://www.google.com/maps/place/?q=place_id:ChIJjToMubAJyIcRg708Bkwetv4,https://directory-kard.kscourts.gov/Home/Details?regNum=8591,Columbus,KS,Cherokee,(620) 429-2284,darrel@shumakelaw.com,General,117 W Maple St,66725,,4,
-"Addison A. Tucker, Attorney at Law",https://mariaalawfirm.com/,,,Galena,KS,Cherokee,417-208-9082,,Personal Injury,PO Box 4,66739,,5,2
-Coleman Law Office LLC,,https://www.google.com/maps/place/?q=place_id:ChIJA4lgF4JxyIcR03HvJ5JVX_M,,Galena,KS,Cherokee,(620) 783-2900,,General,402 S Main St,66739,,4,
-Cure Law Office,,https://www.google.com/maps/place/?q=place_id:ChIJqYpuzYNxyIcRijlOlem0pwU,,Galena,KS,Cherokee,(620) 783-5070,,General,603 S Main St,66739,,4,
-Steele Douglas R,,,,Galena,KS,Cherokee,(620) 783-2717,,General,720 S Main St,66739,,4,
-"Darrel G. Shumake, Attorney",,,https://directory-kard.kscourts.gov/Home/Details?regNum=8591,Columbus,KS,Cherokee,620-429-2284,,General,117 W Maple PO Box 73,66725,,2,
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+"Addison A. Tucker, Attorney at Law",https://mariaalawfirm.com/,,,Galena,KS,Cherokee,417-208-9082,,Personal Injury,PO Box 4,66739,Columbus,5
+"Amy Ross Law, LLC",https://www.google.com/search?q=Amy+Ross+Law%2C+LLC+Columbus+KS&ludocid=5377558408049764689,https://www.google.com/search?q=Amy+Ross+Law%2C+LLC+Columbus+KS&ludocid=5377558408049764689,,Columbus,KS,Cherokee,(620) 762-0300,,General,131 S Pennsylvania Ave,66725,Columbus,4
+Attorney John Bullard,https://www.google.com/search?q=Attorney+John+Bullard+Columbus+KS,https://www.google.com/search?q=Attorney+John+Bullard+Columbus+KS,,Columbus,KS,Cherokee,(620) 762-6027,,General,217 W Maple St,66725,Columbus,4
+"Barbara A. Wright, Attorney At Law",https://barbaralaw.com,,,Columbus,KS,Cherokee,620-704-2232,,Real Estate,P.O. Box 476,66725,Columbus,2
+Barrett Law Office,https://www.google.com/search?q=Gene+Barrett+Law+Office+Baxter+Springs+KS&ludocid=7010320282089576987,https://www.google.com/search?q=Gene+Barrett+Law+Office+Baxter+Springs+KS&ludocid=7010320282089576987,,Baxter Springs,KS,Cherokee,620-856-3531,,General,1246 Military - PO Box 467,66713,Columbus,4
+Bingham Law Office,,,,Baxter Springs,KS,Cherokee,620-249-1988,,General,127 E 10th St,66713,Columbus,4
+Bonner Law Office,https://www.bonnerlawofficellc.com/practice-areas,,,Columbus,KS,Cherokee,(620) 240-9951,matt@bonnerlawofficellc.com,Personal Injury,,66713,Columbus,5
+Coleman Law Office LLC,https://www.google.com/search?q=Coleman+Law+Office+LLC+Galena+KS&ludocid=17536829560227590611,https://www.google.com/search?q=Coleman+Law+Office+LLC+Galena+KS&ludocid=17536829560227590611,,Galena,KS,Cherokee,(620) 783-2900,,General,402 S Main St,66739,Columbus,4
+Conard Law Office LLC,http://colemanandconard.com/,https://www.google.com/search?q=Conard+Law+Office+LLC+Columbus+KS&ludocid=9773506737199929720,,Columbus,KS,Cherokee,(620) 231-3960,jconard@colemanandconard.com,Criminal Defense,114 W Pine St,66725,Columbus,5
+Cure Law Office,https://www.google.com/search?q=Cure+Law+Office+Galena+KS&ludocid=407493206625630602,https://www.google.com/search?q=Cure+Law+Office+Galena+KS&ludocid=407493206625630602,https://www.facebook.com/pages/Cure-Law-Office/161987967164368,Galena,KS,Cherokee,(620) 783-5070,,General,603 S Main St,66739,Columbus,4
+Derfelt Law Office,https://www.google.com/search?q=Derfelt+Law+Office+Baxter+Springs+KS&ludocid=13626719379715747725,https://www.google.com/search?q=Derfelt+Law+Office+Baxter+Springs+KS&ludocid=13626719379715747725,,Baxter Springs,KS,Cherokee,(620) 240-9771,,General,223 N Willow Ave,66713,Columbus,4
+Frederick Law Office LLC,https://www.google.com/search?q=Frederick+Law+Office+LLC+Columbus+KS&ludocid=6107467567065859039,https://www.google.com/search?q=Frederick+Law+Office+LLC+Columbus+KS&ludocid=6107467567065859039,,Columbus,KS,Cherokee,(620) 674-3991,,General,1300 US-160,66725,Columbus,4
+Gayoso Law Office,https://directory-kard.kscourts.gov/Home/Details?regNum=19437,,https://directory-kard.kscourts.gov/Home/Details?regNum=19437,Baxter Springs,KS,Cherokee,620-860-1771,,General,"1120 Military Ave, P.O. Box 284",66713,Columbus,4
+McElroy Law Office,http://www.tmcelroylawoffice.com,,,Columbus,KS,Cherokee,(620) 429-4220,,General,110 S Kansas Ave,66725,Columbus,4
+"Robert E. Myers, Attorney at Law",http://rmyerslegal.com/,https://www.google.com/search?q=Robert+E+Myers+Attorney+at+Law+LLC+Columbus+KS&ludocid=16178823037872030292,,Columbus,KS,Cherokee,(620) 429-3151,rmyerslegal@yahoo.com,Personal Injury,313 E Maple St,66725,Columbus,5
+"Samuel J. Marsh, Attorney at Law",http://samuelmarsh.net,,,Columbus,KS,Cherokee,(620) 429-2986,,General,114 W Pine St,66725,Columbus,4
+Shumake Law,https://www.google.com/search?q=Shumake+Darrel+G+Columbus+KS&ludocid=18353890643266026883,https://www.google.com/search?q=Shumake+Darrel+G+Columbus+KS&ludocid=18353890643266026883,,Columbus,KS,Cherokee,(620) 429-2284,darrel@shumakelaw.com,General,117 W Maple St,66725,Columbus,4
+The Law Office of C.Y. Meek,https://www.google.com/search?q=The+Law+Office+of+C.Y.+Meek+Baxter+Springs+KS&ludocid=12469896959554988495,https://www.google.com/search?q=The+Law+Office+of+C.Y.+Meek+Baxter+Springs+KS&ludocid=12469896959554988495,,Baxter Springs,KS,Cherokee,(620) 856-2771,,General,1031 Military Ave,66713,Columbus,4
+"The Law Office of Douglas R. Steele, LLC",https://lawyers.justia.com/lawyer/douglas-steele-920913,,https://lawyers.justia.com/lawyer/douglas-steele-920913,Galena,KS,Cherokee,(620) 783-2717,,General,720 S Main St,66739,Columbus,4
