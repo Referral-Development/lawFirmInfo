@@ -92,8 +92,8 @@
             "slug": "franklin-county-ks",
             "name": "Franklin County",
             "state": "KS",
-            "firm_count": 67,
-            "last_updated": "2026-08-18",
+            "firm_count": 38,
+            "last_updated": "2026-11-13",
             "csv_file": "franklin-county-ks.csv"
         },
         {
@@ -260,8 +260,8 @@
             "slug": "cherokee-county-ks",
             "name": "Cherokee County",
             "state": "KS",
-            "firm_count": 29,
-            "last_updated": "2026-07-22",
+            "firm_count": 19,
+            "last_updated": "2026-11-13",
             "csv_file": "cherokee-county-ks.csv"
         },
         {
@@ -300,8 +300,8 @@
             "slug": "labette-county-ks",
             "name": "Labette County",
             "state": "KS",
-            "firm_count": 5,
-            "last_updated": "2026-07-22",
+            "firm_count": 8,
+            "last_updated": "2026-11-13",
             "csv_file": "labette-county-ks.csv"
         },
         {
@@ -340,8 +340,8 @@
             "slug": "barton-county-ks",
             "name": "Barton County",
             "state": "KS",
-            "firm_count": 17,
-            "last_updated": "2026-07-22",
+            "firm_count": 20,
+            "last_updated": "2026-11-13",
             "csv_file": "barton-county-ks.csv"
         },
         {
@@ -364,8 +364,8 @@
             "slug": "dickinson-county-ks",
             "name": "Dickinson County",
             "state": "KS",
-            "firm_count": 4,
-            "last_updated": "2026-07-22",
+            "firm_count": 7,
+            "last_updated": "2026-11-13",
             "csv_file": "dickinson-county-ks.csv"
         },
         {
@@ -524,16 +524,16 @@
             "slug": "seward-county-ks",
             "name": "Seward County",
             "state": "KS",
-            "firm_count": 8,
-            "last_updated": "2026-08-18",
+            "firm_count": 16,
+            "last_updated": "2026-11-13",
             "csv_file": "seward-county-ks.csv"
         },
         {
             "slug": "sumner-county-ks",
             "name": "Sumner County",
             "state": "KS",
-            "firm_count": 10,
-            "last_updated": "2026-08-18",
+            "firm_count": 24,
+            "last_updated": "2026-11-13",
             "csv_file": "sumner-county-ks.csv"
         },
         {
@@ -548,8 +548,8 @@
             "slug": "pottawatomie-county-ks",
             "name": "Pottawatomie County",
             "state": "KS",
-            "firm_count": 7,
-            "last_updated": "2026-08-18",
+            "firm_count": 26,
+            "last_updated": "2026-11-13",
             "csv_file": "pottawatomie-county-ks.csv"
         },
         {
