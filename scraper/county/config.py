@@ -1546,6 +1546,29 @@ COUNTY_DEFINITIONS = {
         ],
         "extra_search_terms": ["Russell KS", "Russell County Kansas"],
     },
+    "cowley_ks": {
+        "name": "Cowley County",
+        "state": "KS",
+        "slug": "cowley-county-ks",
+        "msa": "Winfield",
+        "cities": [
+            "Winfield", "Arkansas City", "Udall", "Burden", "Dexter", "Atlanta",
+            "Cambridge", "Geuda Springs", "Rock",
+        ],
+        "zip_codes": ["67156", "67005", "67146", "67019", "67038", "67008", "67020", "67051", "67131"],
+        "extra_search_terms": ["Winfield KS", "Arkansas City KS", "Cowley County Kansas"],
+    },
+    "ford_ks": {
+        "name": "Ford County",
+        "state": "KS",
+        "slug": "ford-county-ks",
+        "msa": "Dodge City",
+        "cities": [
+            "Dodge City", "Bucklin", "Spearville", "Ford", "Wright", "Bloom",
+        ],
+        "zip_codes": ["67801", "67834", "67876", "67842", "67801", "67831"],
+        "extra_search_terms": ["Dodge City KS", "Ford County Kansas"],
+    },
     "saline_ks": {
         "name": "Saline County",
         "state": "KS",
