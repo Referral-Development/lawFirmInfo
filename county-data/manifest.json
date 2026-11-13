@@ -308,8 +308,8 @@
             "slug": "montgomery-county-ks",
             "name": "Montgomery County",
             "state": "KS",
-            "firm_count": 19,
-            "last_updated": "2026-07-22",
+            "firm_count": 39,
+            "last_updated": "2026-11-13",
             "csv_file": "montgomery-county-ks.csv"
         },
         {
@@ -380,8 +380,8 @@
             "slug": "harvey-county-ks",
             "name": "Harvey County",
             "state": "KS",
-            "firm_count": 23,
-            "last_updated": "2026-07-22",
+            "firm_count": 20,
+            "last_updated": "2026-11-13",
             "csv_file": "harvey-county-ks.csv"
         },
         {
@@ -412,8 +412,8 @@
             "slug": "mcpherson-county-ks",
             "name": "McPherson County",
             "state": "KS",
-            "firm_count": 19,
-            "last_updated": "2026-07-22",
+            "firm_count": 47,
+            "last_updated": "2026-11-13",
             "csv_file": "mcpherson-county-ks.csv"
         },
         {
@@ -492,8 +492,8 @@
             "slug": "ellis-county-ks",
             "name": "Ellis County",
             "state": "KS",
-            "firm_count": 22,
-            "last_updated": "2026-08-18",
+            "firm_count": 46,
+            "last_updated": "2026-11-13",
             "csv_file": "ellis-county-ks.csv"
         },
         {
@@ -508,8 +508,8 @@
             "slug": "geary-county-ks",
             "name": "Geary County",
             "state": "KS",
-            "firm_count": 12,
-            "last_updated": "2026-08-18",
+            "firm_count": 23,
+            "last_updated": "2026-11-13",
             "csv_file": "geary-county-ks.csv"
         },
         {
@@ -564,8 +564,8 @@
             "slug": "lyon-county-ks",
             "name": "Lyon County",
             "state": "KS",
-            "firm_count": 18,
-            "last_updated": "2026-08-18",
+            "firm_count": 30,
+            "last_updated": "2026-11-13",
             "csv_file": "lyon-county-ks.csv"
         },
         {

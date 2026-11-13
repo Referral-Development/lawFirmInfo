@@ -1,20 +1,48 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers
-"Karstetter & Bina, LLC",,,https://directory-kard.kscourts.gov/Home/Details?regNum=24995,Mc Pherson,KS,McPherson,620-241-8800,,General,"322 N. Main, Suite 201",67460,,2,
-Gregory Inc,,,https://directory-kard.kscourts.gov/Home/Details?regNum=15048,Buhler,KS,McPherson,620-860-8700,,General,PO Box 410,67522,,2,
-Succession + LLC,,,https://directory-kard.kscourts.gov/Home/Details?regNum=24835,McPherson,KS,McPherson,620-755-3054,,General,1105 Forest Ct,67460,,2,
-"Elliott Law, LLC",,,https://directory-kard.kscourts.gov/Home/Details?regNum=25435,McPherson,KS,McPherson,620-504-9773,,General,114 N Main St,67460,,2,
-Wise & Reber LC,,,https://directory-kard.kscourts.gov/Home/Details?regNum=16807,McPherson,KS,McPherson,620-241-0554,,General,120 W. Kansas Ave. Ste B,67460,,2,
-Ty Kaufman Law Office LC,,,https://directory-kard.kscourts.gov/Home/Details?regNum=6988,McPherson,KS,McPherson,620-504-9401,,General,"121 W Marlin, Ste 303 PO Box 1264",67460-1264,,2,
-"David R. Klaassen, Attorney at Law",,,https://directory-kard.kscourts.gov/Home/Details?regNum=11738,Marquette,KS,McPherson,785-546-2358,,General,2649 Sixth Ave,67464,,2,
-Law Offices of Sanford Nathan,,,https://directory-kard.kscourts.gov/Home/Details?regNum=17411,McPherson,KS,McPherson,620-345-3275,,General,1766 Chisholm Road,67460,,2,
-"Allen & Associates Law, LLC",,,https://directory-kard.kscourts.gov/Home/Details?regNum=26014,McPherson,KS,McPherson,620-798-4250,,General,207 N Main Ste 202,67460,,2,
-Strella Legal Services LLC,,,https://directory-kard.kscourts.gov/Home/Details?regNum=28916,McPherson,KS,McPherson,620-291-4055,,General,"109 N. Main St, Ste 205",67460,,2,
-"SUSAN J WHITFIELD HARDING, PA",,,https://directory-kard.kscourts.gov/Home/Details?regNum=11895,Lindsborg,KS,McPherson,785-212-0884,,General,PO Box 363,67456-0363,,2,
-"Boyer & Price Law Office, P.A.",,,https://directory-kard.kscourts.gov/Home/Details?regNum=17712,Mcpherson,KS,McPherson,620-241-0024,,General,P.O. Box 1335,67460-1335,,2,
-Adoption Law LLC,,,https://directory-kard.kscourts.gov/Home/Details?regNum=10425,McPherson,KS,McPherson,620-755-6905,,General,PO Box 443,67460,,2,
-Wise & Reber LC,,,https://directory-kard.kscourts.gov/Home/Details?regNum=13130,Mc Pherson,KS,McPherson,620-241-0554,,General,120 W. Kansas Ave Ste B,67460-1146,,2,
-Murphy's Law LLC,,,https://directory-kard.kscourts.gov/Home/Details?regNum=28112,Lindsborg,KS,McPherson,785-787-4040,,General,PO Box 166,67456,,2,
-Johnson and Kinzel,,,https://directory-kard.kscourts.gov/Home/Details?regNum=9784,McPherson,KS,McPherson,620-241-4533,,General,PO Box 866,67460,,2,
-Pyle Law,,,https://directory-kard.kscourts.gov/Home/Details?regNum=17613,McPherson,KS,McPherson,620-241-9000,,General,705 W. Kansas Ave,67460,,2,
-"Michael T Mills, Chartered",,,https://directory-kard.kscourts.gov/Home/Details?regNum=5933,McPherson,KS,McPherson,620-241-7007,,General,111 East Marlin P.O. Box 276,67460,,2,
-William S. Mills Law Office,,,https://directory-kard.kscourts.gov/Home/Details?regNum=6675,McPherson,KS,McPherson,620-241-7333,,General,900 N Main PO Box 1244,67460,,2,
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+Adoption Law LLC,,,,McPherson,KS,McPherson,620-755-6905,,General,PO Box 443,67460,McPherson,4
+"Allen & Associates Law, LLC",http://www.allenandassociateslawllc.com/meet-the-legal-team,,,McPherson,KS,McPherson,620-798-4250,j.allen-law@att.net,Criminal Defense,207 N Main Ste 202,67460,McPherson,5
+Attorney Amie Bauer,https://lawyers.justia.com/lawyer/amie-bauer-922185,,https://lawyers.justia.com/lawyer/amie-bauer-922185,Lindsborg,KS,McPherson,(785) 227-3632,,General,120 E Lincoln St,67456,McPherson,4
+Attorney Brett A. Reber,http://www.bwisecounsel.com/,https://www.google.com/search?q=Reber+Brett+A+McPherson+KS&ludocid=8242049956920484835,,McPherson,KS,McPherson,(620) 241-0554,,Criminal Defense,120 W Kansas Ave Ste B,67460,McPherson,5
+Attorney Britt Colle,,,,Mcpherson,KS,McPherson,620-241-3800,,Bankruptcy,,67460,McPherson,2
+Attorney Calvin Schuette,,,,Mcpherson,KS,McPherson,785-492-7105,c.schuette-law@att.net,Criminal Defense,"207 N Main, suite 202",67460,McPherson,5
+Attorney Carl B. Anderson Jr.,https://lawyers.justia.com/lawyer/carl-b-jr-anderson-920641,,https://lawyers.justia.com/lawyer/carl-b-jr-anderson-920641,McPherson,KS,McPherson,(620) 241-4474,,General,117 N Maple St,67460,McPherson,4
+Attorney Charles Prather,https://lawyers.justia.com/lawyer/charles-prather-922699,,https://lawyers.justia.com/lawyer/charles-prather-922699,McPherson,KS,McPherson,(620) 241-3220,,General,116 N Ash St,67460,McPherson,4
+Attorney Dale M. Sprague,https://www.google.com/search?q=Sprague+Dale+M+McPherson+KS&ludocid=18266302082073729705,https://www.google.com/search?q=Sprague+Dale+M+McPherson+KS&ludocid=18266302082073729705,,McPherson,KS,McPherson,(620) 241-7112,,General,121 W Marlin St #400,67460,McPherson,4
+Attorney Dean Cotton,https://lawyers.justia.com/lawyer/dean-cotton-918699,,https://lawyers.justia.com/lawyer/dean-cotton-918699,McPherson,KS,McPherson,(620) 241-7696,,General,1245 Darlow Dr,67460,McPherson,4
+Attorney Dick Edward Gage,https://lawyers.justia.com/lawyer/dick-edward-gage-176025,,https://lawyers.justia.com/lawyer/dick-edward-gage-176025,CANTON,KS,McPherson,(619) 795-9700,,General,PO BOX 95,67428,McPherson,4
+Attorney Eric Goering,https://lawyers.justia.com/lawyer/eric-goering-919427,,https://lawyers.justia.com/lawyer/eric-goering-919427,Moundridge,KS,McPherson,(620) 267-3200,,General,201 S Christian Ave,67107,McPherson,4
+Attorney Fred Fitch,https://lawyers.justia.com/lawyer/fred-fitch-917244,,https://lawyers.justia.com/lawyer/fred-fitch-917244,McPherson,KS,McPherson,(620) 241-6310,,General,1404 Oakmont St,67460,McPherson,4
+Attorney Gary Hess,https://lawyers.justia.com/lawyer/gary-hess-919228,,https://lawyers.justia.com/lawyer/gary-hess-919228,McPherson,KS,McPherson,,,General,1220 Ranch Rd,67460,McPherson,4
+Attorney Gary L. Price Jr.,https://lawyers.justia.com/lawyer/gary-l-jr-price-916566,,https://lawyers.justia.com/lawyer/gary-l-jr-price-916566,McPherson,KS,McPherson,(620) 245-9088,,General,122 W Marlin St,67460,McPherson,4
+Attorney Harry Weelborg,https://lawyers.justia.com/lawyer/harry-weelborg-921854,,https://lawyers.justia.com/lawyer/harry-weelborg-921854,McPherson,KS,McPherson,(620) 241-2910,,General,1233 N Main St,67460,McPherson,4
+Attorney Jack Beebe,https://lawyers.justia.com/lawyer/jack-beebe-923375,,https://lawyers.justia.com/lawyer/jack-beebe-923375,McPherson,KS,McPherson,,,General,1021 Cedars Dr,67460,McPherson,4
+Attorney James Harty,https://lawyers.justia.com/lawyer/james-harty-917509,,https://lawyers.justia.com/lawyer/james-harty-917509,Lindsborg,KS,McPherson,(785) 227-3632,,General,120 E Lincoln St,67456,McPherson,4
+Attorney Jay Scott Emler,https://lawyers.justia.com/lawyer/jay-scott-emler-918594,,https://lawyers.justia.com/lawyer/jay-scott-emler-918594,McPherson,KS,McPherson,(620) 241-2910,,General,1233 N Main St,67460,McPherson,4
+Attorney Jess Arbuckle,https://lawyers.justia.com/lawyer/jess-arbuckle-922445,,https://lawyers.justia.com/lawyer/jess-arbuckle-922445,McPherson,KS,McPherson,(620) 241-2200,,General,1122 N Main St,67460,McPherson,4
+Attorney Jo An Hamilton,https://lawyers.justia.com/lawyer/jo-an-hamilton-922266,,https://lawyers.justia.com/lawyer/jo-an-hamilton-922266,Lindsborg,KS,McPherson,(785) 227-3339,,General,130 N 2nd St,67456,McPherson,4
+Attorney John Altenborg,https://lawyers.justia.com/lawyer/john-altenborg-915981,,https://lawyers.justia.com/lawyer/john-altenborg-915981,Lindsborg,KS,McPherson,(785) 227-3729,,General,321 N Chestnut St,67456,McPherson,4
+Attorney Laura Bolte,https://lawyers.justia.com/lawyer/laura-bolte-921106,,https://lawyers.justia.com/lawyer/laura-bolte-921106,McPherson,KS,McPherson,,,General,829 N Ash St,67460,McPherson,4
+Attorney Lowell Flory,https://lawyers.justia.com/lawyer/lowell-flory-917579,,https://lawyers.justia.com/lawyer/lowell-flory-917579,McPherson,KS,McPherson,(620) 241-1056,,General,1142 E Euclid St,67460,McPherson,4
+Attorney Marck Cobb,https://lawyers.justia.com/lawyer/marck-cobb-917494,,https://lawyers.justia.com/lawyer/marck-cobb-917494,Galva,KS,McPherson,(620) 402-0023,,General,2160 Mohawk Rd,67443,McPherson,4
+Attorney Stephen Hilgers,https://lawyers.justia.com/lawyer/stephen-hilgers-920824,,https://lawyers.justia.com/lawyer/stephen-hilgers-920824,McPherson,KS,McPherson,(620) 245-0603,,General,117 N Maple St,67460,McPherson,4
+Attorney Susan Whitfield-Lungren,https://lawyers.justia.com/lawyer/susan-whitfield-lungren-917875,,https://lawyers.justia.com/lawyer/susan-whitfield-lungren-917875,Lindsborg,KS,McPherson,(785) 227-3387,,General,430 N Washington St,67456,McPherson,4
+Attorney Tim R. Karstetter,https://www.google.com/search?q=Karstetter+Tim+R+McPherson+KS&ludocid=14543215024885979734,https://www.google.com/search?q=Karstetter+Tim+R+McPherson+KS&ludocid=14543215024885979734,,McPherson,KS,McPherson,(620) 241-0574,,General,1429 Tombo Ct,67460,McPherson,4
+Attorney Ty Kaufman,https://www.google.com/search?q=Kaufman+Ty+Moundridge+KS&ludocid=12802978821293056311,https://www.google.com/search?q=Kaufman+Ty+Moundridge+KS&ludocid=12802978821293056311,,Moundridge,KS,McPherson,(620) 345-2757,,General,122 S Christian Ave,67107,McPherson,4
+Attorney Ward Ferguson,https://lawyers.justia.com/lawyer/ward-ferguson-918641,,https://lawyers.justia.com/lawyer/ward-ferguson-918641,McPherson,KS,McPherson,(620) 241-3497,,General,1202 Lyndon Rd,67460,McPherson,4
+Attorney William Gusenius,https://lawyers.justia.com/lawyer/william-gusenius-917126,,https://lawyers.justia.com/lawyer/william-gusenius-917126,Lindsborg,KS,McPherson,(785) 227-3632,,General,120 E Lincoln St,67456,McPherson,4
+Attorney William H. Seiler Jr.,https://lawyers.justia.com/lawyer/william-h-jr-seiler-918752,,https://lawyers.justia.com/lawyer/william-h-jr-seiler-918752,McPherson,KS,McPherson,(620) 241-6369,,General,901 N Vanguard St,67460,McPherson,4
+Boyer Law Offices,http://www.boyerandpricelawoffice.com/,https://www.google.com/search?q=Boyer+%26+Price+Law+Office%2C+P.A.+McPherson+KS&ludocid=13363407402025189148,,McPherson,KS,McPherson,(620) 241-0024,,Criminal Defense,121 W Marlin St #202,67460,McPherson,5
+Clark Mize & Linville Chartered,https://www.cml-law.com/,https://www.google.com/search?q=Clark+Mize+%26+Linville+Chartered+Lindsborg+KS&ludocid=5532813364062384390,,Lindsborg,KS,McPherson,(785) 823-6325,,Workers' Compensation,128 N Main St,67456,McPherson,5
+"David R. Klaassen, Attorney at Law",https://directory-kard.kscourts.gov/Home/Details?regNum=11738,,https://directory-kard.kscourts.gov/Home/Details?regNum=11738,Marquette,KS,McPherson,785-546-2358,,General,2649 Sixth Ave,67464,McPherson,4
+"Elliott Law, LLC",https://www.elliott.law/,,,McPherson,KS,McPherson,620-504-9773,,Business Law,114 N Main St,67460,McPherson,2
+Karstetter & Bina LLC,http://www.kklawoffices.com/,https://www.google.com/search?q=Karstetter+%26+Bina+LLC+McPherson+KS&ludocid=15218525505876202126,,McPherson,KS,McPherson,(620) 241-8800,sturner@kklawoffices.com,Criminal Defense,322 N Main St Ste 201 Suite 201,67460,McPherson,5
+Law Offices of Sanford Nathan,https://directory-kard.kscourts.gov/Home/Details?regNum=17411,,https://directory-kard.kscourts.gov/Home/Details?regNum=17411,McPherson,KS,McPherson,620-345-3275,,General,1766 Chisholm Road,67460,McPherson,4
+"Michael T Mills, Chartered",https://directory-kard.kscourts.gov/Home/Details?regNum=5933,,https://directory-kard.kscourts.gov/Home/Details?regNum=5933,McPherson,KS,McPherson,620-241-7007,,General,111 East Marlin P.O. Box 276,67460,McPherson,4
+Murphy's Law LLC,http://www.murphyslawplanning.com/,https://www.google.com/search?q=Murphy%27s+Law+LLC+Lindsborg+KS&ludocid=8489029873889632530,,Lindsborg,KS,McPherson,(785) 787-4040,jeff@salinaksattorney.com,Criminal Defense,201 E Lincoln St G,67456,McPherson,5
+Pyle Law,https://www.pylelaw.legal/,https://www.google.com/search?q=Pyle+Law+%7C+Kansas+Personal+Injury+%26+Workers+Compensation+Lawyer+McPherson+KS&ludocid=13184487402250336535,,McPherson,KS,McPherson,(620) 448-1736,pylelaw@pyle.legal,Personal Injury,705 W Kansas Ave,67460,McPherson,5
+Rundstrom Lauer Inc,https://www.google.com/search?q=Rundstrom+Lauer+Inc+Canton+KS&ludocid=2261980137009943854,https://www.google.com/search?q=Rundstrom+Lauer+Inc+Canton+KS&ludocid=2261980137009943854,,Canton,KS,McPherson,(620) 628-4466,,General,122 S Main St,67428,McPherson,4
+Sizemore Law Offices,https://www.google.com/search?q=Sizemore+Law+Offices+McPherson+KS&ludocid=14736065253649336641,https://www.google.com/search?q=Sizemore+Law+Offices+McPherson+KS&ludocid=14736065253649336641,,McPherson,KS,McPherson,(620) 241-4533,,General,1016 N Main St,67460,McPherson,4
+Strella Legal Services LLC,https://strellalegalservices.com/,,,McPherson,KS,McPherson,620-291-4055,zstrella@strellalegalservices.com,Family Law,"109 N. Main St, Ste 205",67460,McPherson,4
+"Susan J. Whitfield Harding, P.A.",,,,Lindsborg,KS,McPherson,785-212-0884,,General,PO Box 363,67456,McPherson,4
+Ty Kaufman Law Office LC,,,,McPherson,KS,McPherson,620-504-9401,,General,"121 W Marlin, Ste 303, PO Box 1264",67460,McPherson,4
+William S Mills Law Office,https://www.google.com/search?q=William+S+Mills+Law+Office+McPherson+KS&ludocid=16411053863353271050,https://www.google.com/search?q=William+S+Mills+Law+Office+McPherson+KS&ludocid=16411053863353271050,,McPherson,KS,McPherson,(620) 241-7333,,General,900 N Main St #1,67460,McPherson,4

@@ -1,24 +1,21 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers
-Hinkle Law Firm LLC,,,https://directory-kard.kscourts.gov/Home/Details?regNum=6976,North Newton,KS,Harvey,316-267-2000,,General,3179 N Main St Ste 1A,67117,Wichita,2,
-Baumgartner Law Office,,,https://directory-kard.kscourts.gov/Home/Details?regNum=29204,Newton,KS,Harvey,316-613-1621,,General,"500 N Main St, Ste 152",67114,Wichita,2,
-Herbert P. Brackeen Attorney at Law,,,https://directory-kard.kscourts.gov/Home/Details?regNum=12757,Newton,KS,Harvey,316-283-7927,,General,PO Box 306,67114,Wichita,2,
-Chambers Law,,,https://directory-kard.kscourts.gov/Home/Details?regNum=9393,Newton,KS,Harvey,620-663-1423,,General,427 Victoria Rd,67114,Wichita,2,
-"Pankratz & Hodge, P.A.",,,https://directory-kard.kscourts.gov/Home/Details?regNum=20630,Newton,KS,Harvey,316-283-8746,,General,301 N Main Ste 400,67114,Wichita,2,
-AGCO Corporation,,,https://directory-kard.kscourts.gov/Home/Details?regNum=21864,Hesston,KS,Harvey,620-504-2761,,General,420 W Lincoln Blvd,67062,Wichita,2,
-"McDonald Law, LLC",,,https://directory-kard.kscourts.gov/Home/Details?regNum=27028,Newton,KS,Harvey,316-804-4350,,General,118 N Main St,67114,Wichita,2,
-Jantz Law Office,,,https://directory-kard.kscourts.gov/Home/Details?regNum=12342,Newton,KS,Harvey,316-283-0393,,General,713 N Main,67114,Wichita,2,
-Cottonwood Pediatrics,,,https://directory-kard.kscourts.gov/Home/Details?regNum=14975,Newton,KS,Harvey,316-288-0252,,General,"700 Medical Center Dr, Ste 150",67114,Wichita,2,
-Annette Lamp,,,https://directory-kard.kscourts.gov/Home/Details?regNum=13282,Halstead,KS,Harvey,316-706-6074,,General,5822 NW 48th St,67056,Wichita,2,
-Gillmore & Wilson LLC,,,https://directory-kard.kscourts.gov/Home/Details?regNum=29034,Newton,KS,Harvey,316-283-1550,,General,"301 N Main St, Ste 207",67114,Wichita,2,
-Mueller Water Products,,,https://directory-kard.kscourts.gov/Home/Details?regNum=20564,Sedgwick,KS,Harvey,316-452-3926,,General,12400 N 151st St W,67135,Wichita,2,
-Somers Robb And Robb,,,https://directory-kard.kscourts.gov/Home/Details?regNum=9844,Newton,KS,Harvey,316-283-4560,,General,110 E Broadway,67114,Wichita,2,
-"Golden Law, LLC",,,https://directory-kard.kscourts.gov/Home/Details?regNum=30872,Newton,KS,Harvey,785-212-0586,,General,317 E 5th St,67114,Wichita,2,
-Wendling Law,,,https://directory-kard.kscourts.gov/Home/Details?regNum=27768,Halstead,KS,Harvey,773-459-8147,,General,208 Main St,67056,Wichita,2,
-Yoder Law Office,,,https://directory-kard.kscourts.gov/Home/Details?regNum=11366,Newton,KS,Harvey,620-367-3741,,General,952 Falcon,67114,Wichita,2,
-"Randall E Foster, Attorney At Law",,,https://directory-kard.kscourts.gov/Home/Details?regNum=19258,Newton,KS,Harvey,620-757-6120,,General,813 S Meridian,67114,Wichita,2,
-"Bon, Inc",,,https://directory-kard.kscourts.gov/Home/Details?regNum=18265,Newton,KS,Harvey,620-345-6317,,General,501 SE 36th St,67114,Wichita,2,
-Law Office Of Kevin Loeffler LLC,,,https://directory-kard.kscourts.gov/Home/Details?regNum=14162,Newton,KS,Harvey,316-283-7490,,General,714 N Main St PO Box 1175,67114,Wichita,2,
-Nye Law,,,https://directory-kard.kscourts.gov/Home/Details?regNum=9912,North Newton,KS,Harvey,316-288-6920,,General,200 E. 24th St,67117,Wichita,2,
-Kansas Institute for Peace and Conflict Resolution,,,https://directory-kard.kscourts.gov/Home/Details?regNum=29435,North Newton,KS,Harvey,316-284-5882,,General,2515 College Ave,67117,Wichita,2,
-"Griffin Law Office, LLC",,,https://directory-kard.kscourts.gov/Home/Details?regNum=26497,Hesston,KS,Harvey,620-327-5147,,General,12 Park View Rd,67062,Wichita,2,
-"CornerStone Law, LLC",,,https://directory-kard.kscourts.gov/Home/Details?regNum=8160,Newton,KS,Harvey,316-282-7300,,General,725 N Main,67114,Wichita,2,
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+Attorney Baron Hoy,https://www.communityvoiceks.com/2025/04/18/baron-hoy-newton-prosecutor,,,Newton,KS,Harvey,(316) 681-1155,,Family Law,,67114,Newton,4
+Attorney L H Goossen,https://www.google.com/search?q=Goossen+L+H+Newton+KS&ludocid=762529546912998587,https://www.google.com/search?q=Goossen+L+H+Newton+KS&ludocid=762529546912998587,,Newton,KS,Harvey,(316) 283-5638,,General,615 Normandy Rd,67114,Newton,4
+Attorney Randall J. Pankratz,http://pankratzhodge.com/,https://www.google.com/search?q=Pankratz+%26+Hodge%2C+P.A.+Newton+KS&ludocid=14015366877646694429,,Newton,KS,Harvey,(316) 283-8746,randy@pankratzhodge.com,General,,67114,Newton,4
+Baumgartner Law Office,https://www.baumgartnerlawoffice.com/,https://www.google.com/search?q=Baumgartner+Law+Office+Newton+KS&ludocid=13418657630935720097,,Newton,KS,Harvey,(316) 613-1621,ben@baumgartnerlawoffice.com,Immigration,500 N Main St Ste 152,67114,Newton,2
+Chambers Law,https://directory-kard.kscourts.gov/Home/Details?regNum=9393,,https://directory-kard.kscourts.gov/Home/Details?regNum=9393,Newton,KS,Harvey,620-663-1423,,General,427 Victoria Rd,67114,Newton,4
+"CornerStone Law, LLC",https://cornerstonefirm.com/,https://www.google.com/search?q=CornerStone+Law%2C+LLC+Newton+KS&ludocid=13293355966452444039,,Newton,KS,Harvey,(316) 282-7300,,Personal Injury,725 N Main St,67114,Newton,5
+Gillmore & Wilson,https://www.gillmorewilsonlaw.com/,https://www.google.com/search?q=Gillmore+%26+Wilson+Newton+KS&ludocid=7953942141863443131,,Newton,KS,Harvey,(316) 283-1550,,Personal Injury,301 N Main St #207,67114,Newton,5
+"Golden Law, LLC",https://directory-kard.kscourts.gov/Home/Details?regNum=30872,,https://directory-kard.kscourts.gov/Home/Details?regNum=30872,Newton,KS,Harvey,785-212-0586,,General,317 E 5th St,67114,Newton,4
+Goossen Law Office,https://www.google.com/search?q=Goossen+L+H+Newton+KS&ludocid=762529546912998587,https://www.google.com/search?q=Goossen+L+H+Newton+KS&ludocid=762529546912998587,,Newton,KS,Harvey,316-283-3627,,General,"116 East Broadway, PO Box 725",67114,Newton,4
+"Griffin Law Office, LLC",https://directory-kard.kscourts.gov/Home/Details?regNum=26497,,https://directory-kard.kscourts.gov/Home/Details?regNum=26497,Hesston,KS,Harvey,620-327-5147,,General,12 Park View Rd,67062,Newton,4
+Hinkle Law Firm LLC,https://www.hinklaw.com/our-team/jesse-j-gutierrez,,,North Newton,KS,Harvey,316-267-2000,jgutierrez@hinklaw.com,Criminal Defense,3179 N Main St Ste 1A,67117,Newton,5
+Jantz Law Office,http://www.jantzlaw.net/,https://www.google.com/search?q=Jantz+Law+Office+Newton+KS&ludocid=16342486328497132953,,Newton,KS,Harvey,(316) 283-0393,cameron@jantzlaw.net,Criminal Defense,713 N Main St,67114,Newton,5
+Kevin Loeffler Law Office,https://rymap.org/business/kevin-loeffler-law-office-jg5hnt,https://www.google.com/search?q=Kevin+Loeffler+Law+Office+Newton+KS&ludocid=171889854167033099,,Newton,KS,Harvey,(316) 283-7490,kloeffler@lawyer.com,General,714 N Main St,67114,Newton,4
+McDonald Law,http://www.mcdonaldlawks.com/,https://www.google.com/search?q=Mc+Donald+Law+Newton+KS&ludocid=10547317025153786670,,Newton,KS,Harvey,(316) 804-4350,MCDONALDLAWKS@YAHOO.COM,Family Law,118 N Main St,67114,Newton,4
+Nye & Nye,https://www.google.com/search?q=Nye+%26+Nye+Newton+KS&ludocid=12174732562451169132,https://www.google.com/search?q=Nye+%26+Nye+Newton+KS&ludocid=12174732562451169132,,Newton,KS,Harvey,(316) 283-3490,,General,109 E 7th St,67114,Newton,4
+Nye Law,https://directory-kard.kscourts.gov/Home/Details?regNum=9912,,https://directory-kard.kscourts.gov/Home/Details?regNum=9912,North Newton,KS,Harvey,316-288-6920,,General,200 E. 24th St,67117,Newton,4
+"Randall E. Foster, Attorney at Law",https://directory-kard.kscourts.gov/Home/Details?regNum=19258,,https://directory-kard.kscourts.gov/Home/Details?regNum=19258,Newton,KS,Harvey,620-757-6120,,General,813 S Meridian,67114,Newton,4
+Somers Robb & Robb,http://www.robblaw.com/,https://www.google.com/search?q=Somers+Robb+%26+Robb+Newton+KS&ludocid=16793341869735590532,,Newton,KS,Harvey,(316) 283-4560,johnrobb@robblaw.com,Family Law,110 E Broadway St,67114,Newton,4
+Wendling Law,https://directory-kard.kscourts.gov/Home/Details?regNum=27768,,https://directory-kard.kscourts.gov/Home/Details?regNum=27768,Halstead,KS,Harvey,773-459-8147,,General,208 Main St,67056,Newton,4
+Yoder Law Office,https://directory-kard.kscourts.gov/Home/Details?regNum=11366,,https://directory-kard.kscourts.gov/Home/Details?regNum=11366,Newton,KS,Harvey,620-367-3741,,General,952 Falcon,67114,Newton,4
