@@ -1555,7 +1555,31 @@ COUNTY_DEFINITIONS = {
             "Salina", "Assaria", "Brookville", "Gypsum", "Mentor",
             "New Cambria", "Smolan", "Falun",
         ],
+        "zip_codes": ["67401", "67416", "67425", "67448", "67401", "67470", "67479", "67442", "67402", "67403"],
         "extra_search_terms": ["Salina KS", "Saline County Kansas"],
+    },
+    "crawford_ks": {
+        "name": "Crawford County",
+        "state": "KS",
+        "slug": "crawford-county-ks",
+        "msa": "Pittsburg",
+        "cities": [
+            "Pittsburg", "Girard", "Frontenac", "Arma", "Arcadia", "Cherokee",
+            "McCune", "Mulberry", "Walnut", "Hepler", "Farlington", "Opolis",
+        ],
+        "zip_codes": ["66762", "66743", "66763", "66712", "66711", "66724", "66753", "66756", "66780", "66746", "66734", "66760"],
+        "extra_search_terms": ["Pittsburg KS", "Crawford County Kansas"],
+    },
+    "finney_ks": {
+        "name": "Finney County",
+        "state": "KS",
+        "slug": "finney-county-ks",
+        "msa": "Garden City",
+        "cities": [
+            "Garden City", "Holcomb", "Pierceville", "Plymell", "Friend", "Lowe",
+        ],
+        "zip_codes": ["67846", "67851", "67868", "67846", "67846", "67846"],
+        "extra_search_terms": ["Garden City KS", "Finney County Kansas"],
     },
     "stafford_ks": {
         "name": "Stafford County",

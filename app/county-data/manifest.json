@@ -276,8 +276,8 @@
             "slug": "crawford-county-ks",
             "name": "Crawford County",
             "state": "KS",
-            "firm_count": 47,
-            "last_updated": "2026-07-22",
+            "firm_count": 53,
+            "last_updated": "2026-11-12",
             "csv_file": "crawford-county-ks.csv"
         },
         {
@@ -460,8 +460,8 @@
             "slug": "saline-county-ks",
             "name": "Saline County",
             "state": "KS",
-            "firm_count": 38,
-            "last_updated": "2026-09-18",
+            "firm_count": 75,
+            "last_updated": "2026-11-12",
             "csv_file": "saline-county-ks.csv"
         },
         {
@@ -500,8 +500,8 @@
             "slug": "finney-county-ks",
             "name": "Finney County",
             "state": "KS",
-            "firm_count": 17,
-            "last_updated": "2026-08-18",
+            "firm_count": 44,
+            "last_updated": "2026-11-12",
             "csv_file": "finney-county-ks.csv"
         },
         {
