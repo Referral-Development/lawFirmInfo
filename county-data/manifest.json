@@ -68,8 +68,8 @@
             "slug": "miami-county-ks",
             "name": "Miami County",
             "state": "KS",
-            "firm_count": 102,
-            "last_updated": "2026-07-22",
+            "firm_count": 39,
+            "last_updated": "2026-11-12",
             "csv_file": "miami-county-ks.csv"
         },
         {
@@ -516,8 +516,8 @@
             "slug": "ford-county-ks",
             "name": "Ford County",
             "state": "KS",
-            "firm_count": 21,
-            "last_updated": "2026-08-18",
+            "firm_count": 49,
+            "last_updated": "2026-11-12",
             "csv_file": "ford-county-ks.csv"
         },
         {
@@ -572,8 +572,8 @@
             "slug": "cowley-county-ks",
             "name": "Cowley County",
             "state": "KS",
-            "firm_count": 13,
-            "last_updated": "2026-08-18",
+            "firm_count": 31,
+            "last_updated": "2026-11-12",
             "csv_file": "cowley-county-ks.csv"
         },
         {
