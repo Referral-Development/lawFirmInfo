@@ -1,12 +1,15 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers
-Long & Giffen,,https://www.google.com/maps/place/?q=place_id:ChIJn2i1ZR5fuIcRCGw5CBZ674o,https://directory-kard.kscourts.gov/Home/Details?regNum=6935,Humboldt,KS,Allen,(620) 473-2080,,General,908 Bridge St,66748,,4,
-"Heim Law Offices, P.A.",https://heimlawoffices.com/,https://www.google.com/maps/place/?q=place_id:ChIJ1RsC52P1uIcRvAJyA_vcixI,https://directory-kard.kscourts.gov/Home/Details?regNum=17675,Iola,KS,Allen,(620) 365-2222,,Family Law,424 N Washington Ave,66749,,4,
-Johnson Law Office PA,http://www.johnsonlawoffice.com,https://www.google.com/maps/place/?q=place_id:ChIJBxjEc7f0uIcRtvpF30GSDec,https://directory-kard.kscourts.gov/Home/Details?regNum=29371,Iola,KS,Allen,(620) 365-3778,,General,118 W Madison Ave,66749,,4,
-"Knight Law, LLC",http://jakeknightlaw.com/,https://www.google.com/maps/place/?q=place_id:ChIJUYec3yf1uIcRfoYhE7ZuYrw,,Iola,KS,Allen,(620) 305-2598,jake@jakeknightlaw.com,Personal Injury,6 E Jackson Ave,66749,,5,2
-Law Office of Clyde W Toland,,,,Iola,KS,Allen,(620) 365-8006,,General,103 E Madison Ave,66749,,4,
-Manbeck Law,https://manbecklaw.com/,https://www.google.com/maps/place/?q=place_id:ChIJu3kvy4b1uIcRViXXR7xCP0s,,Iola,KS,Allen,(620) 305-2592,contact@manbecklaw.com,Social Security Disability,10 E Jackson Ave,66749,,2,
-"Michael Carter, PA",,,,Iola,KS,Allen,(620) 449-2582,,General,200 Carroll St,66771,,4,
-Talkington Law Office,,,,Iola,KS,Allen,(620) 365-5125,,General,20 N Washington Ave,66749,,4,
-Patricia Miklos,,,,Moran,KS,Allen,620-496-5241,,General,1453 3600 St,66755,,4,
-Heim Law Offices PA,,,https://directory-kard.kscourts.gov/Home/Details?regNum=17675,Iola,KS,Allen,620-365-2222,,General,424 N Washington Ave,66749,,2,
-"Jerald R. Long Law Offices, LLC",,,https://directory-kard.kscourts.gov/Home/Details?regNum=6935,Humboldt,KS,Allen,620-473-2080,,General,908 Bridge St,66748,,2,
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+Apt Law Offices,https://www.google.com/search?q=Apt+Law+Offices+Iola+KS&ludocid=17832583826560984225,https://www.google.com/search?q=Apt+Law+Offices+Iola+KS&ludocid=17832583826560984225,,Iola,KS,Allen,620-365-3161,,Personal Injury,219 South St,66749,Iola,5
+Attorney Alan Weber,https://lawyers.justia.com/lawyer/alan-weber-923227,,https://lawyers.justia.com/lawyer/alan-weber-923227,Humboldt,KS,Allen,(620) 473-3735,,General,403 Pecan St,66748,Iola,4
+Attorney Clyde Toland,https://lawyers.justia.com/lawyer/clyde-toland-920153,,https://lawyers.justia.com/lawyer/clyde-toland-920153,Iola,KS,Allen,(620) 365-8006,,General,103 E Madison Ave,66749,Iola,4
+Attorney Daniel Dale Creitz,https://www.avvo.com/attorneys/66749-ks-daniel-creitz-4362065.html,,https://www.avvo.com/attorneys/66749-ks-daniel-creitz-4362065.html,Iola,KS,Allen,(620) 365-1425,,General,1 N Washington Ave Rm B,66749,Iola,4
+Attorney Jerold Benton Hathaway III,https://www.avvo.com/attorneys/66749-ks-jerold-hathaway-4361033.html,,https://www.avvo.com/attorneys/66749-ks-jerold-hathaway-4361033.html,Iola,KS,Allen,(620) 365-1420,,General,1 N Washington Ave,66749,Iola,4
+Attorney Mark Boyd,https://lawyers.justia.com/lawyer/mark-boyd-919322,,https://lawyers.justia.com/lawyer/mark-boyd-919322,Moran,KS,Allen,,,General,1453 3600th St,66755,Iola,4
+Attorney Patricia Miklos,https://directory-kard.kscourts.gov/Home/Details?regNum=16487,,https://directory-kard.kscourts.gov/Home/Details?regNum=16487,Moran,KS,Allen,620-496-5241,,General,1453 3600 St,66755,Iola,4
+Attorney Robert Chase,https://lawyers.justia.com/lawyer/robert-chase-916799,,https://lawyers.justia.com/lawyer/robert-chase-916799,Iola,KS,Allen,(620) 365-2945,,General,1020 N Jefferson Ave,66749,Iola,4
+Attorney Robert Talkington,https://lawyers.justia.com/lawyer/robert-talkington-919143,,https://lawyers.justia.com/lawyer/robert-talkington-919143,Iola,KS,Allen,(620) 365-5125,,General,20 N Washington Ave,66749,Iola,4
+Heim Law Offices PA,https://heimlawoffices.com/,,,Iola,KS,Allen,620-365-2222,,General,424 N Washington Ave,66749,Iola,4
+"Johnson Vaughn, P.A.",https://www.google.com/search?q=Johnson+Vaughn%2C+P.A.+Iola+KS&ludocid=16649124209075026614,https://www.google.com/search?q=Johnson+Vaughn%2C+P.A.+Iola+KS&ludocid=16649124209075026614,,Iola,KS,Allen,(620) 365-3778,,General,118 W Madison Ave,66749,Iola,4
+"Knight Law, LLC",http://jakeknightlaw.com/,https://www.google.com/search?q=Knight+Law%2C+LLC+Iola+KS&ludocid=13574533955132163710,,Iola,KS,Allen,(620) 305-2598,jake@jakeknightlaw.com,Personal Injury,6 E Jackson Ave,66749,Iola,5
+Long & Giffen,https://www.google.com/search?q=Long+%26+Giffen+Humboldt+KS&ludocid=10011354731713752072,https://www.google.com/search?q=Long+%26+Giffen+Humboldt+KS&ludocid=10011354731713752072,,Humboldt,KS,Allen,(620) 473-2080,,General,908 Bridge St,66748,Iola,4
+Manbeck Law,https://manbecklaw.com/,https://www.google.com/search?q=Manbeck+Law+Iola+KS&ludocid=5422125852803933526,,Iola,KS,Allen,(620) 305-2592,contact@manbecklaw.com,Social Security Disability,10 E Jackson Ave,66749,Iola,2

@@ -1,14 +1,18 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers
-Charles Gentry Law Office,,https://www.google.com/maps/place/?q=place_id:ChIJdym0nsqhx4cRmRkkV6TvF_8,,Fort Scott,KS,Bourbon,(620) 223-1818,,Personal Injury,102 S Judson St,66701,,5,
-"Diehl, Banwart, Bolton, Jarred & Bledsoe Chartered",http://www.dbbjb.com,,,Fort Scott,KS,Bourbon,(620) 223-4300,,Estate Planning,7 1/2 E Wall St,66701,,2,
-Geoffrey Clark,https://www.masonclarklaw.com/,https://www.google.com/maps/place/?q=place_id:ChIJ15FyITChx4cR2zruJt_cdDw,https://directory-kard.kscourts.gov/Home/Details?regNum=18909,Fort Scott,KS,Bourbon,(620) 224-2200,office@masonclarklaw.com,Criminal Defense,120 S National Ave #207A,66701,,5,3
-Harry E Warren Attorney,,https://www.google.com/maps/place/?q=place_id:ChIJhZYd68qhx4cRAmPK4hqo6xI,,Fort Scott,KS,Bourbon,(620) 223-4224,,General,116 S Judson St,66701,,4,
-Hudson & Mullies,,https://www.google.com/maps/place/?q=place_id:ChIJj7zgnc-hx4cRGPZ4mtHXmlY,,Fort Scott,KS,Bourbon,(620) 223-2900,,General,710 W 8th St #203,66701,,4,
-McElroy Law Office,,,,Fort Scott,KS,Bourbon,620-210-2124,,General,"1523 S Crawford St, PO Box 326",66701,,4,
-Robert L. Farmer,https://nussandfarmer.com/,https://www.google.com/maps/place/?q=place_id:ChIJ_SVgPcqhx4cRziTU1bC_mqU,https://directory-kard.kscourts.gov/Home/Details?regNum=7459,Fort Scott,KS,Bourbon,(620) 223-0150,,Criminal Defense,323 S Judson,66701,,5,
-Wilbert & Towner,,https://www.google.com/maps/place/?q=place_id:ChIJkRyTICOix4cR19cDSbqLJTs,,Fort Scott,KS,Bourbon,(620) 223-2101,,General,399 E Hudson Rd,66701,,4,
-"Gilbert Ernest Gregory, Attorney at Law",,,https://directory-kard.kscourts.gov/Home/Details?regNum=12827,Fort Scott,KS,Bourbon,620-223-5025,,General,124 S Main PO Box 305,66701,,2,
-Law Office of Vance E. White,,,https://directory-kard.kscourts.gov/Home/Details?regNum=16263,Fulton,KS,Bourbon,620-644-8133,,General,120 W Osage St,66738,,2,
-"Reynolds Law Firm, PA",,,https://directory-kard.kscourts.gov/Home/Details?regNum=11238,Fort Scott,KS,Bourbon,620-223-1818,,General,5 E. Wall St,66701,,2,
-"Mason & Clark, LLC",,,https://directory-kard.kscourts.gov/Home/Details?regNum=18909,Fort Scott,KS,Bourbon,620-224-2200,,General,120 S National Ste 207A,66701,,2,
-Nuss & Farmer,,,https://directory-kard.kscourts.gov/Home/Details?regNum=7459,Fort Scott,KS,Bourbon,620-223-0150,,General,323 S Judson,66701,,2,
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+Attorney Christopher Harry,https://lawyers.justia.com/lawyer/christopher-harry-919299,,https://lawyers.justia.com/lawyer/christopher-harry-919299,Fort Scott,KS,Bourbon,(620) 531-4343,,General,20 S Crawford St,66701,Fort Scott,4
+Attorney Daniel Meara,https://lawyers.justia.com/lawyer/daniel-meara-920054,,https://lawyers.justia.com/lawyer/daniel-meara-920054,Fort Scott,KS,Bourbon,(620) 223-4040,,General,210 S Judson St,66701,Fort Scott,4
+Attorney Gerald Hart,https://lawyers.justia.com/lawyer/gerald-hart-919303,,https://lawyers.justia.com/lawyer/gerald-hart-919303,Fort Scott,KS,Bourbon,(620) 223-4017,,General,2126 Jayhawk Rd,66701,Fort Scott,4
+Attorney Harry E. Warren,https://www.google.com/search?q=Harry+E+Warren+Attorney+Fort+Scott+KS&ludocid=1363368145637237506,https://www.google.com/search?q=Harry+E+Warren+Attorney+Fort+Scott+KS&ludocid=1363368145637237506,,Fort Scott,KS,Bourbon,(620) 223-4224,,General,116 S Judson St,66701,Fort Scott,4
+Attorney Mary Winter-Smith,https://lawyers.justia.com/lawyer/mary-winter-smith-921716,,https://lawyers.justia.com/lawyer/mary-winter-smith-921716,Fort Scott,KS,Bourbon,(620) 223-4798,,General,123 S Main St,66701,Fort Scott,4
+Attorney Patrick Bishop,https://lawyers.justia.com/lawyer/patrick-bishop-922120,,https://lawyers.justia.com/lawyer/patrick-bishop-922120,Fort Scott,KS,Bourbon,(620) 223-0530,,General,2047 Jayhawk Rd,66701,Fort Scott,4
+Attorney Robert L. Farmer,https://nussandfarmer.com/,https://www.google.com/search?q=Robert+L.+Farmer+Fort+Scott+KS&ludocid=11933060928894149838,,Fort Scott,KS,Bourbon,(620) 223-0150,,Criminal Defense,,66701,Fort Scott,5
+Attorney Robert Smith,https://lawyers.justia.com/lawyer/robert-smith-920749,,https://lawyers.justia.com/lawyer/robert-smith-920749,Fort Scott,KS,Bourbon,(620) 547-2487,,General,647 170th St,66701,Fort Scott,4
+Attorney Terri Coop,https://lawyers.justia.com/lawyer/terri-coop-918839,,https://lawyers.justia.com/lawyer/terri-coop-918839,Fort Scott,KS,Bourbon,,,General,302 S Lowman St,66701,Fort Scott,4
+Gilbert Law Office,https://www.gilbertlawoffice.com/,https://www.google.com/search?q=Gregory+Gilbert+E+Fort+Scott+KS&ludocid=12590017604766956693,,Fort Scott,KS,Bourbon,(620) 223-5025,,Family Law,124 S Main St,66701,Fort Scott,4
+Hudson & Mullies,https://www.google.com/search?q=Hudson+%26+Mullies+Fort+Scott+KS&ludocid=6240537528914998808,https://www.google.com/search?q=Hudson+%26+Mullies+Fort+Scott+KS&ludocid=6240537528914998808,,Fort Scott,KS,Bourbon,(620) 223-2900,,General,710 W 8th St #203,66701,Fort Scott,4
+Law Office of Vance E. White,,,,Fulton,KS,Bourbon,620-644-8133,,General,120 W Osage St,66738,Fort Scott,4
+Mason Clark Law,https://www.masonclarklaw.com/,https://www.google.com/search?q=Geoffrey+Clark+Fort+Scott+KS&ludocid=4356349590563076827,,Fort Scott,KS,Bourbon,(620) 224-2200,office@masonclarklaw.com,Criminal Defense,120 S National Ave #207A,66701,Fort Scott,5
+McElroy Law Office,https://directory-kard.kscourts.gov/Home/Details?regNum=21599,,https://directory-kard.kscourts.gov/Home/Details?regNum=21599,Fort Scott,KS,Bourbon,620-210-2124,,General,"1523 S Crawford St, PO Box 326",66701,Fort Scott,4
+"Reynolds Law Firm, PA",https://www.zackeryreynolds.com,,,Fort Scott,KS,Bourbon,620-223-1818,zackery_reynolds@att.net,Personal Injury,5 E. Wall St,66701,Fort Scott,5
+Tecchio Consulting LLC,,,,Fort Scott,KS,Bourbon,785-433-5588,terratecchio@gmail.com,Criminal Defense,PO Box 622,66701,Fort Scott,5
+Wilbert & Towner,https://www.google.com/search?q=Wilbert+%26+Towner+Fort+Scott+KS&ludocid=4261966254581209047,https://www.google.com/search?q=Wilbert+%26+Towner+Fort+Scott+KS&ludocid=4261966254581209047,,Fort Scott,KS,Bourbon,(620) 223-2101,,General,399 E Hudson Rd,66701,Fort Scott,4
