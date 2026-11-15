@@ -76,8 +76,8 @@
             "slug": "linn-county-ks",
             "name": "Linn County",
             "state": "KS",
-            "firm_count": 32,
-            "last_updated": "2026-07-22",
+            "firm_count": 12,
+            "last_updated": "2026-11-14",
             "csv_file": "linn-county-ks.csv"
         },
         {
@@ -100,16 +100,16 @@
             "slug": "jefferson-county-ks",
             "name": "Jefferson County",
             "state": "KS",
-            "firm_count": 41,
-            "last_updated": "2026-08-18",
+            "firm_count": 27,
+            "last_updated": "2026-11-14",
             "csv_file": "jefferson-county-ks.csv"
         },
         {
             "slug": "osage-county-ks",
             "name": "Osage County",
             "state": "KS",
-            "firm_count": 37,
-            "last_updated": "2026-08-18",
+            "firm_count": 13,
+            "last_updated": "2026-11-14",
             "csv_file": "osage-county-ks.csv"
         },
         {
@@ -236,16 +236,16 @@
             "slug": "allen-county-ks",
             "name": "Allen County",
             "state": "KS",
-            "firm_count": 9,
-            "last_updated": "2026-07-22",
+            "firm_count": 14,
+            "last_updated": "2026-11-14",
             "csv_file": "allen-county-ks.csv"
         },
         {
             "slug": "bourbon-county-ks",
             "name": "Bourbon County",
             "state": "KS",
-            "firm_count": 11,
-            "last_updated": "2026-07-22",
+            "firm_count": 17,
+            "last_updated": "2026-11-14",
             "csv_file": "bourbon-county-ks.csv"
         },
         {
@@ -316,8 +316,8 @@
             "slug": "neosho-county-ks",
             "name": "Neosho County",
             "state": "KS",
-            "firm_count": 21,
-            "last_updated": "2026-07-22",
+            "firm_count": 34,
+            "last_updated": "2026-11-14",
             "csv_file": "neosho-county-ks.csv"
         },
         {
@@ -404,8 +404,8 @@
             "slug": "marion-county-ks",
             "name": "Marion County",
             "state": "KS",
-            "firm_count": 2,
-            "last_updated": "2026-07-22",
+            "firm_count": 11,
+            "last_updated": "2026-11-14",
             "csv_file": "marion-county-ks.csv"
         },
         {
@@ -540,8 +540,8 @@
             "slug": "atchison-county-ks",
             "name": "Atchison County",
             "state": "KS",
-            "firm_count": 10,
-            "last_updated": "2026-08-18",
+            "firm_count": 28,
+            "last_updated": "2026-11-14",
             "csv_file": "atchison-county-ks.csv"
         },
         {
@@ -588,8 +588,8 @@
             "slug": "jackson-county-ks",
             "name": "Jackson County",
             "state": "KS",
-            "firm_count": 9,
-            "last_updated": "2026-08-18",
+            "firm_count": 20,
+            "last_updated": "2026-11-14",
             "csv_file": "jackson-county-ks.csv"
         },
         {
@@ -620,8 +620,8 @@
             "slug": "nemaha-county-ks",
             "name": "Nemaha County",
             "state": "KS",
-            "firm_count": 6,
-            "last_updated": "2026-08-18",
+            "firm_count": 10,
+            "last_updated": "2026-11-14",
             "csv_file": "nemaha-county-ks.csv"
         },
         {
@@ -973,8 +973,8 @@
             "name": "Marshall County",
             "state": "KS",
             "csv_file": "marshall-county-ks.csv",
-            "firm_count": 2,
-            "last_updated": "2026-08-17"
+            "firm_count": 14,
+            "last_updated": "2026-11-14"
         },
         {
             "slug": "harper-county-ks",

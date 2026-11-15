@@ -1,25 +1,35 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers
-Barker Robert E,,,,Chanute,KS,Neosho,(620) 431-7464,,General,11 S Lincoln Ave,66720,,4,
-"Bateman Law Group, LLC",https://www.chanutelawyer.com/,https://www.google.com/maps/place/?q=place_id:ChIJ06BpB9ZDuIcR8ItVqOAC0z4,,Chanute,KS,Neosho,(620) 281-4272,blgatty@leavenworthlawyer.com,General,203 W Main St,66720,,4,
-Bideau Law Offices,http://www.bideaulaw.com/,https://www.google.com/maps/place/?q=place_id:ChIJ8e6oODVDuIcRXOj-uA9V0SM,,Chanute,KS,Neosho,(620) 431-2720,,General,18 N Forest Ave,66720,,4,
-Clover Timothy D,,https://www.google.com/maps/place/?q=place_id:ChIJLV3cKTNDuIcRtPXLZb-XMMo,https://directory-kard.kscourts.gov/Home/Details?regNum=14133,Chanute,KS,Neosho,(620) 431-2403,,General,316 E Elm St,66720,,4,
-Coombs Hull & Smith,,,,Chanute,KS,Neosho,(620) 431-1200,,General,10 S Steuben Ave,66720,,4,
-DeVoe Law LLC,,,,Chanute,KS,Neosho,(620) 333-2999,devoelaw@gmail.com,Criminal Defense,PO Box 577,66720,,5,
-Gillett Law Office,http://www.gillettlaw.com,https://www.google.com/maps/place/?q=place_id:ChIJzUo8WzdDuIcRSiBQwIe6rsI,,Chanute,KS,Neosho,(620) 431-1999,,General,15 S Forest Ave,66720,,4,7
-Henshall Pennington & Brake,,https://www.google.com/maps/place/?q=place_id:ChIJc-ua3zRDuIcRTDgzvu4mpNs,,Chanute,KS,Neosho,(620) 431-2600,,General,101 W Main St,66720,,4,
-Kluin Law Office,https://kluinlaw.com/,https://www.google.com/maps/place/?q=place_id:ChIJb2GTczNDuIcRUCAbVtdTSp8,,Chanute,KS,Neosho,(620) 431-1601,mail@kluinlaw.com,General,105 S Highland Ave,66720,,4,
-Mark T. Lair Attorney at Law,,,,Chanute,KS,Neosho,(620) 431-1508,,General,"101 W Main, PO Box 511",66720,,4,
-"R. Kent Pringle, P.A.",,,,Chanute,KS,Neosho,(620) 431-2202,,General,P.O. Box 748,66720,,4,
-Rubow & Mikulka,,,,Chanute,KS,Neosho,(620) 431-7307,,General,332 W Main St,66720,,4,
-"Sheryl Bussell, Attorney",,,,Chanute,KS,Neosho,(913) 709-6465,,General,PO Box 282,66720,,4,
-The McKinney Law Office LLC,,https://www.google.com/maps/place/?q=place_id:ChIJ9WLsH8pcuIcRAzlSXXpHfIY,,Chanute,KS,Neosho,(620) 433-4115,,General,215 W Cherry St,66720,,4,
-Law Office of Richard L Hines PA,,https://www.google.com/maps/place/?q=place_id:ChIJfyEAFZ5tuIcRHFm9NB_hixg,https://directory-kard.kscourts.gov/Home/Details?regNum=9655,Erie,KS,Neosho,(620) 244-3227,,General,301 S Main St,66733,,4,
-"Linus A. Thuston, Attorney at Law",,,https://directory-kard.kscourts.gov/Home/Details?regNum=16896,Chanute,KS,Neosho,(620) 431-8927,,General,PO Box 611 211 W Main,66720,,2,
-Law Office Of Shane Adamson,,,https://directory-kard.kscourts.gov/Home/Details?regNum=13771,Parsons,KS,Neosho,(620) 392-4505,,General,"1906 Main St, Ste 111",67357,,2,
-Neosho County Magistrate Judge,,,https://directory-kard.kscourts.gov/Home/Details?regNum=20750,Chanute,KS,Neosho,(620) 431-5700,,General,102 S Lincoln,66720,,2,
-Kansas Department For Children & Families,,,https://directory-kard.kscourts.gov/Home/Details?regNum=14565,Chanute,KS,Neosho,(620) 433-0806,,General,203 E 21st St,66720,,2,
-"Nodine Legal, LLC",,,https://directory-kard.kscourts.gov/Home/Details?regNum=30543,Parsons,KS,Neosho,(620) 717-7668,,General,4301 Main St,67357,,2,
-Southeast Kansas Public Defenders Office,,,https://directory-kard.kscourts.gov/Home/Details?regNum=22281,Chanute,KS,Neosho,(620) 431-3796,,General,10 S. Highland,66720,,2,
-"Griebat Law Office, P.A.",,,https://directory-kard.kscourts.gov/Home/Details?regNum=20836,Chanute,KS,Neosho,620-431-2600,,General,101 W Main St Lower Level PO Box 442,66720,,2,
-"Richard L. Hines, P.A.",,,https://directory-kard.kscourts.gov/Home/Details?regNum=9655,Erie,KS,Neosho,620-244-3227,,General,PO Box 108,66733,,2,
-"Smith Law Office, LLC",,,https://directory-kard.kscourts.gov/Home/Details?regNum=27671,Chanute,KS,Neosho,620-431-2600,,General,PO Box 667,66720,,2,
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+Attorney Brian LaRue,https://lawyers.justia.com/lawyer/brian-larue-920974,,https://lawyers.justia.com/lawyer/brian-larue-920974,Chanute,KS,Neosho,(620) 431-3456,,General,310 N Franklin Ave,66720,Chanute,4
+Attorney Carrue LaRue,https://lawyers.justia.com/lawyer/carrue-larue-920975,,https://lawyers.justia.com/lawyer/carrue-larue-920975,Chanute,KS,Neosho,,,General,219 N Grant Ave,66720,Chanute,4
+Attorney Daryl D. Ahlquist,https://www.avvo.com/attorneys/66720-ks-daryl-ahlquist-4353761.html,,https://www.avvo.com/attorneys/66720-ks-daryl-ahlquist-4353761.html,Chanute,KS,Neosho,(620) 431-5700,,Business,,66720,Chanute,4
+Attorney David Anthony Clark,https://www.avvo.com/attorneys/66720-ks-david-clark-1855676.html,,https://www.avvo.com/attorneys/66720-ks-david-clark-1855676.html,Chanute,KS,Neosho,(620) 212-2446,,Family,211 W. Main Street,66720,Chanute,4
+Attorney Gregory Vetter,https://lawyers.justia.com/lawyer/gregory-vetter-872622,,https://lawyers.justia.com/lawyer/gregory-vetter-872622,Chanute,KS,Neosho,(713) 743-3596,,General,930 S Highland Ave,66720,Chanute,4
+Attorney Hillary Pack-Haas,https://lawyers.justia.com/lawyer/hillary-pack-haas-919362,,https://lawyers.justia.com/lawyer/hillary-pack-haas-919362,Erie,KS,Neosho,(620) 421-6370,,General,435 N Grant St,66733,Chanute,4
+Attorney Hurschel Eugene Buscher,https://lawyers.justia.com/lawyer/hurschel-eugene-buscher-919393,,https://lawyers.justia.com/lawyer/hurschel-eugene-buscher-919393,Erie,KS,Neosho,(620) 244-5115,,General,103 S Main St,66733,Chanute,4
+Attorney James Caldwell,https://lawyers.justia.com/lawyer/james-caldwell-920936,,https://lawyers.justia.com/lawyer/james-caldwell-920936,Chanute,KS,Neosho,(620) 431-8266,,General,2301 W 3rd Terrace,66720,Chanute,4
+Attorney Jeb Griebat,https://lawyers.justia.com/lawyer/jeb-griebat-916045,,https://lawyers.justia.com/lawyer/jeb-griebat-916045,Chanute,KS,Neosho,,,General,26 W Walnut St,66720,Chanute,4
+Attorney John N. Sherman Jr.,https://lawyers.justia.com/lawyer/john-n-jr-sherman-920285,,https://lawyers.justia.com/lawyer/john-n-jr-sherman-920285,Chanute,KS,Neosho,(620) 431-2782,,General,308 W Main St,66720,Chanute,4
+Attorney John Rubow,https://lawyers.justia.com/lawyer/john-rubow-921201,,https://lawyers.justia.com/lawyer/john-rubow-921201,Chanute,KS,Neosho,(620) 431-7307,,General,332 W Main St,66720,Chanute,4
+Attorney Melissa Thiesing,https://lawyers.justia.com/lawyer/melissa-thiesing-920070,,https://lawyers.justia.com/lawyer/melissa-thiesing-920070,Chanute,KS,Neosho,(620) 431-5750,,General,1106 W Elm St,66720,Chanute,4
+Attorney Michael Hull,https://lawyers.justia.com/lawyer/michael-hull-917978,,https://lawyers.justia.com/lawyer/michael-hull-917978,Chanute,KS,Neosho,(620) 431-1200,,General,10 S Steuben Ave,66720,Chanute,4
+Attorney Paula K. Gingrich,https://lawyers.justia.com/lawyer/paula-k-gingrich-232293,,https://lawyers.justia.com/lawyer/paula-k-gingrich-232293,Chanute,KS,Neosho,(620) 432-3719,,General,810 S Larson Ave,66720,Chanute,4
+Attorney Robert Barker,https://lawyers.justia.com/lawyer/robert-barker-921224,,https://lawyers.justia.com/lawyer/robert-barker-921224,Chanute,KS,Neosho,(620) 431-7464,,General,11 S Lincoln Ave,66720,Chanute,4
+Attorney Sheryl Bussell,https://directory-kard.kscourts.gov/Home/Details?regNum=11617,,https://directory-kard.kscourts.gov/Home/Details?regNum=11617,Chanute,KS,Neosho,913-709-6465,,General,PO Box 282,66720,Chanute,4
+Attorney Stephen Smith,https://lawyers.justia.com/lawyer/stephen-smith-923731,,https://lawyers.justia.com/lawyer/stephen-smith-923731,Chanute,KS,Neosho,(620) 431-1200,,General,10 S Steuben Ave,66720,Chanute,4
+Attorney Thomas Mikulka,https://lawyers.justia.com/lawyer/thomas-mikulka-920480,,https://lawyers.justia.com/lawyer/thomas-mikulka-920480,Chanute,KS,Neosho,(620) 431-7307,,General,332 W Main St,66720,Chanute,4
+Attorney Timothy D Clover,https://www.google.com/search?q=Clover+Timothy+D+Chanute+KS&ludocid=14569311642845967796,https://www.google.com/search?q=Clover+Timothy+D+Chanute+KS&ludocid=14569311642845967796,,Chanute,KS,Neosho,(620) 431-2403,,General,316 E Elm St,66720,Chanute,4
+Attorney Tod Davis,https://lawyers.justia.com/lawyer/tod-davis-920839,,https://lawyers.justia.com/lawyer/tod-davis-920839,Chanute,KS,Neosho,,,General,721 S Lafayette Ave,66720,Chanute,4
+Attorney Wendy Brazil,https://lawyers.justia.com/lawyer/wendy-brazil-918677,,https://lawyers.justia.com/lawyer/wendy-brazil-918677,Chanute,KS,Neosho,(620) 431-5730,,General,629 S Plummer Ave,66720,Chanute,4
+"Bateman Law Group, LLC",https://www.chanutelawyer.com/,https://www.google.com/search?q=Bateman+Law+Group%2C+LLC+Chanute+KS&ludocid=4526965214357588976,,Chanute,KS,Neosho,(620) 281-4272,blgatty@leavenworthlawyer.com,General,203 W Main St,66720,Chanute,4
+Bideau Law Offices,http://www.bideaulaw.com/,https://www.google.com/search?q=Bideau+Law+Offices+Chanute+KS&ludocid=2580937587476588636,,Chanute,KS,Neosho,(620) 431-2720,,DUI,18 N Forest Ave,66720,Chanute,5
+DeVoe Law LLC,https://directory-kard.kscourts.gov/Home/Details?regNum=13314,,https://directory-kard.kscourts.gov/Home/Details?regNum=13314,Chanute,KS,Neosho,620-333-2999,devoelaw@gmail.com,Criminal Defense,PO Box 577,66720,Chanute,5
+Gillett Law Office,https://www.google.com/search?q=Gillett+Law+Office+Chanute+KS&ludocid=14028354981515501642,https://www.google.com/search?q=Gillett+Law+Office+Chanute+KS&ludocid=14028354981515501642,,Chanute,KS,Neosho,(620) 431-1999,,General,15 S Forest Ave,66720,Chanute,4
+Henshall Pennington & Brake,https://www.google.com/search?q=Henshall+Pennington+%26+Brake+Chanute+KS&ludocid=15826817797321865292,https://www.google.com/search?q=Henshall+Pennington+%26+Brake+Chanute+KS&ludocid=15826817797321865292,,Chanute,KS,Neosho,(620) 431-2600,,General,101 W Main St,66720,Chanute,4
+Jarred Gilmore & Phillips,http://www.jgppa.com/,,https://www.google.com/search?q=Jarred+Gilmore+%26+Phillips+Chanute+KS&ludocid=5112544036461751660,Chanute,KS,Neosho,(620) 431-6342,info@jgppa.com,Estate Planning,1815 S Santa Fe Ave,66720,Chanute,2
+Kluin Law Office,https://kluinlaw.com/,https://www.google.com/search?q=Kluin+Law+Office+Chanute+KS&ludocid=11478078784634822736,,Chanute,KS,Neosho,(620) 431-1601,mail@kluinlaw.com,Criminal Defense,105 S Highland Ave,66720,Chanute,5
+"Law Offices of Richard L Hines, P.A.",https://www.google.com/search?q=Law+Offices+of+Richard+L+Hines%2C+P.A.+Erie+KS&ludocid=1768754802818111772,https://www.google.com/search?q=Law+Offices+of+Richard+L+Hines%2C+P.A.+Erie+KS&ludocid=1768754802818111772,,Erie,KS,Neosho,(620) 244-3227,,General,301 S Main St,66733,Chanute,4
+"Linus A. Thuston, Attorney at Law",https://directory-kard.kscourts.gov/Home/Details?regNum=16896,,https://directory-kard.kscourts.gov/Home/Details?regNum=16896,Chanute,KS,Neosho,620-431-8927,,General,"PO Box 611, 211 W Main",66720,Chanute,4
+Mark T. Lair Attorney at Law,https://directory-kard.kscourts.gov/Home/Details?regNum=11697,,https://directory-kard.kscourts.gov/Home/Details?regNum=11697,Chanute,KS,Neosho,620-431-1508,,General,"101 W Main, PO Box 511",66720,Chanute,4
+"R. Kent Pringle, P.A.",https://directory-kard.kscourts.gov/Home/Details?regNum=10458,,https://directory-kard.kscourts.gov/Home/Details?regNum=10458,Chanute,KS,Neosho,620-431-2202,,General,P.O. Box 748,66720,Chanute,4
+The McKinney Law Office LLC,https://www.google.com/search?q=The+McKinney+Law+Office+LLC+Chanute+KS&ludocid=9690699089071716611,https://www.google.com/search?q=The+McKinney+Law+Office+LLC+Chanute+KS&ludocid=9690699089071716611,,Chanute,KS,Neosho,(620) 433-4115,,General,215 W Cherry St,66720,Chanute,4
+"Wilbert & Towner, P.A.",http://wntlaw.com/,https://www.google.com/search?q=Wllbert+%26+Towner+PA+Chanute+KS&ludocid=9340427922675999008,,Chanute,KS,Neosho,(620) 231-5620,,General,101 W Main St,66720,Chanute,4
