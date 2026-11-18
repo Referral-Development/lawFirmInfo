@@ -1,6 +1,9 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers,source,date_pulled
-"Euler Law Offices, LLC",,,https://directory-kard.kscourts.gov/Home/Details?regNum=19354,Troy,KS,Doniphan,(785) 985-4000,,General,137 S Main P.O. Box 326,66087,,2,2,KS Courts Registry,2026-08-17
-Parker Law LLC,,,https://directory-kard.kscourts.gov/Home/Details?regNum=19943,Highland,KS,Doniphan,(785) 442-3281,,General,314 W Main PO Box 23,66035,,2,1,KS Courts Registry,2026-08-17
-"Reeder & Boeh, Chtd",,,https://directory-kard.kscourts.gov/Home/Details?regNum=8412,Troy,KS,Doniphan,(785) 985-2576,,General,206 South Main PO Box 486,66087,,2,1,KS Courts Registry,2026-08-17
-"Brey Law, LLC",,,https://directory-kard.kscourts.gov/Home/Details?regNum=29660,Highland,KS,Doniphan,(785) 284-8717,,General,PO Box 23 314 W Main St,66035,,2,1,KS Courts Registry,2026-08-17
-Johnson Law Office,,,https://directory-kard.kscourts.gov/Home/Details?regNum=13787,Troy,KS,Doniphan,(785) 985-2121,,General,130 E Walnut PO Box 206,66087,,2,1,KS Courts Registry,2026-08-17
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+Alan Boeh,https://lawyers.justia.com/lawyer/alan-boeh-920361,,https://lawyers.justia.com/lawyer/alan-boeh-920361,Troy,KS,Doniphan,(785) 985-3811,,General,206 S Main St,66087,Troy,4
+Attorney Pamela Blevins,https://lawyers.justia.com/lawyer/pamela-blevins-920466,,https://lawyers.justia.com/lawyer/pamela-blevins-920466,Highland,KS,Doniphan,,,General,619 235th Rd,66035,Troy,4
+Attorney Roy Roper,https://www.roperlegal.com,,https://lawyers.justia.com/lawyer/roy-roper-916642,Troy,KS,Doniphan,(785) 985-2101,,Criminal Defense,137 W Walnut St,66087,Troy,5
+Attorney William R McQuillan,https://www.google.com/search?q=Mc+Quillan+William+R+Troy+KS&ludocid=10001756517955700590,https://www.google.com/search?q=Mc+Quillan+William+R+Troy+KS&ludocid=10001756517955700590,,Troy,KS,Doniphan,(785) 985-2758,,General,113 S Main St,66087,Troy,4
+Collins Law LLC,https://directory-kard.kscourts.gov/Home/Details?regNum=9642,,https://directory-kard.kscourts.gov/Home/Details?regNum=9642,Highland,KS,Doniphan,785-442-3281,,General,"314 W Main, PO Box 307",66035,Troy,4
+Euler Law Offices,http://www.eulerlawofficeks.com/,https://www.google.com/search?q=Euler+Law+Offices+Troy+KS&ludocid=1427061940993795170,,Troy,KS,Doniphan,(785) 985-3561,eulerlaw@carsoncomm.com,Social Security Disability,137 S Main St,66087,Troy,1
+Johnson Law Office,https://dpcountyks.com/directory/johnson-law-office,,,Troy,KS,Doniphan,785-985-2121,rjohnson@rainbowtel.net,Family Law,"130 E Walnut, PO Box 206",66087,Troy,4
+"Reeder & Boeh, Chtd",https://directory-kard.kscourts.gov/Home/Details?regNum=8412,,https://directory-kard.kscourts.gov/Home/Details?regNum=8412,Troy,KS,Doniphan,785-985-2576,,General,"206 South Main, PO Box 486",66087,Troy,4

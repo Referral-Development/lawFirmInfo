@@ -1,7 +1,18 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers
-Bush Bush & Shanelec,,,https://directory-kard.kscourts.gov/Home/Details?regNum=23684,Lyons,KS,Rice,620-257-2374,,General,111 E Ave N PO Box 327,67554,,2,
-David L. Serrault Law Office,,,https://directory-kard.kscourts.gov/Home/Details?regNum=11662,Lyons,KS,Rice,620-680-6028,,General,PO Box 5 110 East Avenue North,67554-0005,,2,
-"Mark A. Tremaine, Attorney at Law",,,https://directory-kard.kscourts.gov/Home/Details?regNum=18838,Sterling,KS,Rice,620-257-7900,,General,PO Box 84 908 N Broadway,67579,,2,
-Brock Behnke,,,https://directory-kard.kscourts.gov/Home/Details?regNum=19413,Geneseo,KS,Rice,620-562-0247,,General,1665 Avenue B,67444,,2,
-Bush Bush & Shanelec,,,https://directory-kard.kscourts.gov/Home/Details?regNum=8193,Sterling,KS,Rice,620-278-2331,,General,P.O. Box 6,67579,,2,
-Randall C. Henry,,,https://directory-kard.kscourts.gov/Home/Details?regNum=8706,Sterling,KS,Rice,620-278-2880,,General,"113 S Broadway, PO Box 25",67579,,2,
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+Attorney Adrian Farver,https://lawyers.justia.com/lawyer/adrian-farver-916013,,https://lawyers.justia.com/lawyer/adrian-farver-916013,Little River,KS,Rice,(620) 897-5566,,General,1595 27th Rd,67457,Lyons,4
+Attorney Andrew L Oswald,https://www.google.com/search?q=Oswald+Andrew+L+Sterling+KS&ludocid=8091137633146646288,https://www.google.com/search?q=Oswald+Andrew+L+Sterling+KS&ludocid=8091137633146646288,,Sterling,KS,Rice,(620) 278-2880,,General,113 S Broadway Ave,67579,Lyons,4
+Attorney Brock Behnke,https://directory-kard.kscourts.gov/Home/Details?regNum=19413,,https://directory-kard.kscourts.gov/Home/Details?regNum=19413,Geneseo,KS,Rice,620-562-0247,,General,1665 Avenue B,67444,Lyons,4
+Attorney Daniel Shanelec,https://lawyers.justia.com/lawyer/daniel-shanelec-921372,,https://lawyers.justia.com/lawyer/daniel-shanelec-921372,Sterling,KS,Rice,(620) 278-2331,,General,229 S Broadway Ave,67579,Lyons,4
+Attorney Don Alvord,https://lawyers.justia.com/lawyer/don-alvord-921305,,https://lawyers.justia.com/lawyer/don-alvord-921305,Lyons,KS,Rice,(620) 257-2384,,General,101 W Commercial St,67554,Lyons,4
+Attorney Dwight Radke,https://lawyers.justia.com/lawyer/dwight-radke-917301,,https://lawyers.justia.com/lawyer/dwight-radke-917301,Lyons,KS,Rice,,,General,1227 W Noble St,67554,Lyons,4
+Attorney Firman Gladow,https://lawyers.justia.com/lawyer/firman-gladow-918042,,https://lawyers.justia.com/lawyer/firman-gladow-918042,Lyons,KS,Rice,(620) 257-5134,,General,114 East Ave S,67554,Lyons,4
+Attorney Granville M. Bush IV,https://www.avvo.com/attorneys/67579-ks-granville-bush-4368420.html,,https://www.avvo.com/attorneys/67579-ks-granville-bush-4368420.html,Sterling,KS,Rice,(620) 278-2331,,Probate,Po Box 6,67579,Lyons,4
+Attorney James Kahler,https://lawyers.justia.com/lawyer/james-kahler-920038,,https://lawyers.justia.com/lawyer/james-kahler-920038,Lyons,KS,Rice,(620) 257-5151,,General,119 W Main St,67554,Lyons,4
+Attorney Jason West,https://lawyers.justia.com/lawyer/jason-west-923056,,https://lawyers.justia.com/lawyer/jason-west-923056,Sterling,KS,Rice,(620) 278-3355,,General,205 S Broadway Ave,67579,Lyons,4
+Attorney Joe G English,http://www.kansastaxattorney.com/,https://www.google.com/search?q=Joe+G+English+Attorney+Sterling+KS&ludocid=9076584873184037956,,Sterling,KS,Rice,(316) 265-7723,JoeGEnglish@Attorney-CPA.com,Tax Law,112 S Broadway Ave,67579,Lyons,1
+Attorney Lucas Matthew Cupps,https://lawyers.justia.com/lawyer/lucas-matthew-cupps-844763,,https://lawyers.justia.com/lawyer/lucas-matthew-cupps-844763,LYONS,KS,Rice,,,General,812 TERRAN AVE,67554,Lyons,4
+Attorney Matthew Levi Morris,https://www.avvo.com/attorneys/67554-ks-matthew-morris-4853910.html,,https://www.avvo.com/attorneys/67554-ks-matthew-morris-4853910.html,Lyons,KS,Rice,(620) 509-2105,,Criminal Defense,"103 West Main St., Ste. B",67554,Lyons,4
+Attorney Randall C. Henry,https://directory-kard.kscourts.gov/Home/Details?regNum=8706,,https://directory-kard.kscourts.gov/Home/Details?regNum=8706,Sterling,KS,Rice,620-278-2880,,General,"113 S Broadway, PO Box 25",67579,Lyons,4
+Bush Bush & Shanelec,http://www.bbslawyers.net/,https://www.google.com/search?q=Bush+Bush+%26+Shanelec+Lyons+KS&ludocid=15183123914385966809,,Lyons,KS,Rice,(620) 257-2374,,Personal Injury,111 East Ave N,67554,Lyons,5
+David L. Serrault Law Office,,,,Lyons,KS,Rice,620-680-6028,serraultlaw@dsl.kscoxmail.com,Criminal Defense,"PO Box 5, 110 East Avenue North",67427,Lyons,5
+"Mark A. Tremaine, Attorney at Law",https://www.google.com/search?q=Mark+A.+Tremaine%2C+Attorney+at+Law+Sterling+KS&ludocid=6440213627621104593,https://www.google.com/search?q=Mark+A.+Tremaine%2C+Attorney+at+Law+Sterling+KS&ludocid=6440213627621104593,,Sterling,KS,Rice,(620) 257-7900,,General,908 N Broadway Ave,67579,Lyons,4

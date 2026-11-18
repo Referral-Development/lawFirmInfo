@@ -1,9 +1,11 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers
-Bambick Joseph M,,,,Fredonia,KS,Wilson,(620) 378-2182,,General,430 N 7th St,66736,,4,
-"Cherilyn Hearn, Attorney at Law",,,,Fredonia,KS,Wilson,(620) 652-1029,myksattorney@gmail.com,Criminal Defense,PO Box 521,66736,,5,
-"Green Law Office, LLC",,,,Fredonia,KS,Wilson,(620) 291-4811,,General,522 Madison St,66736,,4,
-Harris Law Office,http://www.harris-law-office.com,,,Fredonia,KS,Wilson,(620) 378-2553,,General,712 Madison St,66736,,4,
-Holyoak Kerry D,http://www.my-kansas-lawyer.com,,,Fredonia,KS,Wilson,(620) 378-2019,,General,521 Madison St,66736,,4,
-Depew Law Firm,http://www.depewlaw.net/,https://www.google.com/maps/place/?q=place_id:ChIJGbMYr3g0uIcRBH8lohUL55o,,Neodesha,KS,Wilson,(620) 325-2626,doug@depewlaw.net,Family Law,620 Main St,66757,,4,
-Gary House Attorney,,,https://directory-kard.kscourts.gov/Home/Details?regNum=6199,Neodesha,KS,Wilson,(620) 870-0418,,General,P.O. Box 6,66757,,2,
-John K Chenoweth,,,https://directory-kard.kscourts.gov/Home/Details?regNum=11066,Fredonia,KS,Wilson,(620) 288-0794,,General,PO Box 478 8801 Harper,66736-0478,,2,
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+Attorney Carl Asmussen,https://lawyers.justia.com/lawyer/carl-asmussen-922279,,https://lawyers.justia.com/lawyer/carl-asmussen-922279,Neodesha,KS,Wilson,,,General,1112 N 5th St,66757,Fredonia,4
+Attorney David William Rogers,https://www.avvo.com/attorneys/66736-ks-david-rogers-4362647.html,,https://www.avvo.com/attorneys/66736-ks-david-rogers-4362647.html,Fredonia,KS,Wilson,(620) 378-4361,,General,615 Madison St Rm 214,66736,Fredonia,4
+Attorney Fred Lorentz,https://lawyers.justia.com/lawyer/fred-lorentz-924207,,https://lawyers.justia.com/lawyer/fred-lorentz-924207,Fredonia,KS,Wilson,(620) 378-3863,,General,606 S 7th St,66736,Fredonia,4
+Attorney Gary Robert House,https://www.avvo.com/attorneys/66757-ks-gary-house-4370510.html,,https://www.avvo.com/attorneys/66757-ks-gary-house-4370510.html,Neodesha,KS,Wilson,(620) 870-0418,,General,Po Box 6,66757,Fredonia,4
+Attorney Rebecca Fields,https://lawyers.justia.com/lawyer/rebecca-fields-863404,,https://lawyers.justia.com/lawyer/rebecca-fields-863404,Fredonia,KS,Wilson,,,General,135 S 5th St,66736,Fredonia,4
+Attorney Rustin Rankin,https://lawyers.justia.com/lawyer/rustin-rankin-916358,,https://lawyers.justia.com/lawyer/rustin-rankin-916358,Fredonia,KS,Wilson,(620) 378-2172,,General,716 Madison St,66736,Fredonia,4
+"Cherilyn Hearn, Attorney at Law",https://directory-kard.kscourts.gov/Home/Details?regNum=29694,,https://directory-kard.kscourts.gov/Home/Details?regNum=29694,Fredonia,KS,Wilson,620-652-1029,myksattorney@gmail.com,Criminal Defense,PO Box 521,66736,Fredonia,5
+Depew Law Firm,http://www.depewlaw.net/,https://www.google.com/search?q=Depew+Law+Firm+Neodesha+KS&ludocid=11161902389003648772,,Neodesha,KS,Wilson,(620) 325-2626,doug@depewlaw.net,Family Law,620 Main St,66757,Fredonia,4
+Green Law Office,http://www.greenlaw.llc/,https://www.google.com/search?q=Jacob+Green+-+Green+Law+Office+Fredonia+KS&ludocid=9766362538369883995,,Fredonia,KS,Wilson,(620) 378-4444,info@greenlaw.llc,Personal Injury,620 Madison St,66736,Fredonia,5
+Prairie Nut Hut,https://www.google.com/search?q=Prairie+Nut+Hut+Altoona+KS&ludocid=5748524336276955435,https://www.google.com/search?q=Prairie+Nut+Hut+Altoona+KS&ludocid=5748524336276955435,,Altoona,KS,Wilson,(620) 568-2900,,General,1306 Quincy St,66710,Fredonia,4

@@ -1,5 +1,12 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers
-James D Watson Attorney,,https://www.google.com/maps/place/?q=place_id:ChIJpQ5iMJt4uYcREHN9AKluydY,,Eureka,KS,Greenwood,(620) 583-5778,,General,306 W 3rd St,67045,,4,
-Mary Ann Becker Shirley,,,,Eureka,KS,Greenwood,620-583-6844,,General,504 N Main St,67045-1316,,4,
-"McClendon Law Firm, LLC",,https://www.google.com/maps/place/?q=place_id:ChIJDR9wkpB4uYcR41jTnmvgo2A,,Eureka,KS,Greenwood,(620) 222-0107,,General,402 N Main St,67045,,4,
-Mc Ilvain Law Office,,https://www.google.com/maps/place/?q=place_id:ChIJY7fKzxVquYcRG-W7qt8edPE,,Madison,KS,Greenwood,(620) 437-2600,,General,300 Main St,66860,,4,
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+Attorney James D Watson,https://www.google.com/search?q=James+D+Watson+Attorney+Eureka+KS&ludocid=15477023266572170000,https://www.google.com/search?q=James+D+Watson+Attorney+Eureka+KS&ludocid=15477023266572170000,,Eureka,KS,Greenwood,(620) 583-5778,,General,306 W 3rd St,67045,Eureka,4
+Attorney John Sanders,https://lawyers.justia.com/lawyer/john-sanders-918197,,https://lawyers.justia.com/lawyer/john-sanders-918197,Eureka,KS,Greenwood,(620) 583-8150,,General,311 N Main St,67045,Eureka,4
+Attorney Mary Ann Becker Shirley,,,,Eureka,KS,Greenwood,620-583-6844,,General,504 N Main St,66853,Eureka,4
+Attorney Patrick Forbes,https://lawyers.justia.com/lawyer/patrick-forbes-918309,,https://lawyers.justia.com/lawyer/patrick-forbes-918309,Eureka,KS,Greenwood,(620) 583-5508,,General,417 N Main St,67045,Eureka,4
+Attorney Phyllis K. Webster,https://www.avvo.com/attorneys/67045-ks-phyllis-webster-4369036.html,,https://www.avvo.com/attorneys/67045-ks-phyllis-webster-4369036.html,Eureka,KS,Greenwood,(620) 583-8155,,Criminal Defense,311 N Main St,67045,Eureka,4
+Attorney Zackery E. Reynolds,https://www.zackeryreynolds.com/attorneys/zackery-e-reynolds,,,Eureka,KS,Greenwood,620-644-3077,zackery_reynolds@att.net,Personal Injury,,66853,Eureka,5
+Colangelo & Taber PA,https://www.google.com/search?q=Colangelo+%26+Taber+PA+Eureka+KS&ludocid=6588818218018195976,,https://www.google.com/search?q=Colangelo+%26+Taber+PA+Eureka+KS&ludocid=6588818218018195976,Eureka,KS,Greenwood,(620) 583-5547,,General,201 N Main St,67045,Eureka,4
+Farris Legal Services LLC,https://farrislegal.net,,,Eureka,KS,Greenwood,,denise@farrislegal.net,General Practice,,66853,Eureka,4
+"McClendon Law Firm, LLC",https://www.google.com/search?q=McClendon+Law+Firm%2C+LLC+Eureka+KS&ludocid=6963656201675692259,https://www.google.com/search?q=McClendon+Law+Firm%2C+LLC+Eureka+KS&ludocid=6963656201675692259,,Eureka,KS,Greenwood,(620) 222-0107,,General,402 N Main St,67045,Eureka,4
+McIlvain Law Office,https://www.google.com/search?q=Mc+Ilvain+Law+Office+Madison+KS&ludocid=17398565206430049563,https://www.google.com/search?q=Mc+Ilvain+Law+Office+Madison+KS&ludocid=17398565206430049563,,Madison,KS,Greenwood,(620) 437-2600,,General,300 Main St,66860,Eureka,4
+"McIlvain Law Office, LLC",https://directory-kard.kscourts.gov/Home/Details?regNum=12098,,https://directory-kard.kscourts.gov/Home/Details?regNum=12098,Madison,KS,Greenwood,620-437-6786,,General,PO Box 703,66860,Eureka,4

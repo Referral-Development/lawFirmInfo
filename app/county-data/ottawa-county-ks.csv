@@ -1,3 +1,7 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers
-Allen & Associates Law LLC,,,https://directory-kard.kscourts.gov/Home/Details?regNum=14705,Minneapolis,KS,Ottawa,785-392-2105,,General,212 N Concord,67467,,2,
-Steven B. Lee,,,https://directory-kard.kscourts.gov/Home/Details?regNum=12674,Minneapolis,KS,Ottawa,785-392-3450,,General,513 Elm,67467,,2,
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+"Allen & Associates Law, LLC",https://www.allenandassociateslawllc.com/,https://www.google.com/search?q=Allen+%26+Associates+Law%2C+LLC+Minneapolis+KS&ludocid=5859834615724426099,,Minneapolis,KS,Ottawa,(785) 392-2105,j.allen-law@att.net,Personal Injury,212 N Concord St,67467,Minneapolis,5
+Attorney Betty Mick,https://lawyers.justia.com/lawyer/betty-mick-921471,,https://lawyers.justia.com/lawyer/betty-mick-921471,Minneapolis,KS,Ottawa,(785) 493-2455,,General,705 Laurel St,67467,Minneapolis,4
+Attorney Bruce Barefield,https://lawyers.justia.com/lawyer/bruce-barefield-917588,,https://lawyers.justia.com/lawyer/bruce-barefield-917588,Minneapolis,KS,Ottawa,(785) 392-2133,,General,205 W 2nd St,67467,Minneapolis,4
+Attorney Jason Christopher Parks,https://www.avvo.com/attorneys/67467-ks-jason-parks-1875700.html,,https://www.avvo.com/attorneys/67467-ks-jason-parks-1875700.html,Minneapolis,KS,Ottawa,Not Available,,General,718 N 3rd Ave,67467,Minneapolis,4
+Attorney Karen Barefield,https://lawyers.justia.com/lawyer/karen-barefield-917590,,https://lawyers.justia.com/lawyer/karen-barefield-917590,Minneapolis,KS,Ottawa,(785) 392-2133,,General,205 W 2nd St,67467,Minneapolis,4
+Attorney Steven B. Lee,,,,Minneapolis,KS,Ottawa,785-392-3450,,General,513 Elm,67467,Minneapolis,4

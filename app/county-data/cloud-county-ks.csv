@@ -1,4 +1,8 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers
-Condray Thompson & Van Horn LLC,,,https://directory-kard.kscourts.gov/Home/Details?regNum=10047,Concordia,KS,Cloud,785-243-1357,,General,812 Washington St,66901,,2,
-Susan Malone,,,https://directory-kard.kscourts.gov/Home/Details?regNum=25428,Concordia,KS,Cloud,785-243-5393,,General,1309 Crescent Ln,66901,,2,
-"Nels P. Noel, Attorney at Law",,,https://directory-kard.kscourts.gov/Home/Details?regNum=17619,Concordia,KS,Cloud,785-262-7398,,General,1525 N 150th Rd,66901,,2,
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+Attorney Stephen Nyswonger,https://lawyers.justia.com/lawyer/stephen-nyswonger-918819,,https://lawyers.justia.com/lawyer/stephen-nyswonger-918819,Concordia,KS,Cloud,(785) 243-1548,,General,421 W 6th St,66901,Concordia,4
+Attorney Susan Malone,https://directory-kard.kscourts.gov/Home/Details?regNum=25428,,https://directory-kard.kscourts.gov/Home/Details?regNum=25428,Concordia,KS,Cloud,785-243-5393,,General,1309 Crescent Ln,66901,Concordia,4
+Attorney Thomas Tuggle,https://lawyers.justia.com/lawyer/thomas-tuggle-917698,,https://lawyers.justia.com/lawyer/thomas-tuggle-917698,Concordia,KS,Cloud,(785) 243-2557,,General,304 W 9th St,66901,Concordia,4
+"Condray, Thompson & Van Horn LLC",http://condraylaw.com/,https://www.google.com/search?q=Condray%2C+Thompson+%26+Van+Horn%2C+LLC+Concordia+KS&ludocid=493821234051486418,,Concordia,KS,Cloud,(785) 243-1357,condraylaw@condraylaw.com,Family Law,812 Washington St,66901,Concordia,4
+Nels P. Noel Attorney at Law,https://www.nelspnoelcriminaldefenseattorney.com/,https://www.google.com/search?q=Nels+P.+Noel+Attorney+at+Law+Concordia+KS&ludocid=2791006738560667666,,Concordia,KS,Cloud,(785) 243-9884,nelsnoel@yahoo.com,Criminal Defense,136 W 6th St,66901,Concordia,5
+Nelson Law LLC,,,,Jamestown,KS,Cloud,785-614-4478,,General,PO Box 286,66948,Concordia,4
+Swenson Brewer & Long,,,,Concordia,KS,Cloud,(785) 243-3790,,General,613 Washington St,66901,Concordia,4

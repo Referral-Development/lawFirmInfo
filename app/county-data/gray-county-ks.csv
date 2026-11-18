@@ -1,3 +1,6 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers,source,date_pulled
-"Giardine Law, LLC",,,https://directory-kard.kscourts.gov/Home/Details?regNum=22454,Cimarron,KS,Gray,(620) 855-3414,,General,P.O. Box 1147,67835,,2,1,KS Courts Registry,2026-08-17
-Kyler G. Knobbe,,,https://directory-kard.kscourts.gov/Home/Details?regNum=8356,Cimarron,KS,Gray,(620) 855-3100,,General,PO Box 937,67835,,2,1,KS Courts Registry,2026-08-17
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+Attorney Kyler G Knobbe,https://www.google.com/search?q=Knobbe+Kyler+G+Lawyer+Cimarron+KS&ludocid=8009654863178019888,https://www.google.com/search?q=Knobbe+Kyler+G+Lawyer+Cimarron+KS&ludocid=8009654863178019888,,Cimarron,KS,Gray,(620) 855-3100,,General,109 Ave A,67835,Cimarron,4
+Attorney Patricia Ridenour,https://lawyers.justia.com/lawyer/patricia-ridenour-922578,,https://lawyers.justia.com/lawyer/patricia-ridenour-922578,Cimarron,KS,Gray,(620) 855-7051,,General,107 S Main St,67835,Cimarron,4
+Attorney Philip Ridenour,https://lawyers.justia.com/lawyer/philip-ridenour-922579,,https://lawyers.justia.com/lawyer/philip-ridenour-922579,Cimarron,KS,Gray,(620) 855-7051,,General,107 S Main St,67835,Cimarron,4
+Campbell Law Office,https://www.google.com/search?q=Campbell+Law+Office+Cimarron+KS&ludocid=2529550548062516292,https://www.google.com/search?q=Campbell+Law+Office+Cimarron+KS&ludocid=2529550548062516292,,Cimarron,KS,Gray,(620) 855-3414,,General,222 S Main St,67835,Cimarron,4
+Feltman Law Firm,http://www.feltmanlaw.com/,https://www.google.com/search?q=Feltman+Law+Firm+Cimarron+KS&ludocid=2238577456149550907,,Cimarron,KS,Gray,(620) 855-4851,info@feltmanlaw.com,Family Law,106 Ave A,67835,Cimarron,4

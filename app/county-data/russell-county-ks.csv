@@ -1,5 +1,7 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers
-Holland And Holland,,,https://directory-kard.kscourts.gov/Home/Details?regNum=18800,Russell,KS,Russell,785-483-5332,,General,P.O. Box 206,67665,,2,
-"Thompson, Arthur, Davidson & Katz",,,https://directory-kard.kscourts.gov/Home/Details?regNum=24819,Russell,KS,Russell,785-483-3195,,General,525 N Main St PO Box 111,67665,,2,
-Woelk & Cole,,,https://directory-kard.kscourts.gov/Home/Details?regNum=11003,Russell,KS,Russell,785-483-3711,,General,4 S Kansas PO Box 431,67665-0431,,2,
-Driscoll Law Office,,,https://directory-kard.kscourts.gov/Home/Details?regNum=9530,Russell,KS,Russell,785-483-5325,,General,726 N Main St PO Box 226,67665,,2,
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+Attorney Mark A Blehm,https://www.google.com/search?q=Blehm+Mark+A+Russell+KS&ludocid=11031640682291205973,https://www.google.com/search?q=Blehm+Mark+A+Russell+KS&ludocid=11031640682291205973,,Russell,KS,Russell,(785) 483-6190,,General,826 N Main St,67665,Russell,4
+Attorney Peter Williams,https://lawyers.justia.com/lawyer/peter-williams-919278,,https://lawyers.justia.com/lawyer/peter-williams-919278,Russell,KS,Russell,(785) 483-6942,,General,313 E 5th St,67665,Russell,4
+Driscoll Law Office,https://directory-kard.kscourts.gov/Home/Details?regNum=9530,,https://directory-kard.kscourts.gov/Home/Details?regNum=9530,Russell,KS,Russell,785-483-5325,,General,"726 N Main St, PO Box 226",67665,Russell,4
+Holland & Holland,https://www.google.com/search?q=Holland+%26+Holland+Russell+KS&ludocid=8002623688387285125,https://www.google.com/search?q=Holland+%26+Holland+Russell+KS&ludocid=8002623688387285125,,Russell,KS,Russell,(785) 483-5332,,General,810 N Main St,67665,Russell,4
+Thompson Arthur & Davidson,https://www.google.com/search?q=Thompson+Arthur+%26+Davidson+Russell+KS&ludocid=16722036399987124565,https://www.google.com/search?q=Thompson+Arthur+%26+Davidson+Russell+KS&ludocid=16722036399987124565,,Russell,KS,Russell,(785) 483-3195,,General,525 N Main St,67665,Russell,4
+Woelk & Cole,https://www.google.com/search?q=Woelk+%26+Cole+Russell+KS&ludocid=1723592937680183134,https://www.google.com/search?q=Woelk+%26+Cole+Russell+KS&ludocid=1723592937680183134,,Russell,KS,Russell,(785) 483-3711,,General,4 S Kansas St,67665,Russell,4

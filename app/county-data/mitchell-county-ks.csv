@@ -1,6 +1,9 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers
-"Frasier Johnson & Martin, LLC",,,https://directory-kard.kscourts.gov/Home/Details?regNum=9266,Beloit,KS,Mitchell,785-738-5723,,General,P.O. Box 369,67420,,2,
-"Noah Law Office, P.A.",,,https://directory-kard.kscourts.gov/Home/Details?regNum=12036,Beloit,KS,Mitchell,785-738-3506,,General,P.O.  Box 604,67420,,2,
-Kansas Agricultural Mediation Services,,,https://directory-kard.kscourts.gov/Home/Details?regNum=24955,Beloit,KS,Mitchell,785-569-1370,,General,2470 340th Rd,67420,,2,
-"Schroeder Law Office, LLC",,,https://directory-kard.kscourts.gov/Home/Details?regNum=23643,Beloit,KS,Mitchell,785-534-1290,,General,P.O. Box 591,67420,,2,
-"Law Office Of Scott D. Wright, LLC",,,https://directory-kard.kscourts.gov/Home/Details?regNum=21542,Beloit,KS,Mitchell,785-738-2363,,General,108 E Main,67420,,2,
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+Attorney Bonnie Wilson,https://lawyers.justia.com/lawyer/bonnie-wilson-921009,,https://lawyers.justia.com/lawyer/bonnie-wilson-921009,Beloit,KS,Mitchell,(785) 738-3144,,General,114 S Campbell Ave,67420,Beloit,4
+Attorney Jerry Harrison,https://lawyers.justia.com/lawyer/jerry-harrison-923505,,https://lawyers.justia.com/lawyer/jerry-harrison-923505,Beloit,KS,Mitchell,(785) 738-3639,,General,125 N Mill St,67420,Beloit,4
+Attorney Raymond Stein,https://lawyers.justia.com/lawyer/raymond-stein-924019,,https://lawyers.justia.com/lawyer/raymond-stein-924019,Beloit,KS,Mitchell,(785) 738-3977,,General,122 N Mill St,67420,Beloit,4
+"Frasier, Johnson & Martin, LLC",http://www.fjmlawllc.com/,https://www.google.com/search?q=Frasier%2C+Johnson+%26+Martin%2C+LLC+Beloit+KS&ludocid=8628793436132842919,,Beloit,KS,Mitchell,(785) 738-5723,jmjohnson@fjmlawllc.com,Criminal Defense,116 N Hersey Ave,67420,Beloit,5
+"Law Office of Scott D. Wright, LLC",http://www.scottwrightlaw.com/,https://www.google.com/search?q=Law+Office+of+Scott+D.+Wright%2C+LLC+Beloit+KS&ludocid=13320345519600997901,,Beloit,KS,Mitchell,(785) 738-2364,scott@scottwrightlaw.com,Estate Planning,108 E Main St,67420,Beloit,2
+Noah Law Office,https://www.google.com/search?q=Noah+Law+Office+Beloit+KS&ludocid=5947774964530300765,https://www.google.com/search?q=Noah+Law+Office+Beloit+KS&ludocid=5947774964530300765,,Beloit,KS,Mitchell,(785) 738-3506,,General,119 S Mill St,67420,Beloit,4
+Prather Law Office,https://www.google.com/search?q=Prather+Law+Office+Beloit+KS&ludocid=1890167973143320217,https://www.google.com/search?q=Prather+Law+Office+Beloit+KS&ludocid=1890167973143320217,,Beloit,KS,Mitchell,(785) 739-2660,,General,2470 340 Rd,67420,Beloit,4
+"Schroeder Law Office, LLC",https://directory-kard.kscourts.gov/Home/Details?regNum=23643,,https://directory-kard.kscourts.gov/Home/Details?regNum=23643,Beloit,KS,Mitchell,785-534-1290,,General,P.O. Box 591,67420,Beloit,4
