@@ -1,5 +1,12 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers,source,date_pulled
-John S. Waugh,,,https://directory-kard.kscourts.gov/Home/Details?regNum=18465,Eskridge,KS,Wabaunsee,(785) 449-2452,,General,123 Main St PO Box 278,66423,,2,1,KS Courts Registry,2026-08-17
-Keen A. Umbehr,,,https://directory-kard.kscourts.gov/Home/Details?regNum=22047,Alma,KS,Wabaunsee,(785) 230-8093,,General,29268 Old K18 Rd,66401,,2,1,KS Courts Registry,2026-08-17
-Dan Riley Law,,,https://directory-kard.kscourts.gov/Home/Details?regNum=15658,Maple Hill,KS,Wabaunsee,(785) 969-1498,,General,22122 Bradford Rd,66507,,2,1,KS Courts Registry,2026-08-17
-Jack Turner,,,https://directory-kard.kscourts.gov/Home/Details?regNum=16595,Alma,KS,Wabaunsee,(785) 317-4004,,General,PO Box 537,66401,,2,1,KS Courts Registry,2026-08-17
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+Attorney Amy Dale,https://lawyers.justia.com/lawyer/amy-dale-921733,,https://lawyers.justia.com/lawyer/amy-dale-921733,Maple Hill,KS,Wabaunsee,(785) 256-4344,,General,207 Sunset Ln,66507,Alma,4
+Attorney Charles Dedmon,,,,Alma,KS,Wabaunsee,785-765-3650,cddedmon@hotmail.com,Criminal Defense,,66401,Alma,5
+Attorney Charles W Waugh,https://www.google.com/search?q=Waugh+Charles+W+Eskridge+KS&ludocid=7740765908814977148,https://www.google.com/search?q=Waugh+Charles+W+Eskridge+KS&ludocid=7740765908814977148,,Eskridge,KS,Wabaunsee,(785) 449-2452,,General,123 S Main St,66423,Alma,4
+Attorney Dan C. Riley,https://www.avvo.com/attorneys/66507-ks-dan-riley-4362010.html,,https://www.avvo.com/attorneys/66507-ks-dan-riley-4362010.html,Maple Hill,KS,Wabaunsee,(785) 969-1498,,General,22122 Bradford Rd,66507,Alma,4
+Attorney Heather Ann Stuewe,https://www.avvo.com/attorneys/66507-ks-heather-stuewe-4370860.html,,https://www.avvo.com/attorneys/66507-ks-heather-stuewe-4370860.html,Maple Hill,KS,Wabaunsee,(785) 341-5126,,General,28067 Keene Rd,66507,Alma,4
+Attorney Jack Turner,https://directory-kard.kscourts.gov/Home/Details?regNum=16595,,https://directory-kard.kscourts.gov/Home/Details?regNum=16595,Alma,KS,Wabaunsee,785-317-4004,,General,PO Box 537,66401,Alma,4
+Attorney John S. Waugh,https://directory-kard.kscourts.gov/Home/Details?regNum=5144,,https://directory-kard.kscourts.gov/Home/Details?regNum=5144,Eskridge,KS,Wabaunsee,785-449-2452,,General,"123 Main St, PO Box 278",66423,Alma,4
+Attorney Keen A. Umbehr,https://directory-kard.kscourts.gov/Home/Details?regNum=22047,,https://directory-kard.kscourts.gov/Home/Details?regNum=22047,Alma,KS,Wabaunsee,785-230-8093,,General,29268 Old K18 Rd,66401,Alma,4
+Attorney Richard H Mohler,https://directory-kard.kscourts.gov/Home/Details?regNum=8976,,https://directory-kard.kscourts.gov/Home/Details?regNum=8976,Harveyville,KS,Wabaunsee,785-589-2304,,General,"148 W Oak St, PO Box 124",66431,Alma,4
+Attorney Starla Borg Nelson,https://www.avvo.com/attorneys/66834-ks-starla-nelson-4374879.html,,https://www.avvo.com/attorneys/66834-ks-starla-nelson-4374879.html,Alta Vista,KS,Wabaunsee,(785) 614-4478,,General,Po Box 117,66834,Alma,4
+Baldock & Turner LLP,https://www.google.com/search?q=Baldock+%26+Turner+Llp+Alma+KS&ludocid=1299033457121277731,https://www.google.com/search?q=Baldock+%26+Turner+Llp+Alma+KS&ludocid=1299033457121277731,,Alma,KS,Wabaunsee,(785) 765-3392,,General,114 W 3rd St,66401,Alma,4

@@ -1,4 +1,9 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers,source,date_pulled
-Hagerman & Colglazier LLC,,,https://directory-kard.kscourts.gov/Home/Details?regNum=10459,Larned,KS,Pawnee,(620) 285-3157,,General,102 W 6th St PO Box 360,67550,,2,2,KS Courts Registry,2026-08-17
-Pawnee County Magistrate Judge,,,https://directory-kard.kscourts.gov/Home/Details?regNum=12769,Larned,KS,Pawnee,(620) 285-6937,,General,PO  Box 270,67550,,2,1,KS Courts Registry,2026-08-17
-Law Office of Heather Helvie,,,https://directory-kard.kscourts.gov/Home/Details?regNum=16821,Larned,KS,Pawnee,(620) 285-7446,,General,412 Broadway Po Box 75,67550,,2,1,KS Courts Registry,2026-08-17
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+Attorney Bruce T. Gatterman,https://www.avvo.com/attorneys/67550-ks-bruce-gatterman-4358684.html,,https://www.avvo.com/attorneys/67550-ks-bruce-gatterman-4358684.html,Larned,KS,Pawnee,(620) 285-2247,,General,Po Box K,67550,Larned,4
+Attorney Douglas Brunson,https://lawyers.justia.com/lawyer/douglas-brunson-920572,,https://lawyers.justia.com/lawyer/douglas-brunson-920572,Larned,KS,Pawnee,(620) 285-7099,,General,117 W 5th St,67550,Larned,4
+Attorney John Settle,https://lawyers.justia.com/lawyer/john-settle-917238,,https://lawyers.justia.com/lawyer/john-settle-917238,Burdett,KS,Pawnee,(620) 793-0576,,General,205 Pawnee,67523,Larned,4
+Attorney Julie Fletcher Cowell,https://lawyers.justia.com/lawyer/julie-fletcher-cowell-922997,,https://lawyers.justia.com/lawyer/julie-fletcher-cowell-922997,Larned,KS,Pawnee,(620) 285-2044,,General,501 W 5th St,67550,Larned,4
+Attorney Louis James,https://lawyers.justia.com/lawyer/louis-james-922435,,https://lawyers.justia.com/lawyer/louis-james-922435,Larned,KS,Pawnee,(620) 285-2123,,General,620 W 17th St,67550,Larned,4
+Hagerman & Colglazier LLC,http://www.larnedks.org/business-directory-1/category/hagerman-colglazier,,,Larned,KS,Pawnee,620-285-3157,shaun@hc-law.net,Divorce,"102 W 6th St, PO Box 360",67550,Larned,3
+Law Offices of Helvie & Cowell,https://www.google.com/search?q=Law+Offices+of+Helvie+%26+Cowell+Larned+KS&ludocid=15735509355941839838,https://www.google.com/search?q=Law+Offices+of+Helvie+%26+Cowell+Larned+KS&ludocid=15735509355941839838,,Larned,KS,Pawnee,(620) 285-7446,,General,412 Broadway St,67550,Larned,4
+"Simmons & Simmons, Inc.",http://www.simmonsandsimmonsinc.com/,https://www.google.com/search?q=Simmons+%26+Simmons%2C+Inc.+Larned+KS&ludocid=10798813539272066397,,Larned,KS,Pawnee,(620) 285-6061,,Social Security Disability,111 E 8th St,67550,Larned,1
