@@ -1,3 +1,10 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers,source,date_pulled
-Morris County Counselor,,,https://directory-kard.kscourts.gov/Home/Details?regNum=13702,Council Grove,KS,Morris,(620) 767-5899,,General,501 W. Main St,66846,,2,1,KS Courts Registry,2026-08-17
-Patricia Finney,,,https://directory-kard.kscourts.gov/Home/Details?regNum=11649,Council Grove,KS,Morris,(620) 340-3845,,General,280 Road 300,66846,,2,1,KS Courts Registry,2026-08-17
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+Attorney Darrel Bryant,https://lawyers.justia.com/lawyer/darrel-bryant-923604,,https://lawyers.justia.com/lawyer/darrel-bryant-923604,Council Grove,KS,Morris,(620) 767-6831,,General,223 W Main St,66846,Council Grove,4
+Attorney John White,https://lawyers.justia.com/lawyer/john-white-916939,,https://lawyers.justia.com/lawyer/john-white-916939,Council Grove,KS,Morris,(620) 767-5138,,General,11 S Neosho St,66846,Council Grove,4
+Attorney Julie Hower,https://lawyers.justia.com/lawyer/julie-hower-918665,,https://lawyers.justia.com/lawyer/julie-hower-918665,Council Grove,KS,Morris,(620) 767-5138,,General,11 S Neosho St,66846,Council Grove,4
+Attorney Margaret White,https://lawyers.justia.com/lawyer/margaret-white-916944,,https://lawyers.justia.com/lawyer/margaret-white-916944,Council Grove,KS,Morris,(620) 767-6046,,General,214 W Main St,66846,Council Grove,4
+Attorney Nina Miley,https://lawyers.justia.com/lawyer/nina-miley-919592,,https://lawyers.justia.com/lawyer/nina-miley-919592,White City,KS,Morris,(785) 349-2447,,General,101 W MacKenzie St,66872,Council Grove,4
+Attorney Tera Allan,https://www.willallanlaw.com/tera-allan,,,Council Grove,KS,Morris,,tallan@willallanlaw.com,Personal Injury,,66846,Council Grove,5
+Bulldog Law,https://www.thebulldog.law,,,Council Grove,KS,Morris,888-928-1609,,Personal Injury,,66846,Council Grove,5
+Iverson Law Office,https://www.iversonlawoffice-ks.com/,https://www.google.com/search?q=Iverson+Law+Office+Council+Grove+KS&ludocid=5309388350572885200,,Council Grove,KS,Morris,(620) 767-6825,,General,103 N Union St,66846,Council Grove,4
+Oleen Law Firm,https://www.google.com/search?q=Oleen+Law+Firm+Dwight+KS&ludocid=13503906455332732729,https://www.google.com/search?q=Oleen+Law+Firm+Dwight+KS&ludocid=13503906455332732729,,Dwight,KS,Morris,(785) 482-3511,,General,624 Main St,66849,Council Grove,4

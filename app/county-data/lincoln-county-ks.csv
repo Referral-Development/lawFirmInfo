@@ -1,2 +1,5 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers
-Susan Marshall Attorney,,,https://directory-kard.kscourts.gov/Home/Details?regNum=9234,Lincoln,KS,Lincoln,785-524-4431,,General,145 E Lincoln Po Box 389,67455,,2,
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+Attorney Brian Grace,https://lawyers.justia.com/lawyer/brian-grace-920086,,https://lawyers.justia.com/lawyer/brian-grace-920086,Lincoln Center,KS,Lincoln,(785) 524-4280,,General,153 W Lincoln Ave,67455,Lincoln,4
+Attorney Robert Crangle,https://lawyers.justia.com/lawyer/robert-crangle-1502161,,https://lawyers.justia.com/lawyer/robert-crangle-1502161,Lincoln,KS,Lincoln,(785) 524-5050,,General,117 N. 4th,67455,Lincoln,4
+Attorney Susan Marshall,https://directory-kard.kscourts.gov/Home/Details?regNum=9234,,https://directory-kard.kscourts.gov/Home/Details?regNum=9234,Lincoln,KS,Lincoln,785-524-4431,,General,"145 E Lincoln, Po Box 389",67455,Lincoln,4
+"Metz Law Firm, Chtd.",https://www.google.com/search?q=Metz+Law+Firm%2C+Chtd.+Lincoln+KS&ludocid=9545839205308826232,https://www.google.com/search?q=Metz+Law+Firm%2C+Chtd.+Lincoln+KS&ludocid=9545839205308826232,,Lincoln,KS,Lincoln,(785) 524-4466,,General,116 S 4th St,67455,Lincoln,4

@@ -1,10 +1,6 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers
-"Charles Herd, Lawyer",,,,Sedan,KS,Chautauqua,620-582-2020,,General,"400 E Walnut St, PO Box 428",67029,,4,
-G Thomas Harris Attorney,,https://www.google.com/maps/place/?q=place_id:ChIJK_4TM1VQt4cRKr8buCkzZ04,,Sedan,KS,Chautauqua,(620) 725-3344,,General,111 E Cherokee St,67361,,4,
-Gary House Attorney,,,,Sedan,KS,Chautauqua,620-725-3129,,General,P.O. Box 6,67361,,4,
-Harris Law Office,http://www.816harrislawoffice.com,,,Sedan,KS,Chautauqua,(620) 273-4128,,General,149 E Main St,67361,,4,
-"Herd, James H",,,,Sedan,KS,Chautauqua,(620) 582-2315,,General,141 E Main St,67029,,4,
-"Paul M. Buck, Attorney at Law",,https://www.google.com/maps/place/?q=place_id:ChIJ8dQ4IflZt4cRquTosqkZ5tk,,Sedan,KS,Chautauqua,(620) 725-5500,,General,202 S Chautauqua St,67361,,4,
-The Law Office Of Daniel Heath Lampson,,,,Sedan,KS,Chautauqua,316-617-6714,lampsondaniel@yahoo.com,Criminal Defense,PO Box 4,67361,,5,
-14th Judicial District - State of Kansas,,,https://directory-kard.kscourts.gov/Home/Details?regNum=28789,Sedan,KS,Chautauqua,918-519-6806,,General,215 N. Chautauqua St,67361,,2,
-Chautauqua County,,,https://directory-kard.kscourts.gov/Home/Details?regNum=24081,Sedan,KS,Chautauqua,620-306-0533,,General,215 N Chautauqua,67361,,2,
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+Attorney G Thomas Harris,https://www.google.com/search?q=G+Thomas+Harris+Attorney+Sedan+KS&ludocid=5649540511835078442,https://www.google.com/search?q=G+Thomas+Harris+Attorney+Sedan+KS&ludocid=5649540511835078442,,Sedan,KS,Chautauqua,(620) 725-3344,,General,111 E Cherokee St,67361,Sedan,4
+Attorney Gary House,,,,Sedan,KS,Chautauqua,620-725-3129,,General,P.O. Box 6,67361,Sedan,4
+Attorney Zoe Forrester Newton,https://www.avvo.com/attorneys/67361-ks-zoe-newton-1134235.html,,https://www.avvo.com/attorneys/67361-ks-zoe-newton-1134235.html,Sedan,KS,Chautauqua,(620) 803-1660,,General,Po Box 64,67361,Sedan,4
+Law Office of Daniel Heath Lampson,https://directory-kard.kscourts.gov/Home/Details?regNum=19542,,https://directory-kard.kscourts.gov/Home/Details?regNum=19542,Sedan,KS,Chautauqua,316-617-6714,lampsondaniel@yahoo.com,Criminal Defense,PO Box 4,67361,Sedan,5
+"Paul M. Buck, Attorney at Law",https://www.google.com/search?q=Paul+M.+Buck%2C+Attorney+at+Law+Sedan+KS&ludocid=15701265367515587754,https://www.google.com/search?q=Paul+M.+Buck%2C+Attorney+at+Law+Sedan+KS&ludocid=15701265367515587754,,Sedan,KS,Chautauqua,(620) 725-5500,,General,202 S Chautauqua St,67361,Sedan,4

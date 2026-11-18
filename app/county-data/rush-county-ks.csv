@@ -1,2 +1,5 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers,source,date_pulled
-Rues Law Office,,,https://directory-kard.kscourts.gov/Home/Details?regNum=14212,La Crosse,KS,Rush,(785) 222-3200,,General,P.O. Box 780 111 W 3rd St,67548,,2,1,KS Courts Registry,2026-08-17
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+Attorney James Kepple,https://lawyers.justia.com/lawyer/james-kepple-922293,,https://lawyers.justia.com/lawyer/james-kepple-922293,La Crosse,KS,Rush,(785) 222-2511,,General,1119 Main St,67548,La Crosse,4
+Dechant & Gros Chartered,https://www.google.com/search?q=Dechant+%26+Gros+Chartered+La+Crosse+KS&ludocid=12983657624226600663,,https://www.google.com/search?q=Dechant+%26+Gros+Chartered+La+Crosse+KS&ludocid=12983657624226600663,La Crosse,KS,Rush,(785) 222-2537,,General,802 Main St,67548,La Crosse,4
+Haas Law Office LLC,https://www.google.com/search?q=Haas+Law+Office+LLC+La+Crosse+KS&ludocid=13875802319621170894,https://www.google.com/search?q=Haas+Law+Office+LLC+La+Crosse+KS&ludocid=13875802319621170894,,La Crosse,KS,Rush,(785) 222-9074,,General,815 Main St,67548,La Crosse,4
+Rues Law Office,https://directory-kard.kscourts.gov/Home/Details?regNum=14212,,https://directory-kard.kscourts.gov/Home/Details?regNum=14212,La Crosse,KS,Rush,785-222-3200,,General,"P.O. Box 780, 111 W 3rd St",67548,La Crosse,4

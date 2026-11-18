@@ -1,3 +1,3 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers,source,date_pulled
-"Terry E. Cordes, Attorney at Law",,,https://directory-kard.kscourts.gov/Home/Details?regNum=10591,Meade,KS,Meade,(620) 873-2133,,General,PO Box 1270,67864,,2,1,KS Courts Registry,2026-08-17
-Kuhns Law Office LLC,,,https://directory-kard.kscourts.gov/Home/Details?regNum=26231,Meade,KS,Meade,(620) 860-8770,,General,PO Box 430,67864,,2,1,KS Courts Registry,2026-08-17
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+Cordes Law Office,https://www.google.com/search?q=Cordes+Law+Office+Meade+KS&ludocid=6969537521627005174,https://www.google.com/search?q=Cordes+Law+Office+Meade+KS&ludocid=6969537521627005174,,Meade,KS,Meade,(620) 873-2133,,General,148 N Fowler St,67864,Meade,4
+Kuhns Law Office LLC,https://directory-kard.kscourts.gov/Home/Details?regNum=26231,,https://directory-kard.kscourts.gov/Home/Details?regNum=26231,Meade,KS,Meade,620-860-8770,,General,PO Box 430,67864,Meade,4

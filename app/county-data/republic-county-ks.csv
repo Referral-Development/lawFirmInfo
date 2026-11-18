@@ -1,3 +1,11 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers,source,date_pulled
-Thompson Law PA,,,https://directory-kard.kscourts.gov/Home/Details?regNum=17596,Scandia,KS,Republic,(785) 335-2248,,General,402 4th St PO Box 166,66966-0166,,2,,KS Courts Registry,2026-08-17
-Douglas Simms,,,https://directory-kard.kscourts.gov/Home/Details?regNum=7487,Belleville,KS,Republic,(785) 527-5206,,General,2535 Sunset Dr,66935,,2,1,KS Courts Registry,2026-08-17
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+Attorney Charles Paul Bradley,http://www.gwblaw.net,,https://lawyers.justia.com/lawyer/charles-paul-bradley-1494886,Belleville,KS,Republic,(785) 562-2375,,General,1910 M St.,66935,Belleville,4
+Attorney Frank G Spurney Jr,,,,Belleville,KS,Republic,785-527-2767,,Criminal Defense,"2022 Country Club Drive, 66935",66935,Belleville,5
+Attorney Percy H Collins Jr,https://lawyers.justia.com/lawyer/percy-h-jr-collins-918385,,https://lawyers.justia.com/lawyer/percy-h-jr-collins-918385,Belleville,KS,Republic,(785) 527-2181,,General,2626 Wesleyan Dr,66935,Belleville,4
+Attorney Timothy Girard,https://www.wrglaw.com/timothy-girard,,,Belleville,KS,Republic,,girard@wrglaw.com,Estate Planning,,66935,Belleville,2
+Cherney & Associates LLC,http://cherneyandassociates.com/,https://www.google.com/search?q=Cherney+%26+Associates+LLC+Cuba+KS&ludocid=7345643678542506328,,Cuba,KS,Republic,(785) 556-0306,amber@cherneyandassociates.com,Social Security Disability,,66940,Belleville,1
+"Finley Law Firm, PLLC",https://finleylaw.net/about,,,Belleville,KS,Republic,618-443-1947,staff@finleylaw.net,Criminal Defense,,66935,Belleville,5
+Law Office of Gary Denning,https://divorce.law/kansas/republic-county,,,Belleville,KS,Republic,,,General Practice,00082 Jurisdiction:Kansas #,66935,Belleville,4
+Swoyer & Simms,https://directory-kard.kscourts.gov/Home/Details?regNum=7487,,https://directory-kard.kscourts.gov/Home/Details?regNum=7487,Belleville,KS,Republic,785-527-5206,,General,1830 M St PO Box 39,66935,Belleville,4
+"Thompson Law, P.A.",https://www.google.com/search?q=Thompson+Law%2C+P.A.+Scandia+KS&ludocid=12349566560557713611,https://www.google.com/search?q=Thompson+Law%2C+P.A.+Scandia+KS&ludocid=12349566560557713611,https://www.facebook.com/ttlaw1,Scandia,KS,Republic,(785) 335-2248,,General,402 4th St,66966,Belleville,4
+William L Navis Law Offices,https://www.google.com/search?q=William+L+Navis+Law+Offices+Belleville+KS&ludocid=12850763871935750737,https://www.google.com/search?q=William+L+Navis+Law+Offices+Belleville+KS&ludocid=12850763871935750737,,Belleville,KS,Republic,(785) 527-2263,,General,1802 M St,66935,Belleville,4
