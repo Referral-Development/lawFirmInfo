@@ -1,4 +1,2 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers,source,date_pulled
-Judge Cathy Lucas,,,https://directory-kard.kscourts.gov/Home/Details?regNum=11700,Sublette,KS,Haskell,(620) 287-0670,,General,PO Box 873,67877,,2,1,KS Courts Registry,2026-08-17
-"Cattle Empire, LLC",,,https://directory-kard.kscourts.gov/Home/Details?regNum=12223,Satanta,KS,Haskell,(620) 649-2235,,General,2425 Road DD,67870,,2,1,KS Courts Registry,2026-08-17
-"Joseph T. Welsh, Attorney At Law",,,https://directory-kard.kscourts.gov/Home/Details?regNum=27581,Sublette,KS,Haskell,(620) 510-5030,,General,207 S Inman St PO Box 606,67877,,2,1,KS Courts Registry,2026-08-17
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+"Joseph T. Welsh, Attorney at Law",https://jtwelshlaw.com/,https://www.google.com/search?q=Joseph+T.+Welsh%2C+Attorney+at+Law+Sublette+KS&ludocid=14090825248418764730,,Sublette,KS,Haskell,(620) 510-5030,joe@jtwelshlaw.com,Personal Injury,207 S Inman St,67877,Sublette,5

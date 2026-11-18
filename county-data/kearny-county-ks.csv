@@ -1,2 +1,3 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers,source,date_pulled
-Kearny County,,,https://directory-kard.kscourts.gov/Home/Details?regNum=26105,Lakin,KS,Kearny,(620) 355-7547,,General,304 N Main St PO Box 324,67860,,2,1,KS Courts Registry,2026-08-17
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+Attorney Kevin Campbell,https://lawyers.justia.com/lawyer/kevin-campbell-916857,,https://lawyers.justia.com/lawyer/kevin-campbell-916857,Lakin,KS,Kearny,(620) 355-6398,,General,305 N Main St,67860,Lakin,4
+Attorney Richard Hodson,https://lawyers.justia.com/lawyer/richard-hodson-920300,,https://lawyers.justia.com/lawyer/richard-hodson-920300,Lakin,KS,Kearny,(620) 355-6451,,General,304 N Main St,67860,Lakin,4

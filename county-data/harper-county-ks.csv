@@ -1,4 +1,8 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers,source,date_pulled
-Esparza Law Office,https://www.elaineesparza.com/,,https://directory-kard.kscourts.gov/Home/Details?regNum=8823,Harper,KS,Harper,620-896-2788,,General,PO Box 216,67058,,2,1,KS Courts Registry; website verified manually,2026-08-17
-Newton and Forsyth,,,https://directory-kard.kscourts.gov/Home/Details?regNum=13123,Anthony,KS,Harper,620-842-5101,,General,112 E Main PO Box 68,67003,,2,1,KS Courts Registry,2026-08-17
-Philip W. Unruh,,,https://directory-kard.kscourts.gov/Home/Details?regNum=9217,Harper,KS,Harper,620-896-7301,,General,1216 Central,67058,,2,1,KS Courts Registry,2026-08-17
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+Attorney Alex Duane Sanford,https://lawyers.justia.com/lawyer/alex-duane-sanford-1166943,,https://lawyers.justia.com/lawyer/alex-duane-sanford-1166943,Anthony,KS,Harper,,,General,270 N 2nd Ave,67003,Anthony,4
+Attorney John Gaffney,https://lawyers.justia.com/lawyer/john-gaffney-922079,,https://lawyers.justia.com/lawyer/john-gaffney-922079,Anthony,KS,Harper,(620) 842-5357,,General,123 N Bluff Ave,67003,Anthony,4
+Attorney William Yandell,https://lawyers.justia.com/lawyer/william-yandell-917317,,https://lawyers.justia.com/lawyer/william-yandell-917317,Anthony,KS,Harper,,,General,113 N Bluff Ave,67003,Anthony,4
+Esparza Law Office,http://elaineesparza.com/,https://www.google.com/search?q=Esparza+Law+Office+Harper+KS&ludocid=14568904015003489554,,Harper,KS,Harper,(620) 896-2788,,Criminal Defense,705 E 10th St,67058,Anthony,5
+Law Office of Jessica C. Keneally,https://directory-kard.kscourts.gov/Home/Details?regNum=24976,,https://directory-kard.kscourts.gov/Home/Details?regNum=24976,Bluff City,KS,Harper,805-455-7528,,General,694 SE 30 Rd.,67018,Anthony,4
+Newton & Forsyth Law Office,https://www.google.com/search?q=Newton+%26+Forsyth+Law+Office+Anthony+KS&ludocid=2566262936880625293,https://www.google.com/search?q=Newton+%26+Forsyth+Law+Office+Anthony+KS&ludocid=2566262936880625293,,Anthony,KS,Harper,(620) 842-5101,,General,112 E Main St,67003,Anthony,4
+Unruh Law Office,https://www.google.com/search?q=Unruh+Law+Office+Harper+KS&ludocid=9908129567938975556,https://www.google.com/search?q=Unruh+Law+Office+Harper+KS&ludocid=9908129567938975556,,Harper,KS,Harper,(620) 896-7301,,General,1216 Central St,67058,Anthony,4

@@ -1,3 +1,6 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers
-Lacy William N Attorney At Law,,,,Yates Center,KS,Woodson,(620) 625-2145,,General,111 S State St,66783,,4,
-Wilkes & Dunn,,,,Yates Center,KS,Woodson,913-299-0229,,General,"111 South State Street, P.O. Box 273",66783,,4,
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+Attorney Chris Culver,https://www.google.com/search?q=Culver+Chris+Piqua+KS&ludocid=18212583373830673421,https://www.google.com/search?q=Culver+Chris+Piqua+KS&ludocid=18212583373830673421,,Piqua,KS,Woodson,(620) 963-2765,,General,1640 Ute Rd,66761,Yates Center,4
+Attorney James Uhlig,https://lawyers.justia.com/lawyer/james-uhlig-918005,,https://lawyers.justia.com/lawyer/james-uhlig-918005,Yates Center,KS,Woodson,,,General,307 E Washington St,66783,Yates Center,4
+Attorney William Lacy,https://lawyers.justia.com/lawyer/william-lacy-922548,,https://lawyers.justia.com/lawyer/william-lacy-922548,Yates Center,KS,Woodson,(620) 625-2145,,General,111 S State St,66783,Yates Center,4
+Roberta Lee Wilkes,https://www.avvo.com/attorneys/66783-ks-roberta-wilkes-4376047.html,,https://www.avvo.com/attorneys/66783-ks-roberta-wilkes-4376047.html,Yates Center,KS,Woodson,(816) 803-6801,,General,,66783,Yates Center,4
+Wilkes & Dunn,https://directory-kard.kscourts.gov/Home/Details?regNum=9610,,https://directory-kard.kscourts.gov/Home/Details?regNum=9610,Yates Center,KS,Woodson,913-299-0229,,General,"111 South State Street, P.O. Box 273",66783,Yates Center,4

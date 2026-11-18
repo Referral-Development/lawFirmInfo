@@ -1,4 +1,7 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers,source,date_pulled
-"Jackson Legal Group, LLC",,,https://directory-kard.kscourts.gov/Home/Details?regNum=26930,Scott City,KS,Scott,(620) 874-9844,,General,325 S Main St,67871,,2,2,KS Courts Registry,2026-08-17
-Jake W. Brooks,,,https://directory-kard.kscourts.gov/Home/Details?regNum=9943,Scott City,KS,Scott,(620) 872-7204,,General,PO Box 664,67871,,2,1,KS Courts Registry,2026-08-17
-The Law Dame,,,https://directory-kard.kscourts.gov/Home/Details?regNum=24873,Scott City,KS,Scott,(913) 592-9610,,General,807 Era St,67871,,2,1,KS Courts Registry,2026-08-17
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+Attorney Andrea Sue Hughes,https://www.avvo.com/attorneys/67871-ks-andrea-hughes-4355684.html,,https://www.avvo.com/attorneys/67871-ks-andrea-hughes-4355684.html,Scott City,KS,Scott,(913) 592-9610,,Bankruptcy & Debt,807 Era St,67871,Scott City,4
+Attorney Jake W Brooks,https://www.google.com/search?q=Brooks+Jake+W+Scott+City+KS&ludocid=1815730798296004525,https://www.google.com/search?q=Brooks+Jake+W+Scott+City+KS&ludocid=1815730798296004525,,Scott City,KS,Scott,(620) 872-7204,,General,101 E 6th St,67871,Scott City,4
+Attorney James M. McVay,https://www.avvo.com/attorneys/67871-ks-james-mcvay-1775594.html,,https://www.avvo.com/attorneys/67871-ks-james-mcvay-1775594.html,Scott City,KS,Scott,(620) 872-5885,,Workers Compensation,"PO Box 230, 101 Main St",67871,Scott City,4
+Attorney Robert Mulch,https://lawyers.justia.com/lawyer/robert-mulch-923956,,https://lawyers.justia.com/lawyer/robert-mulch-923956,Scott City,KS,Scott,(620) 872-2029,,General,3310 W Road 170,67871,Scott City,4
+"Jackson Legal Group, LLC",http://www.jacksonlegalgroup.net/,https://www.google.com/search?q=Jackson+Legal+Group%2C+LLC+Scott+City+KS&ludocid=17605886217090951438,,Scott City,KS,Scott,(620) 874-9844,,Personal Injury,325 Main St,67871,Scott City,5
+"Kenepaske, Linda Esq.",https://www.kslawnyc.com/attorney/kenepaske-linda-esq,,,Scott City,KS,Scott,646-733-4365,,Criminal Defense,,67871,Scott City,5
