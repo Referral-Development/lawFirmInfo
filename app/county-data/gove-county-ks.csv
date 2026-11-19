@@ -1,2 +1,4 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers,source,date_pulled
-Law Office of Mark F. Schmeidler,,,https://directory-kard.kscourts.gov/Home/Details?regNum=12765,Quinter,KS,Gove,(785) 754-2425,,General,"323 Main, PO Box 99",67752,,2,1,KS Courts Registry,2026-08-17
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+Law Office of Mark F. Schmeidler,https://directory-kard.kscourts.gov/Home/Details?regNum=12765,,https://directory-kard.kscourts.gov/Home/Details?regNum=12765,Quinter,KS,Gove,785-754-2425,,General,"323 Main, PO Box 99",67752,Quinter,4
+Lois Werner,https://lawyers.justia.com/lawyer/lois-werner-921546,,https://lawyers.justia.com/lawyer/lois-werner-921546,Gove City,KS,Gove,(785) 938-2235,,General,420 Broad St,67736,Quinter,4
+Attorney Philip Stover,https://lawyers.justia.com/lawyer/philip-stover-920523,,https://lawyers.justia.com/lawyer/philip-stover-920523,Quinter,KS,Gove,(785) 754-2342,,General,323 Main St,67752,Quinter,4

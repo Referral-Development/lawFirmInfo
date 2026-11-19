@@ -1,2 +1,4 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers,source,date_pulled
-Eland Law Office LLC,,,https://directory-kard.kscourts.gov/Home/Details?regNum=12054,Hoxie,KS,Sheridan,(785) 675-3217,,General,736 Main St PO Box 565,67740,,2,1,KS Courts Registry,2026-08-17
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+American Institute of Legal Advocates,https://aiolaus.com,,,Hoxie,KS,Sheridan,720-577-5277,,Personal Injury,48 hours of submitting your application. The custom plaque will take 4-6 weeks,67740,Hoxie,5
+Pratt Law,https://www.sheridancountyks.gov/pratt-law-office,https://www.google.com/search?q=Pratt+Law+Hoxie+KS&ludocid=10547624991844006404,,Hoxie,KS,Sheridan,(785) 675-3217,joe@prattlawks.com,Social Security Disability,736 Main St,67740,Hoxie,1
+Sheridan County Attorney,https://www.google.com/search?q=Sheridan+County+Attorney+Hoxie+KS&ludocid=12633582497697732016,https://www.google.com/search?q=Sheridan+County+Attorney+Hoxie+KS&ludocid=12633582497697732016,,Hoxie,KS,Sheridan,(785) 675-3762,,General,821 Main St,67740,Hoxie,4

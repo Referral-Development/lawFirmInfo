@@ -1,3 +1,5 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers,source,date_pulled
-Gayer Law P.A.,,,https://directory-kard.kscourts.gov/Home/Details?regNum=28438,Dighton,KS,Lane,(620) 242-1955,,General,PO Box 22,67839,,2,1,KS Courts Registry,2026-08-17
-"Montgomery Law, P.A.",,,https://directory-kard.kscourts.gov/Home/Details?regNum=29828,Dighton,KS,Lane,(620) 397-2523,,General,235 E Pearl PO Box 818,67839,,2,1,KS Courts Registry,2026-08-17
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+"Dale E. Pike, Chtd.",https://www.google.com/search?q=Dale+E+Pike+Chtd+Dighton+KS&ludocid=9896359274938520229,https://www.google.com/search?q=Dale+E+Pike+Chtd+Dighton+KS&ludocid=9896359274938520229,,Dighton,KS,Lane,(620) 397-2523,,General,235 E Pearl St,67839,Dighton,4
+Gayer Law PA,https://gayerlaw.com/,https://www.google.com/search?q=Gayer+Law+PA+Dighton+KS&ludocid=4548765888880494438,,Dighton,KS,Lane,(620) 242-1955,office@gayerlaw.com,Criminal Defense,145 S Lane St,67839,Dighton,5
+Shelley Selfridge,https://lawyers.justia.com/lawyer/shelley-selfridge-920228,,https://lawyers.justia.com/lawyer/shelley-selfridge-920228,Dighton,KS,Lane,(620) 397-2807,,General,144 S Lane St,67839,Dighton,4
+"Montgomery Law, P.A.",https://www.avvo.com/attorneys/67839-ks-stryder-montgomery-5335997.html,,https://www.avvo.com/attorneys/67839-ks-stryder-montgomery-5335997.html,Dighton,KS,Lane,620-397-3174,stryder-m@hotmail.com,Criminal Defense,PO Box 818,67839,Dighton,5

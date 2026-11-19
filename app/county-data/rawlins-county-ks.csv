@@ -1,3 +1,4 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers,source,date_pulled
-"Brown, Creighton & Peckham",,,https://directory-kard.kscourts.gov/Home/Details?regNum=10069,Atwood,KS,Rawlins,(785) 626-3295,,General,PO Box 46 308 Main St,67730-0046,,2,,KS Courts Registry,2026-08-17
-Lewis Beims & Holste Ltd,,,https://directory-kard.kscourts.gov/Home/Details?regNum=21765,Atwood,KS,Rawlins,(785) 626-3221,,General,509 Main Street,67730,,2,1,KS Courts Registry,2026-08-17
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+"Brown, Creighton & Peckham",https://www.browncreightonandpeckham.com/,https://www.google.com/search?q=Brown+Creighton+%26+Peckham+Atwood+KS&ludocid=13811830372706202075,,Atwood,KS,Rawlins,(785) 626-3295,bcplaw@bcplawoffice.onmicrosoft.com,Criminal Defense,308 Main St,67730,Atwood,5
+"Lewis, Beims & Holste",https://www.google.com/search?q=Lewis+Beims+%26+Holste+Atwood+KS&ludocid=1681195357253419339,https://www.google.com/search?q=Lewis+Beims+%26+Holste+Atwood+KS&ludocid=1681195357253419339,,Atwood,KS,Rawlins,(785) 626-3221,,General,509 Main St,67730,Atwood,4
+Our Team - W Les Thistle Law Office,http://parkavenuelaw.ca/our-team,,,Atwood,KS,Rawlins,(709) 364-5535,info@parkavenuelaw.ca,Personal Injury,,67730,Atwood,5

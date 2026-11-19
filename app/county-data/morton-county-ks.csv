@@ -1,3 +1,4 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers,source,date_pulled
-W&K Schmidt Farms,,,https://directory-kard.kscourts.gov/Home/Details?regNum=27102,Rolla,KS,Morton,(620) 593-4512,,General,205 Road Z,67954,,2,1,KS Courts Registry,2026-08-17
-"Graber & Johnson Law Group, LLC",https://www.graberjohnson.com,,https://directory-kard.kscourts.gov/Home/Details?regNum=21968,Elkhart,KS,Morton,(620) 697-2163,info@graberjohnson.com,Criminal Defense,PO Box 450,67950,,5,1,KS Courts Registry; website via DuckDuckGo/Google Business Profile search; email via firm website scrape,2026-08-17
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+Attorney Bradley Ambrosier,https://lawyers.justia.com/lawyer/bradley-ambrosier-922208,,https://lawyers.justia.com/lawyer/bradley-ambrosier-922208,Elkhart,KS,Morton,(620) 697-4514,,General,450 Morton St,67950,Elkhart,4
+Attorney Eric Witcher,https://lawyers.justia.com/lawyer/eric-witcher-924102,,https://lawyers.justia.com/lawyer/eric-witcher-924102,Elkhart,KS,Morton,(620) 697-4514,,General,450 Morton St,67950,Elkhart,4
+Attorney William Graybill,https://lawyers.justia.com/lawyer/william-graybill-916419,,https://lawyers.justia.com/lawyer/william-graybill-916419,Elkhart,KS,Morton,(620) 697-4514,,General,450 Morton St,67950,Elkhart,4

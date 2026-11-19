@@ -1,4 +1,5 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers
-Marla Foster Ware,,,,Moline,KS,Elk,620-374-2236,,General,321 E 5th St,67353,,4,
-Elk County and Greenwood County Attorney,,,https://directory-kard.kscourts.gov/Home/Details?regNum=25808,Howard,KS,Elk,620-374-3507,,General,127 N Pine PO Box 415,67349,,2,
-Elk County Magistrate Judge,,,https://directory-kard.kscourts.gov/Home/Details?regNum=12889,Howard,KS,Elk,620-374-2370,,General,PO Box 306,67349,,2,
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+Attorney David Brace,https://lawyers.justia.com/lawyer/david-brace-920781,,https://lawyers.justia.com/lawyer/david-brace-920781,Moline,KS,Elk,(620) 647-3238,,General,223 N Plumb St,67353,Howard,4
+Attorney Jill Ranee Gillett,https://www.avvo.com/attorneys/67349-ks-jill-gillett-4427181.html,,https://www.avvo.com/attorneys/67349-ks-jill-gillett-4427181.html,Howard,KS,Elk,(620) 374-3507,,Oil & Gas,,67349,Howard,4
+Attorney Marla Foster Ware,https://directory-kard.kscourts.gov/Home/Details?regNum=10193,,https://directory-kard.kscourts.gov/Home/Details?regNum=10193,Moline,KS,Elk,620-374-2236,,General,321 E 5th St,67353,Howard,4
+Attorney Richard D. Howard,,,,Howard,KS,Elk,,rdhoward.legal@gmail.com,Criminal Defense,,67122,Howard,5

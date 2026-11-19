@@ -1,2 +1,7 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers,source,date_pulled
-Tittel Law Office,,,https://directory-kard.kscourts.gov/Home/Details?regNum=9489,Ness City,KS,Ness,(785) 798-3376,,General,PO Box 130 112 S Pennsylvania,67560,,2,1,KS Courts Registry,2026-08-17
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+Attorney Erin Kennedy,,,,Ness City,KS,Ness,785-218-3019,,Personal Injury,"112 couples), the",67516,Ness City,5
+Attorney Nancy J Crawford,,,,Ness City,KS,Ness,913-951-5424,,Personal Injury,,67516,Ness City,5
+Attorney Basil Marhofer,https://lawyers.justia.com/lawyer/basil-marhofer-919901,,https://lawyers.justia.com/lawyer/basil-marhofer-919901,Ness City,KS,Ness,(785) 798-2518,,General,112 W Main St,67560,Ness City,4
+Craig S Crosswhite Law Office,https://www.google.com/search?q=Craig+S+Crosswhite+Law+Office+Ness+City+KS&ludocid=9528245473682030212,https://www.google.com/search?q=Craig+S+Crosswhite+Law+Office+Ness+City+KS&ludocid=9528245473682030212,,Ness City,KS,Ness,(785) 798-2111,,General,118 S Pennsylvania Ave,67560,Ness City,4
+Attorney Larry D Tittel,https://www.google.com/search?q=Tittel+Larry+D+Ness+City+KS&ludocid=11748980706506742733,https://www.google.com/search?q=Tittel+Larry+D+Ness+City+KS&ludocid=11748980706506742733,,Ness City,KS,Ness,(785) 798-3376,,General,112 S Pennsylvania Ave,67560,Ness City,4
+Tittel Law Office,https://www.google.com/search?q=Tittel+Law+Office+Ness+City+KS&ludocid=15222827530331118815,https://www.google.com/search?q=Tittel+Law+Office+Ness+City+KS&ludocid=15222827530331118815,,Ness City,KS,Ness,(785) 798-2347,,General,PO Box 130,67560,Ness City,4
