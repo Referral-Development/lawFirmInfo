@@ -1,3 +1,5 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers,source,date_pulled
-"Charles Herd, Lawyer",,,https://directory-kard.kscourts.gov/Home/Details?regNum=12809,Coldwater,KS,Comanche,(620) 582-2020,,General,400 E Walnut St PO Box 428,67029,,2,1,KS Courts Registry,2026-08-17
-James H Herd Attorney,,,https://directory-kard.kscourts.gov/Home/Details?regNum=14099,Coldwater,KS,Comanche,(620) 635-5162,,General,141 E Main St PO Box 637,67029,,2,1,KS Courts Registry,2026-08-17
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+Attorney Charles Herd,https://directory-kard.kscourts.gov/Home/Details?regNum=12809,,https://directory-kard.kscourts.gov/Home/Details?regNum=12809,Coldwater,KS,Comanche,620-582-2020,,General,"400 E Walnut St, PO Box 428",67029,Coldwater,4
+Comanche County Sheriff's Office,https://comanchecountysheriffks.com,,,Coldwater,KS,Comanche,620-582-2511,wweeiihhuuaanngg@gmail.com,General Practice,,67029,Coldwater,4
+Attorney James H Herd,https://directory-kard.kscourts.gov/Home/Details?regNum=14099,,https://directory-kard.kscourts.gov/Home/Details?regNum=14099,Coldwater,KS,Comanche,620-635-5162,,General,"141 E Main St, PO Box 637",67029,Coldwater,4
+Attorney Richard J. Rathbun II,https://lawyers.justia.com/lawyer/richard-j-ii-rathbun-922826,,https://lawyers.justia.com/lawyer/richard-j-ii-rathbun-922826,Coldwater,KS,Comanche,(620) 582-2115,,General,215 E Main St,67029,Coldwater,4

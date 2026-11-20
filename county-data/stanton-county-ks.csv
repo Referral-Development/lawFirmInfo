@@ -1,2 +1,5 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers,source,date_pulled
-Floyd Law Office LLC,,,https://directory-kard.kscourts.gov/Home/Details?regNum=21694,Johnson,KS,Stanton,(620) 492-6600,,General,PO Box 540 511 N Main St,67855,,2,1,KS Courts Registry,2026-08-17
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+"Black Law Office, P.A.",https://www.google.com/search?q=Black+Law+Office%2C+P.A.+Johnson+City+KS&ludocid=13508928333847118661,https://www.google.com/search?q=Black+Law+Office%2C+P.A.+Johnson+City+KS&ludocid=13508928333847118661,,Johnson City,KS,Stanton,(620) 492-2130,,General,101 S Main St,67855,Johnson City,4
+Attorney Douglas Johns,https://lawyers.justia.com/lawyer/douglas-johns-924276,,https://lawyers.justia.com/lawyer/douglas-johns-924276,Johnson City,KS,Stanton,(620) 492-3300,,General,204 E Weaver Ave,67855,Johnson City,4
+Floyd Law Office LLC,https://www.floydlawks.com/,https://www.google.com/search?q=Floyd+Law+Office+LLC+Johnson+City+KS&ludocid=1112227701876598621,,Johnson City,KS,Stanton,(620) 492-6600,clint.floyd@floydlawks.com,Criminal Defense,511 N Main St,67855,Johnson City,5
+Attorney Moran Tomson,https://lawyers.justia.com/lawyer/moran-tomson-916147,,https://lawyers.justia.com/lawyer/moran-tomson-916147,Johnson City,KS,Stanton,(620) 492-6800,,General,111 N Main St,67855,Johnson City,4

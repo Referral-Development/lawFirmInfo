@@ -1,2 +1,4 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers,source,date_pulled
-Wilson & Frame LLC,,,https://directory-kard.kscourts.gov/Home/Details?regNum=15084,Kinsley,KS,Edwards,(620) 659-2381,,General,PO Box 37,67547,,2,1,KS Courts Registry,2026-08-17
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+Edwards County Attorney,https://www.google.com/search?q=Edwards+County+Attorney+Kinsley+KS&ludocid=10481153169736331044,https://www.google.com/search?q=Edwards+County+Attorney+Kinsley+KS&ludocid=10481153169736331044,,Kinsley,KS,Edwards,(620) 659-3002,,General,511 Marsh Ave,67547,Kinsley,4
+New Riverside Legal,https://newriversidelegal.com/family,,,Kinsley,KS,Edwards,,,Estate Planning,000 children a year witness domestic violence.,67519,Kinsley,2
+Wilson & Frame,https://www.google.com/search?q=Wilson+%26+Frame+Kinsley+KS&ludocid=5517971316680603375,https://www.google.com/search?q=Wilson+%26+Frame+Kinsley+KS&ludocid=5517971316680603375,,Kinsley,KS,Edwards,(620) 659-2381,,General,500 Marsh Ave,67547,Kinsley,4

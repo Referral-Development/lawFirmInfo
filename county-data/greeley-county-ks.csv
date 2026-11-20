@@ -1,3 +1,3 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers,source,date_pulled
-Moser Law Office PA,https://www.moserlawoffice.com,,https://directory-kard.kscourts.gov/Home/Details?regNum=26787,Tribune,KS,Greeley,(620) 376-4325,,Personal Injury,P.O. Box 429,67879,,5,2,KS Courts Registry; website via DuckDuckGo/Google Business Profile search,2026-08-17
-Greeley Co. Magistrate Judge,,,https://directory-kard.kscourts.gov/Home/Details?regNum=10571,Tribune,KS,Greeley,(620) 260-2513,,General,PO Box 516 616 Second St,67879,,2,1,KS Courts Registry,2026-08-17
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+Moser Law Office PA,https://www.moserlawoffice.com/,https://www.google.com/search?q=Moser+Law+Office+Pa+Tribune+KS&ludocid=11411750050675452291,,Tribune,KS,Greeley,(620) 376-4325,,Social Security Disability,113 W Greeley Ave,67879,Tribune,1
+Attorney Wade Dixon,https://lawyers.justia.com/lawyer/wade-dixon-921042,,https://lawyers.justia.com/lawyer/wade-dixon-921042,Tribune,KS,Greeley,(620) 376-4258,,General,616 2nd St,67879,Tribune,4

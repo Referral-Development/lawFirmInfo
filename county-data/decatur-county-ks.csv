@@ -1,3 +1,4 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers,source,date_pulled
-Hirsch & Abbott Law Office,,,https://directory-kard.kscourts.gov/Home/Details?regNum=28111,Oberlin,KS,Decatur,(785) 475-2296,,General,104 S Penn PO Box 296,67749,,2,2,KS Courts Registry,2026-08-17
-"Charles L. Frickey, Attorney",,,https://directory-kard.kscourts.gov/Home/Details?regNum=6985,Oberlin,KS,Decatur,(785) 475-8386,,General,PO Box 27,67749,,2,1,KS Courts Registry,2026-08-17
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+Barrett Law Firm,https://www.barrettlawfirm.org,,,Oberlin,KS,Decatur,913-530-2625,jbarrett@st-tel.net,Personal Injury,280 N Court Ave Colby,66212,Oberlin,5
+Attorney Charles L. Frickey,https://directory-kard.kscourts.gov/Home/Details?regNum=6985,,https://directory-kard.kscourts.gov/Home/Details?regNum=6985,Oberlin,KS,Decatur,785-475-8386,,General,PO Box 27,67749,Oberlin,4
+Hirsch Law Office,https://www.dccoks.org/attorney,https://www.google.com/search?q=Hirsch+Law+Office+Oberlin+KS&ludocid=20062128829226968,,Oberlin,KS,Decatur,(785) 475-2296,,Social Security Disability,104 S Penn Ave,67749,Oberlin,1

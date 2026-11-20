@@ -1,4 +1,4 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers,source,date_pulled
-"Berland Law Office, LLC",,,https://directory-kard.kscourts.gov/Home/Details?regNum=21856,Hill City,KS,Graham,(785) 421-2144,,General,105 East Cherry PO Box 38,67642,,2,1,KS Courts Registry,2026-08-17
-"Elliott Law Office, PA",,,https://directory-kard.kscourts.gov/Home/Details?regNum=21719,Hill City,KS,Graham,(785) 421-2288,,General,PO Box 128 301 N Pomeroy Ave,67642,,2,,KS Courts Registry,2026-08-17
-Graham County Courthouse,,,https://directory-kard.kscourts.gov/Home/Details?regNum=23516,Hill City,KS,Graham,(785) 421-2224,,General,410 N Pomeroy Ave Ste 9,67642,,2,1,KS Courts Registry,2026-08-17
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+Berland Law Office,https://www.google.com/search?q=Berland+Law+Office+Hill+City+KS&ludocid=4574428809739834111,https://www.google.com/search?q=Berland+Law+Office+Hill+City+KS&ludocid=4574428809739834111,,Hill City,KS,Graham,(785) 421-2144,,General,105 E Cherry St,67642,Hill City,4
+"Elliott Law Office, P.A.",http://www.jillelliottlaw.com/,https://www.google.com/search?q=Elliott+Law+Office%2C+P.A.+Hill+City+KS&ludocid=12810508561673396554,,Hill City,KS,Graham,(785) 421-2288,,Estate Planning,301 N Pomeroy Ave,67642,Hill City,2
+"Kathy Weber, Attorney-at-Law",https://www.kathyweber.com/default.php,,,Hill City,KS,Graham,,kathweber@aol.com,General Practice,,67625,Hill City,4

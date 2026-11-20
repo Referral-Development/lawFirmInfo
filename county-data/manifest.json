@@ -284,8 +284,8 @@
             "slug": "elk-county-ks",
             "name": "Elk County",
             "state": "KS",
-            "firm_count": 1,
-            "last_updated": "2026-07-22",
+            "firm_count": 4,
+            "last_updated": "2026-11-18",
             "csv_file": "elk-county-ks.csv"
         },
         {
@@ -676,8 +676,8 @@
             "slug": "chase-county-ks",
             "name": "Chase County",
             "state": "KS",
-            "firm_count": 1,
-            "last_updated": "2026-08-18",
+            "firm_count": 3,
+            "last_updated": "2026-11-18",
             "csv_file": "chase-county-ks.csv"
         },
         {
@@ -716,8 +716,8 @@
             "slug": "decatur-county-ks",
             "name": "Decatur County",
             "state": "KS",
-            "firm_count": 2,
-            "last_updated": "2026-08-18",
+            "firm_count": 3,
+            "last_updated": "2026-11-18",
             "csv_file": "decatur-county-ks.csv"
         },
         {
@@ -756,8 +756,8 @@
             "slug": "trego-county-ks",
             "name": "Trego County",
             "state": "KS",
-            "firm_count": 5,
-            "last_updated": "2026-08-18",
+            "firm_count": 8,
+            "last_updated": "2026-11-18",
             "csv_file": "trego-county-ks.csv"
         },
         {
@@ -789,7 +789,7 @@
             "name": "Graham County",
             "state": "KS",
             "firm_count": 3,
-            "last_updated": "2026-08-18",
+            "last_updated": "2026-11-18",
             "csv_file": "graham-county-ks.csv"
         },
         {
@@ -797,39 +797,39 @@
             "name": "Greeley County",
             "state": "KS",
             "firm_count": 2,
-            "last_updated": "2026-08-18",
+            "last_updated": "2026-11-18",
             "csv_file": "greeley-county-ks.csv"
         },
         {
             "slug": "hamilton-county-ks",
             "name": "Hamilton County",
             "state": "KS",
-            "firm_count": 1,
-            "last_updated": "2026-08-18",
+            "firm_count": 3,
+            "last_updated": "2026-11-18",
             "csv_file": "hamilton-county-ks.csv"
         },
         {
             "slug": "clark-county-ks",
             "name": "Clark County",
             "state": "KS",
-            "firm_count": 3,
-            "last_updated": "2026-08-18",
+            "firm_count": 7,
+            "last_updated": "2026-11-18",
             "csv_file": "clark-county-ks.csv"
         },
         {
             "slug": "lane-county-ks",
             "name": "Lane County",
             "state": "KS",
-            "firm_count": 2,
-            "last_updated": "2026-08-18",
+            "firm_count": 4,
+            "last_updated": "2026-11-18",
             "csv_file": "lane-county-ks.csv"
         },
         {
             "slug": "morton-county-ks",
             "name": "Morton County",
             "state": "KS",
-            "firm_count": 2,
-            "last_updated": "2026-08-18",
+            "firm_count": 3,
+            "last_updated": "2026-11-18",
             "csv_file": "morton-county-ks.csv"
         },
         {
@@ -852,8 +852,8 @@
             "slug": "rawlins-county-ks",
             "name": "Rawlins County",
             "state": "KS",
-            "firm_count": 2,
-            "last_updated": "2026-08-18",
+            "firm_count": 3,
+            "last_updated": "2026-11-18",
             "csv_file": "rawlins-county-ks.csv"
         },
         {
@@ -868,40 +868,40 @@
             "slug": "logan-county-ks",
             "name": "Logan County",
             "state": "KS",
-            "firm_count": 2,
-            "last_updated": "2026-08-18",
+            "firm_count": 5,
+            "last_updated": "2026-11-18",
             "csv_file": "logan-county-ks.csv"
         },
         {
             "slug": "sheridan-county-ks",
             "name": "Sheridan County",
             "state": "KS",
-            "firm_count": 1,
-            "last_updated": "2026-08-18",
+            "firm_count": 3,
+            "last_updated": "2026-11-18",
             "csv_file": "sheridan-county-ks.csv"
         },
         {
             "slug": "wallace-county-ks",
             "name": "Wallace County",
             "state": "KS",
-            "firm_count": 2,
-            "last_updated": "2026-08-18",
+            "firm_count": 3,
+            "last_updated": "2026-11-18",
             "csv_file": "wallace-county-ks.csv"
         },
         {
             "slug": "cheyenne-county-ks",
             "name": "Cheyenne County",
             "state": "KS",
-            "firm_count": 2,
-            "last_updated": "2026-08-18",
+            "firm_count": 7,
+            "last_updated": "2026-11-18",
             "csv_file": "cheyenne-county-ks.csv"
         },
         {
             "slug": "comanche-county-ks",
             "name": "Comanche County",
             "state": "KS",
-            "firm_count": 2,
-            "last_updated": "2026-08-18",
+            "firm_count": 4,
+            "last_updated": "2026-11-18",
             "csv_file": "comanche-county-ks.csv"
         },
         {
@@ -909,23 +909,23 @@
             "name": "Hodgeman County",
             "state": "KS",
             "firm_count": 1,
-            "last_updated": "2026-08-18",
+            "last_updated": "2026-11-18",
             "csv_file": "hodgeman-county-ks.csv"
         },
         {
             "slug": "edwards-county-ks",
             "name": "Edwards County",
             "state": "KS",
-            "firm_count": 1,
-            "last_updated": "2026-08-18",
+            "firm_count": 3,
+            "last_updated": "2026-11-18",
             "csv_file": "edwards-county-ks.csv"
         },
         {
             "slug": "kiowa-county-ks",
             "name": "Kiowa County",
             "state": "KS",
-            "firm_count": 1,
-            "last_updated": "2026-08-18",
+            "firm_count": 5,
+            "last_updated": "2026-11-18",
             "csv_file": "kiowa-county-ks.csv"
         },
         {
@@ -940,8 +940,8 @@
             "slug": "stanton-county-ks",
             "name": "Stanton County",
             "state": "KS",
-            "firm_count": 1,
-            "last_updated": "2026-08-18",
+            "firm_count": 4,
+            "last_updated": "2026-11-18",
             "csv_file": "stanton-county-ks.csv"
         },
         {
@@ -956,16 +956,16 @@
             "slug": "ness-county-ks",
             "name": "Ness County",
             "state": "KS",
-            "firm_count": 1,
-            "last_updated": "2026-08-18",
+            "firm_count": 6,
+            "last_updated": "2026-11-18",
             "csv_file": "ness-county-ks.csv"
         },
         {
             "slug": "gove-county-ks",
             "name": "Gove County",
             "state": "KS",
-            "firm_count": 1,
-            "last_updated": "2026-08-18",
+            "firm_count": 3,
+            "last_updated": "2026-11-18",
             "csv_file": "gove-county-ks.csv"
         },
         {
@@ -989,8 +989,8 @@
             "name": "Wichita County",
             "state": "KS",
             "csv_file": "wichita-county-ks.csv",
-            "firm_count": 0,
-            "last_updated": "2026-08-17"
+            "firm_count": 3,
+            "last_updated": "2026-11-18"
         },
         {
             "slug": "harris-county-tx",

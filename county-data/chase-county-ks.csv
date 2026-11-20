@@ -1,2 +1,4 @@
-law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority,number_of_lawyers,source,date_pulled
-American Institutes for Research,,,https://directory-kard.kscourts.gov/Home/Details?regNum=23749,Strong City,KS,Chase,(620) 412-1634,,General,526 N Cottonwood,66869,,2,1,KS Courts Registry,2026-08-17
+law_firm_name,website,google_business_profile,legal_directory_listing,city,state,county,phone_number,email,practice_area,street_address,zip_code,msa,priority
+"Gail A. Jensen, Attorney at Law",https://www.avvo.com/attorneys/66843-ks-gail-jensen-4370476.html,,https://www.avvo.com/attorneys/66843-ks-gail-jensen-4370476.html,Cedar Point,KS,Chase,316-322-3716,,General,924 70th Rd,66843,Cottonwood Falls,4
+Law Office,https://www.google.com/search?q=Law+Office+Cottonwood+Falls+KS&ludocid=8637057701755133130,https://www.google.com/search?q=Law+Office+Cottonwood+Falls+KS&ludocid=8637057701755133130,,Cottonwood Falls,KS,Chase,,,General,325 Broadway St,66845,Cottonwood Falls,4
+m n,https://lawyers.justia.com/lawyer/m-n-187203,,https://lawyers.justia.com/lawyer/m-n-187203,Cedar Point,KS,Chase,,,General,,66843,Cottonwood Falls,4
